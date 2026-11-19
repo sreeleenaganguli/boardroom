@@ -13,3 +13,7 @@ venv/
 .pytest_cache/
 htmlcov/
 .coverage
+# DuckDB database files
+*.duckdb
+*.duckdb.wal
+*.db

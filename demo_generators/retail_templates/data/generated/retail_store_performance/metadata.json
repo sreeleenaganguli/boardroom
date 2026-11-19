@@ -1,0 +1,197 @@
+{
+    "dataset_name": "Retail Store Performance",
+    "dataset_key": "retail_store_performance",
+    "description": "Compare store productivity, footfall conversion, costs, and profitability.",
+    "record_count": 10000,
+    "column_count": 15,
+    "columns": [
+        {
+            "name": "sales_date",
+            "data_type": "Date",
+            "description": "Store reporting date"
+        },
+        {
+            "name": "store_id",
+            "data_type": "String",
+            "description": "Store identifier"
+        },
+        {
+            "name": "store_name",
+            "data_type": "String",
+            "description": "Store name"
+        },
+        {
+            "name": "city",
+            "data_type": "Category",
+            "description": "Store city"
+        },
+        {
+            "name": "region",
+            "data_type": "Category",
+            "description": "Store region"
+        },
+        {
+            "name": "store_format",
+            "data_type": "Category",
+            "description": "Store format"
+        },
+        {
+            "name": "manager_id",
+            "data_type": "String",
+            "description": "Store manager identifier"
+        },
+        {
+            "name": "footfall",
+            "data_type": "Integer",
+            "description": "Number of store visitors"
+        },
+        {
+            "name": "transactions",
+            "data_type": "Integer",
+            "description": "Completed transactions"
+        },
+        {
+            "name": "units_sold",
+            "data_type": "Integer",
+            "description": "Units sold"
+        },
+        {
+            "name": "gross_sales",
+            "data_type": "Decimal",
+            "description": "Sales before reductions"
+        },
+        {
+            "name": "discount_amount",
+            "data_type": "Decimal",
+            "description": "Total discount"
+        },
+        {
+            "name": "returns_amount",
+            "data_type": "Decimal",
+            "description": "Total returns"
+        },
+        {
+            "name": "net_sales",
+            "data_type": "Decimal",
+            "description": "Net sales"
+        },
+        {
+            "name": "operating_cost",
+            "data_type": "Decimal",
+            "description": "Operating cost"
+        }
+    ],
+    "date_range": {
+        "start": "2025-01-01",
+        "end": "2025-12-31"
+    },
+    "random_seed": 42,
+    "generation_timestamp": "2026-11-19T21:14:19.196269",
+    "kpis": [
+        "Total Net Sales",
+        "Average Transaction Value",
+        "Footfall Conversion Rate",
+        "Sales Per Store",
+        "Store Profitability"
+    ],
+    "visualizations": [
+        "Daily store sales trend",
+        "Store performance comparison",
+        "Regional revenue chart",
+        "Footfall conversion chart",
+        "Store profitability chart"
+    ],
+    "analytical_questions": [
+        "Which stores generate the highest revenue?",
+        "Which stores have the best conversion rate?",
+        "Which regions have the highest operating costs?"
+    ],
+    "validation": {
+        "valid": true,
+        "total_records": 10000,
+        "total_columns": 15,
+        "validation_errors": 0
+    },
+    "data_quality": {
+        "total_records": 10000,
+        "total_columns": 15,
+        "total_null_values": 0,
+        "column_summary": {
+            "sales_date": {
+                "null_count": 0,
+                "unique_count": 365,
+                "null_percentage": 0.0
+            },
+            "store_id": {
+                "null_count": 0,
+                "unique_count": 6,
+                "null_percentage": 0.0
+            },
+            "store_name": {
+                "null_count": 0,
+                "unique_count": 6,
+                "null_percentage": 0.0
+            },
+            "city": {
+                "null_count": 0,
+                "unique_count": 6,
+                "null_percentage": 0.0
+            },
+            "region": {
+                "null_count": 0,
+                "unique_count": 3,
+                "null_percentage": 0.0
+            },
+            "store_format": {
+                "null_count": 0,
+                "unique_count": 3,
+                "null_percentage": 0.0
+            },
+            "manager_id": {
+                "null_count": 0,
+                "unique_count": 6,
+                "null_percentage": 0.0
+            },
+            "footfall": {
+                "null_count": 0,
+                "unique_count": 901,
+                "null_percentage": 0.0
+            },
+            "transactions": {
+                "null_count": 0,
+                "unique_count": 330,
+                "null_percentage": 0.0
+            },
+            "units_sold": {
+                "null_count": 0,
+                "unique_count": 643,
+                "null_percentage": 0.0
+            },
+            "gross_sales": {
+                "null_count": 0,
+                "unique_count": 9993,
+                "null_percentage": 0.0
+            },
+            "discount_amount": {
+                "null_count": 0,
+                "unique_count": 9843,
+                "null_percentage": 0.0
+            },
+            "returns_amount": {
+                "null_count": 0,
+                "unique_count": 9503,
+                "null_percentage": 0.0
+            },
+            "net_sales": {
+                "null_count": 0,
+                "unique_count": 9993,
+                "null_percentage": 0.0
+            },
+            "operating_cost": {
+                "null_count": 0,
+                "unique_count": 9929,
+                "null_percentage": 0.0
+            }
+        }
+    }
+}

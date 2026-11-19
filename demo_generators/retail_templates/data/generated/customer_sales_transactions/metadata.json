@@ -1,0 +1,197 @@
+{
+    "dataset_name": "Customer Sales Transactions",
+    "dataset_key": "customer_sales_transactions",
+    "description": "Analyze customer-level retail revenue, repeat purchase patterns, product mix, and regional contribution.",
+    "record_count": 10000,
+    "column_count": 15,
+    "columns": [
+        {
+            "name": "transaction_id",
+            "data_type": "String",
+            "description": "Unique transaction identifier"
+        },
+        {
+            "name": "customer_id",
+            "data_type": "String",
+            "description": "Synthetic customer identifier"
+        },
+        {
+            "name": "customer_name",
+            "data_type": "String",
+            "description": "Synthetic customer name"
+        },
+        {
+            "name": "gender",
+            "data_type": "Category",
+            "description": "Customer gender segment"
+        },
+        {
+            "name": "age",
+            "data_type": "Integer",
+            "description": "Customer age"
+        },
+        {
+            "name": "city",
+            "data_type": "Category",
+            "description": "Customer city"
+        },
+        {
+            "name": "region",
+            "data_type": "Category",
+            "description": "Geographic region"
+        },
+        {
+            "name": "product_id",
+            "data_type": "String",
+            "description": "Product identifier"
+        },
+        {
+            "name": "product_category",
+            "data_type": "Category",
+            "description": "Product category"
+        },
+        {
+            "name": "product_name",
+            "data_type": "String",
+            "description": "Product name"
+        },
+        {
+            "name": "quantity",
+            "data_type": "Integer",
+            "description": "Units purchased"
+        },
+        {
+            "name": "unit_price",
+            "data_type": "Decimal",
+            "description": "Price per unit"
+        },
+        {
+            "name": "discount_percentage",
+            "data_type": "Decimal",
+            "description": "Discount percentage"
+        },
+        {
+            "name": "transaction_date",
+            "data_type": "Date",
+            "description": "Transaction date"
+        },
+        {
+            "name": "total_amount",
+            "data_type": "Decimal",
+            "description": "Net transaction amount"
+        }
+    ],
+    "date_range": {
+        "start": "2025-01-01",
+        "end": "2025-12-31"
+    },
+    "random_seed": 42,
+    "generation_timestamp": "2026-11-19T21:12:50.194407",
+    "kpis": [
+        "Total Revenue",
+        "Total Orders",
+        "Average Order Value",
+        "Repeat Purchase Rate",
+        "Revenue Growth"
+    ],
+    "visualizations": [
+        "Monthly revenue line chart",
+        "Category contribution bar chart",
+        "Regional sales map",
+        "Customer purchase frequency chart",
+        "Product performance chart"
+    ],
+    "analytical_questions": [
+        "Which regions drove monthly growth?",
+        "Which customers are repeat buyers?",
+        "Which product categories generate the most revenue?"
+    ],
+    "validation": {
+        "valid": true,
+        "total_records": 10000,
+        "total_columns": 15,
+        "validation_errors": 0
+    },
+    "data_quality": {
+        "total_records": 10000,
+        "total_columns": 15,
+        "total_null_values": 0,
+        "column_summary": {
+            "transaction_id": {
+                "null_count": 0,
+                "unique_count": 10000,
+                "null_percentage": 0.0
+            },
+            "customer_id": {
+                "null_count": 0,
+                "unique_count": 1978,
+                "null_percentage": 0.0
+            },
+            "customer_name": {
+                "null_count": 0,
+                "unique_count": 12,
+                "null_percentage": 0.0
+            },
+            "gender": {
+                "null_count": 0,
+                "unique_count": 3,
+                "null_percentage": 0.0
+            },
+            "age": {
+                "null_count": 0,
+                "unique_count": 53,
+                "null_percentage": 0.0
+            },
+            "city": {
+                "null_count": 0,
+                "unique_count": 6,
+                "null_percentage": 0.0
+            },
+            "region": {
+                "null_count": 0,
+                "unique_count": 3,
+                "null_percentage": 0.0
+            },
+            "product_id": {
+                "null_count": 0,
+                "unique_count": 5,
+                "null_percentage": 0.0
+            },
+            "product_category": {
+                "null_count": 0,
+                "unique_count": 5,
+                "null_percentage": 0.0
+            },
+            "product_name": {
+                "null_count": 0,
+                "unique_count": 5,
+                "null_percentage": 0.0
+            },
+            "quantity": {
+                "null_count": 0,
+                "unique_count": 5,
+                "null_percentage": 0.0
+            },
+            "unit_price": {
+                "null_count": 0,
+                "unique_count": 5,
+                "null_percentage": 0.0
+            },
+            "discount_percentage": {
+                "null_count": 0,
+                "unique_count": 5,
+                "null_percentage": 0.0
+            },
+            "transaction_date": {
+                "null_count": 0,
+                "unique_count": 365,
+                "null_percentage": 0.0
+            },
+            "total_amount": {
+                "null_count": 0,
+                "unique_count": 120,
+                "null_percentage": 0.0
+            }
+        }
+    }
+}

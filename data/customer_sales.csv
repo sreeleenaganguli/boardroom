@@ -1,0 +1,1201 @@
+﻿Order ID,Order Date,Customer ID,Customer Segment,Region,Sales Channel,Product Category,Product Name,Units Sold,Unit Price,Gross Sales,Discount Pct,Discount Amount,Returned Units,Net Sales,Unit Cost,Total Cost,Profit,Payment Status
+SO-0000001,2024/01/04,C-00308,Small Business,West,Web,Home,Coffee Maker,2,94.03,188.06,0.0,0.0,0,188.06,53.6,107.2,80.86,Refunded
+SO-0000002,2024-01-03,C-00252,Enterprise,Midwest,Web,Electronics,Smart Speaker,1,115.96,115.96,0.15,17.39,0,98.57,68.42,68.42,30.15,Paid
+SO-0000003,2024/01/18,C-00013,Consumer,Midwest,Web,Apparel,Cotton T-Shirt,2,23.4,46.8,0.1,4.68,0,42.12,8.89,17.78,24.34,Refunded
+SO-0000004,01/09/2024,C-00067,Consumer,Northeast,Partner,Apparel,Everyday Backpack,3,58.45,175.35,0.1,17.54,0,157.81,25.13,75.39,82.42,Paid
+SO-0000005,2024/01/21,C-00287,Small Business,Southwest,Retail,Office,Mechanical Keyboard,2,104.46,208.92,0.2,41.78,0,167.14,57.45,114.9,52.24,Paid
+SO-0000006,2024-01-01,C-00185,Small Business,Southeast,Web,Electronics,Wireless Headphones,3,86.21,258.63,0.1,25.86,0,232.77,48.28,144.84,87.93,Paid
+SO-0000007,2024/01/15,C-00094,Consumer,Southwest,Retail,Electronics,Smart Speaker,2,118.12,236.24,0.0,0.0,0,236.24,69.69,139.38,96.86,Paid
+SO-0000008,date unavailable,C-00062,Small Business,West,Web,Electronics,Wireless Headphones,2,89.46,178.92,0.1,17.89,0,161.03,50.1,100.2,60.83,Refunded
+SO-0000009,2024/01/19,C-00307,Consumer,West,Web,Apparel,Trail Jacket,3,135.01,405.03,0.05,20.25,0,384.78,68.86,206.58,178.2,Paid
+SO-0000010,2024/01/17,C-00181,Consumer,Northeast,Web,Home,Air Purifier,3,156.63,469.89,0.0,0.0,0,469.89,97.11,291.33,178.56,Paid
+SO-0000011,2024/01/05,C-00036,Enterprise,West,Web,Office,Ergonomic Chair,2,279.66,559.32,0.05,27.97,0,531.35,178.98,357.96,173.39,Paid
+SO-0000012,16-Jan-2024,C-00265,Consumer,Southeast,Web,Office,Mechanical Keyboard,1,107.25,107.25,0.0,0.0,0,107.25,58.99,58.99,48.26,Paid
+SO-0000013,2024-01-09,C-00247,Consumer,Southwest,Web,Apparel,Trail Jacket,2,131.96,263.92,0.05,13.2,0,250.72,67.3,134.6,116.12,Paid
+SO-0000014,01/14/2024,C-00081,Enterprise,Midwest,Web,Apparel,Cotton T-Shirt,3,24.82,74.46,0.2,14.89,0,59.57,9.43,28.29,31.28,Refunded
+SO-0000015,09-Jan-2024,C-00088,Consumer,Northeast,Retail,Office,Monitor Stand,1,68.45,68.45,0.2,13.69,0,54.76,33.54,33.54,21.22,Paid
+SO-0000016,10-Jan-2024,C-00132,Enterprise,Southwest,Partner,Home,Coffee Maker,1,90.18,90.18,0.15,13.53,0,76.65,51.4,51.4,25.25,Pending
+SO-0000017,2024/01/20,C-00237,Enterprise,Southwest,Partner,Office,Monitor Stand,2,69.26,138.52,0.0,0.0,0,138.52,33.94,67.88,70.64,Paid
+SO-0000018,2024-01-02,C-00063,Enterprise,Midwest,Retail,Office,Mechanical Keyboard,3,107.71,323.13,0.0,0.0,0,323.13,59.24,177.72,145.41,Paid
+SO-0000019,01/04/2024,C-00015,Enterprise,Southwest,Retail,Electronics,Wireless Headphones,1,85.95,85.95,0.1,8.6,0,77.35,48.13,48.13,29.22,Paid
+SO-0000020,01/22/2024,C-00012,Enterprise,Northeast,Web,Office,Mechanical Keyboard,2,110.48,220.96,0.0,0.0,0,220.96,60.76,121.52,99.44,Refunded
+SO-0000021,27-Jan-2024,C-00125,Small Business,Southwest,Web,Home,Desk Lamp,2,41.2,82.4,0.0,0.0,0,82.4,19.78,39.56,42.84,Paid
+SO-0000022,2024-01-18,C-00281,Small Business,Southwest,Partner,Home,Desk Lamp,1,41.21,41.21,0.1,4.12,0,37.09,19.78,19.78,17.31,Refunded
+SO-0000023,23-Jan-2024,C-00136,Consumer,Southeast,Retail,Apparel,Everyday Backpack,1,60.06,60.06,0.05,3.0,0,57.06,25.83,25.83,31.23,Pending
+SO-0000024,01/13/2024,C-00044,Small Business,Southeast,Retail,Apparel,Cotton T-Shirt,2,25.33,50.66,0.0,0.0,0,50.66,9.63,19.26,31.4,Paid
+SO-0000025,2024-01-18,C-00311,Small Business,Southwest,Partner,Home,Desk Lamp,3,41.28,123.84,0.1,12.38,1,74.31,19.81,39.62,34.69,Refunded
+SO-0000026,05-Jan-2024,C-00002,Small Business,Midwest,Web,Electronics,USB-C Dock,1,70.28,70.28,0.1,7.03,0,63.25,36.55,36.55,26.7,Paid
+SO-0000027,2024-01-13,C-00266,Small Business,Southeast,Retail,Home,Desk Lamp,2,42.59,85.18,0.15,12.78,0,72.4,20.44,40.88,31.52,Paid
+SO-0000028,09-Jan-2024,C-00253,Consumer,Southwest,Web,Office,Monitor Stand,1,65.76,65.76,0.0,0.0,0,65.76,32.22,32.22,33.54,Refunded
+SO-0000029,01/13/2024,C-00061,Consumer,Midwest,Web,Home,Air Purifier,2,152.41,304.82,0.0,0.0,0,304.82,94.49,188.98,115.84,Paid
+SO-0000030,01/09/2024,C-00210,Enterprise,Midwest,Web,Home,Desk Lamp,2,42.37,84.74,0.05,4.24,0,80.5,20.34,40.68,39.82,Paid
+SO-0000031,2024-01-02,C-00172,Consumer,West,Retail,Apparel,Everyday Backpack,1,59.56,59.56,0.0,0.0,0,59.56,25.61,25.61,33.95,Paid
+SO-0000032,2024/01/22,C-00190,Consumer,Northeast,Web,Home,Desk Lamp,2,41.13,82.26,0.05,4.11,0,78.15,19.74,39.48,38.67,Paid
+SO-0000033,2024/01/23,C-00015,Enterprise,Midwest,Partner,Home,Desk Lamp,2,39.9,79.8,0.05,3.99,0,75.81,19.15,38.3,37.51,Paid
+SO-0000034,2024/01/11,C-00251,Small Business,Southeast,Web,Home,Coffee Maker,2,91.94,183.88,0.0,0.0,0,183.88,52.41,104.82,79.06,Refunded
+SO-0000035,02-Jan-2024,C-00153,Enterprise,Southwest,Retail,Apparel,Everyday Backpack,2,60.53,121.06,0.05,6.05,0,115.01,26.03,52.06,62.95,Refunded
+SO-0000036,01/28/2024,C-00055,Consumer,West,Partner,Electronics,USB-C Dock,4,76.82,307.28,0.05,15.36,0,291.92,39.95,159.8,132.12,Paid
+SO-0000037,01/25/2024,C-00201,Enterprise,West,Retail,Office,Mechanical Keyboard,2,104.86,209.72,0.0,0.0,0,209.72,57.67,115.34,94.38,Refunded
+SO-0000038,01/02/2024,C-00072,Enterprise,Midwest,Partner,Office,Monitor Stand,1,70.98,70.98,0.15,10.65,0,60.33,34.78,34.78,25.55,Refunded
+SO-0000039,2024-01-16,C-00048,Enterprise,Southwest,Retail,Apparel,Cotton T-Shirt,1,25.32,25.32,0.15,3.8,0,21.52,9.62,9.62,11.9,Refunded
+SO-0000040,28-Jan-2024,C-00047,Small Business,Southwest,Retail,Office,Mechanical Keyboard,2,107.5,215.0,0.0,0.0,0,215.0,59.13,118.26,96.74,Pending
+SO-0000041,01/24/2024,C-00226,Consumer,West,Retail,Apparel,Everyday Backpack,1,57.72,57.72,0.0,0.0,0,57.72,24.82,24.82,32.9,Paid
+SO-0000042,01/21/2024,C-00138,Enterprise,Midwest,Retail,Apparel,Everyday Backpack,4,55.84,223.36,0.0,0.0,0,223.36,24.01,96.04,127.32,Paid
+SO-0000043,2024-01-18,C-00287,Small Business,Midwest,Retail,Home,Air Purifier,2,167.96,335.92,0.05,16.8,0,319.12,104.14,208.28,110.84,Paid
+SO-0000044,2024/01/02,C-00198,Enterprise,West,Partner,Electronics,Smart Speaker,1,120.29,120.29,0.05,6.01,0,114.28,70.97,70.97,43.31,Refunded
+SO-0000045,2024/01/28,C-00267,Enterprise,Northeast,Retail,Home,Desk Lamp,1,39.57,39.57,0.1,3.96,0,35.61,18.99,18.99,16.62,Pending
+SO-0000046,01/08/2024,C-00095,Small Business,Southwest,Web,Apparel,Cotton T-Shirt,1,25.04,25.04,0.0,0.0,0,25.04,9.52,9.52,15.52,Paid
+SO-0000047,01/17/2024,C-00222,Enterprise,West,Web,Apparel,Trail Jacket,1,136.51,136.51,0.0,0.0,0,136.51,69.62,69.62,66.89,Refunded
+SO-0000048,06-Jan-2024,C-00206,Small Business,Northeast,Web,Apparel,Trail Jacket,1,130.5,130.5,0.2,26.1,0,104.4,66.56,66.56,37.84,Paid
+SO-0000049,01/07/2024,C-00019,Consumer,Midwest,Partner,Office,Mechanical Keyboard,2,109.31,218.62,0.15,32.79,0,185.83,60.12,120.24,65.59,Pending
+SO-0000050,01/02/2024,C-00023,Small Business,Southwest,Partner,Home,Desk Lamp,2,39.94,79.88,0.0,0.0,0,79.88,19.17,38.34,41.54,Paid
+SO-0000051,2024/02/18,C-00285,Enterprise,Northeast,Web,Home,Coffee Maker,2,90.94,181.88,0.0,0.0,0,181.88,51.84,103.68,78.2,Paid
+SO-0000052,2024/02/15,C-00291,Enterprise,West,Retail,Electronics,Smart Speaker,1,112.13,112.13,0.2,22.43,0,89.7,66.16,66.16,23.54,Paid
+SO-0000053,01-Feb-2024,C-00183,Enterprise,Northeast,Retail,Apparel,Everyday Backpack,3,55.14,165.42,0.1,16.54,0,148.88,23.71,71.13,77.75,Refunded
+SO-0000054,2024/02/22,C-00090,Enterprise,Southwest,Retail,Office,Ergonomic Chair,2,268.27,536.54,0.0,0.0,0,536.54,171.69,343.38,193.16,Paid
+SO-0000055,01-Feb-2024,C-00312,Enterprise,Midwest,Partner,Office,Ergonomic Chair,1,279.92,279.92,0.0,0.0,0,279.92,179.15,179.15,100.77,Paid
+SO-0000056,02/28/2024,C-00229,Consumer,West,Web,Apparel,Everyday Backpack,2,61.15,122.3,0.2,24.46,0,97.84,26.29,52.58,45.26,Paid
+SO-0000057,2024/02/23,C-00066,Enterprise,West,Web,Apparel,Everyday Backpack,2,56.08,112.16,0.1,11.22,0,100.94,24.11,48.22,52.72,Paid
+SO-0000058,2024-02-28,C-00087,Enterprise,Southwest,Retail,Apparel,Trail Jacket,2,127.92,255.84,0.1,25.58,0,230.26,65.24,130.48,99.78,Refunded
+SO-0000059, 02/11/2024 ,C-00262,Consumer,Midwest,Retail,Apparel,Cotton T-Shirt,2,23.42,46.84,0.1,4.68,0,42.16,8.9,17.8,24.36,Refunded
+SO-0000060,2024/02/14,C-00194,Small Business,Midwest,Partner,Apparel,Everyday Backpack,3,58.85,176.55,0.1,17.66,0,158.89,25.31,75.93,82.96,Paid
+SO-0000061,14-Feb-2024,C-00112,Consumer,Southwest,Web,Apparel,Cotton T-Shirt,1,23.11,23.11,0.0,0.0,0,23.11,8.78,8.78,14.33,Paid
+SO-0000062,2024-02-04,C-00098,Small Business,West,Partner,Electronics,Smart Speaker,2,122.74,245.48,0.05,12.27,0,233.21,72.42,144.84,88.37,Refunded
+SO-0000063,2024-02-26,C-00033,Enterprise,Southwest,Web,Apparel,Everyday Backpack,1,59.76,59.76,0.05,2.99,0,56.77,25.7,25.7,31.07,Refunded
+SO-0000064,2024-02-17,C-00309,Enterprise,West,Retail,Home,Air Purifier,1,157.56,157.56,0.15,23.63,0,133.93,97.69,97.69,36.24,Paid
+SO-0000065,19-Feb-2024,C-00310,Consumer,West,Web,Office,Ergonomic Chair,2,271.11,542.22,0.05,27.11,0,515.11,173.51,347.02,168.09,Refunded
+SO-0000066,15-Feb-2024,C-00127,Consumer,Northeast,Partner,Electronics,USB-C Dock,2,73.23,146.46,0.0,0.0,0,146.46,38.08,76.16,70.3,Pending
+SO-0000067, 2024/02/20 ,C-00232,Consumer,West,Web,Apparel,Trail Jacket,3,133.72,401.16,0.15,60.17,0,340.99,68.2,204.6,136.39,Pending
+SO-0000068,2024-02-15,C-00060,Enterprise,Midwest,Web,Electronics,Wireless Headphones,3,91.1,273.3,0.2,54.66,0,218.64,51.02,153.06,65.58,Paid
+SO-0000069,2024-02-02,C-00275,Small Business,West,Retail,Office,Mechanical Keyboard,3,103.33,309.99,0.05,15.5,0,294.49,56.83,170.49,124.0,Paid
+SO-0000070,19-Feb-2024,C-00013,Consumer,Midwest,Web,Office,Mechanical Keyboard,1,107.78,107.78,0.15,16.17,0,91.61,59.28,59.28,32.33,Refunded
+SO-0000071,02/06/2024,C-00245,Small Business,,Retail,Office,Ergonomic Chair,1,275.56,275.56,0.05,13.78,0,261.78,176.36,176.36,85.42,Paid
+SO-0000072,2024-02-24,C-00152,Small Business,Northeast,Partner,Apparel,Trail Jacket,1,132.38,132.38,0.1,13.24,0,119.14,67.51,67.51,51.63,Paid
+SO-0000073,02/09/2024,C-00057,Enterprise,West,Web,Apparel,Cotton T-Shirt,1,23.19,23.19,0.05,1.16,0,22.03,8.81,8.81,13.22,Paid
+SO-0000074,13-Feb-2024,C-00243,Enterprise,Northeast,Partner,Home,Desk Lamp,2,42.44,84.88,0.1,8.49,0,76.39,20.37,40.74,35.65,Paid
+SO-0000075,02/24/2024,C-00053,Small Business,Southeast,Web,Home,Desk Lamp,3,41.87,125.61,0.0,0.0,0,125.61,20.1,60.3,65.31,Paid
+SO-0000076,2024/02/03,C-00277,Consumer,Northeast,Web,Home,Desk Lamp,1,43.29,43.29,0.0,0.0,0,43.29,20.78,20.78,22.51,Refunded
+SO-0000077,24-Feb-2024,C-00251,Small Business,Southwest,Web,Office,Ergonomic Chair,1,269.59,269.59,0.1,26.96,0,242.63,172.54,172.54,70.09,Refunded
+SO-0000078,28-Feb-2024,C-00027,Enterprise,West,Web,Electronics,Smart Speaker,3,120.95,362.85,0.05,18.14,0,344.71,71.36,214.08,130.63,Paid
+SO-0000079,02/04/2024,C-00005,Small Business,Northeast,Web,Home,Air Purifier,2,157.52,315.04,0.0,0.0,0,315.04,97.66,195.32,119.72,Refunded
+SO-0000080,2024/02/10,C-00046,Consumer,Southwest,Web,Electronics,USB-C Dock,2,72.78,145.56,0.05,7.28,0,138.28,37.85,75.7,62.58,Paid
+SO-0000081,2024/02/23,C-00100,Consumer,Midwest,Web,Home,Air Purifier,3,163.42,490.26,0.0,0.0,0,490.26,101.32,303.96,186.3,Paid
+SO-0000082,2024-02-09,C-00238,Consumer,Midwest,Retail,Office,Mechanical Keyboard,1,109.86,109.86,0.0,0.0,0,109.86,60.42,60.42,49.44,Paid
+SO-0000083,2024/02/04,C-00163,Consumer,Southeast,Web,Office,Mechanical Keyboard,3,99.4,298.2,0.0,0.0,0,298.2,54.67,164.01,134.19,Refunded
+SO-0000084,2024-02-25,C-00137,Small Business,Southwest,Web,Office,Mechanical Keyboard,1,111.23,111.23,0.0,0.0,0,111.23,61.18,61.18,50.05,Paid
+SO-0000085,2024-02-23,C-00304,Consumer,Northeast,Web,Electronics,Wireless Headphones,2,91.35,182.7,0.05,9.13,0,173.57,51.16,102.32,71.25,Paid
+SO-0000086, 2024-02-07 ,C-00050,Small Business,Southwest,Partner,Electronics,Wireless Headphones,4,87.96,351.84,0.1,35.18,0,316.66,49.26,197.04,119.62,Paid
+SO-0000087,2024/02/08,C-00106,Consumer,Northeast,Partner,Apparel,Cotton T-Shirt,1,23.25,23.25,0.0,0.0,0,23.25,8.84,8.84,14.41,Paid
+SO-0000088,06-Feb-2024,C-00226,Consumer,Northeast,Web,Office,Ergonomic Chair,1,270.46,270.46,0.0,0.0,0,270.46,173.09,173.09,97.37,Refunded
+SO-0000089,24-Feb-2024,C-00098,Small Business,Southeast,Web,Electronics,USB-C Dock,2,75.26,150.52,0.15,22.58,0,127.94,39.14,78.28,49.66,Paid
+SO-0000090,02/05/2024,C-00012,Enterprise,Southwest,Web,Office,Ergonomic Chair,2,291.06,582.12,0.0,0.0,0,582.12,186.28,372.56,209.56,Paid
+SO-0000091,02/13/2024,C-00238,Consumer,Southeast,Web,Apparel,Trail Jacket,3,130.65,391.95,0.15,58.79,0,333.16,66.63,199.89,133.27,Paid
+SO-0000092, 02/27/2024 ,C-00314,Small Business,Southeast,Web,Office,Mechanical Keyboard,2,111.26,222.52,0.15,33.38,0,189.14,61.19,122.38,66.76,Paid
+SO-0000093, 2024/02/05 ,C-00305,Small Business,Midwest,Web,Apparel,Everyday Backpack,1,55.66,55.66,0.2,11.13,0,44.53,23.93,23.93,20.6,Paid
+SO-0000094,2024/02/11,C-00074,Small Business,Midwest,Partner,Electronics,Smart Speaker,2,118.47,236.94,0.0,0.0,0,236.94,69.9,139.8,97.14,Paid
+SO-0000095,02/15/2024,C-00056,Small Business,Southeast,Web,Apparel,Everyday Backpack,2,59.36,118.72,0.1,11.87,0,106.85,25.52,51.04,55.81,Refunded
+SO-0000096,2024-02-13,C-00203,Small Business,Midwest,Partner,Office,Ergonomic Chair,1,292.44,292.44,0.05,14.62,0,277.82,187.16,187.16,90.66,Pending
+SO-0000097,2024/02/03,C-00139,Consumer,Southeast,Web,Office,Mechanical Keyboard,3,107.74,323.22,0.2,64.64,0,258.58,59.26,177.78,80.8,Paid
+SO-0000098,2024-02-25,C-00013,,Southeast,,Electronics,Smart Speaker,1,116.5,116.5,0.0,0.0,0,116.5,68.73,68.73,47.77,Refunded
+SO-0000099,2024-02-29,C-00109,,Midwest,Web,Electronics,USB-C Dock,1,75.4,75.4,0.05,3.77,0,71.63,39.21,39.21,32.42,Paid
+SO-0000100,2024-02-26,C-00268,Consumer,Southwest,Web,Electronics,USB-C Dock,3,76.57,229.71,0.0,0.0,0,229.71,39.82,119.46,110.25,Paid
+SO-0000101,2024/03/10,C-00221,Small Business,Midwest,Retail,Apparel,Everyday Backpack,2,58.14,116.28,0.0,0.0,0,116.28,25.0,50.0,66.28,Pending
+SO-0000102,2024-03-13,C-00117,Enterprise,Southwest,Retail,Apparel,Everyday Backpack,4,54.79,219.16,0.05,10.96,0,208.2,23.56,94.24,113.96,Paid
+SO-0000103,11-Mar-2024,C-00309,Enterprise, southeast ,Web,Apparel,Everyday Backpack,1,56.36,56.36,0.05,2.82,0,53.54,24.23,24.23,29.31,Pending
+SO-0000104,2024/03/27,C-00214,Consumer,West,Web,Office,Ergonomic Chair,3,272.48,817.44,0.05,40.87,1,517.71,174.39,348.78,168.93,Refunded
+SO-0000105,2024/03/19,C-00090,Enterprise,Northeast,Retail,Apparel,Everyday Backpack,2,56.98,113.96,0.0,0.0,0,113.96,24.5,49.0,64.96,Paid
+SO-0000106,03/08/2024,C-00292,Consumer, west ,Retail,Office,Mechanical Keyboard,3,110.19,330.57,0.0,0.0,1,220.38,60.6,121.2,99.18,Pending
+SO-0000107,01-Mar-2024,C-00134,Small Business,Midwest,Web,Electronics,Smart Speaker,3,120.83,362.49,0.0,0.0,0,362.49,71.29,213.87,148.62,Paid
+SO-0000108,03-Mar-2024,C-00107,Small Business,Northeast,Web,Apparel,Trail Jacket,2,136.38,272.76,0.05,13.64,0,259.12,69.55,139.1,120.02,Paid
+SO-0000109,2024/03/28,C-00180,Enterprise,Southeast,Web,Home,Desk Lamp,2,40.99,81.98,0.1,8.2,0,73.78,19.68,39.36,34.42,Refunded
+SO-0000110,03/14/2024,C-00061,Consumer,Southeast,Partner,Office,Ergonomic Chair,4,267.52,1070.08,0.0,0.0,0,1070.08,171.21,684.84,385.24,Refunded
+SO-0000111,2024/03/12,C-00165,Enterprise,Southwest,Web,Electronics,USB-C Dock,1,75.54,75.54,0.0,0.0,0,75.54,39.28,39.28,36.26,Paid
+SO-0000112,23-Mar-2024,C-00040,Consumer,Midwest,Web,Apparel,Everyday Backpack,1,60.74,60.74,0.15,9.11,0,51.63,26.12,26.12,25.51,Refunded
+SO-0000113,10-Mar-2024,C-00166,Consumer,Northeast,Partner,Home,Coffee Maker,3,96.7,290.1,0.1,29.01,0,261.09,55.12,165.36,95.73,Paid
+SO-0000114,2024-03-25,C-00037,Consumer,West,Web,Office,Monitor Stand,3,64.16,192.48,0.05,9.62,0,182.86,31.44,94.32,88.54,Refunded
+SO-0000115,2024-03-23,C-00053,Small Business,Midwest,Partner,Home,Coffee Maker,5,96.39,481.95,0.0,0.0,0,481.95,54.94,274.7,207.25,Paid
+SO-0000116,03/10/2024,C-00085,Consumer,Northeast,Web,Office,Ergonomic Chair,1,290.95,290.95,0.1,29.09,0,261.86,186.21,186.21,75.65,Paid
+SO-0000117,06-Mar-2024,C-00290,Small Business,Midwest,Partner,Home,Air Purifier,2,158.73,317.46,0.1,31.75,0,285.71,98.41,196.82,88.89,Refunded
+SO-0000118,2024/03/01,C-00268,Consumer,Midwest,Partner,Home,Coffee Maker,4,94.93,379.72,0.1,37.97,0,341.75,54.11,216.44,125.31,Refunded
+SO-0000119,2024-03-26,C-00254,Small Business,Midwest,Web,Apparel,Everyday Backpack,2,59.43,118.86,0.05,5.94,0,112.92,25.55,51.1,61.82,Paid
+SO-0000120,2024-03-08,C-00252,Enterprise,Midwest,Web,Electronics,Smart Speaker,4,118.52,474.08,0.0,0.0,0,474.08,69.93,279.72,194.36,Paid
+SO-0000121,24-Mar-2024,C-00130,Consumer,Northeast,Partner,Office,Mechanical Keyboard,2,102.12,204.24,0.15,30.64,0,173.6,56.17,112.34,61.26,Refunded
+SO-0000122,2024/03/22,C-00229,Consumer,Midwest,Web,Home,Coffee Maker,3,99.09,297.27,0.0,0.0,0,297.27,56.48,169.44,127.83,Paid
+SO-0000123,2024/03/28,C-00173,Small Business,Southeast,Retail,Electronics,USB-C Dock,3,78.91,236.73,0.05,11.84,0,224.89,41.03,123.09,101.8,Pending
+SO-0000124,18-Mar-2024,C-00293,Small Business,West,Retail,Electronics,Smart Speaker,1,123.72,123.72,0.05,6.19,0,117.53,72.99,72.99,44.54,Paid
+SO-0000125,14-Mar-2024,C-00211,Consumer,Southwest,Web,Apparel,Everyday Backpack,2,54.6,109.2,0.0,0.0,0,109.2,23.48,46.96,62.24,Refunded
+SO-0000126,15-Mar-2024,C-00022,Consumer,Southeast,Web,Electronics,Smart Speaker,2,118.84,237.68,0.0,0.0,0,237.68,70.12,140.24,97.44,Paid
+SO-0000127,03/11/2024,C-00155,Small Business,Midwest,Web,Apparel,Cotton T-Shirt,3,22.68,68.04,0.2,13.61,0,54.43,8.62,25.86,28.57,Paid
+SO-0000128,03/24/2024,C-00144,Enterprise,Midwest,Retail,Office,Mechanical Keyboard,1,111.29,111.29,0.2,22.26,0,89.03,61.21,61.21,27.82,Refunded
+SO-0000129,2024/03/15,C-00039,Enterprise,Midwest,Partner,Home,Air Purifier,2,157.17,314.34,0.1,31.43,0,282.91,97.45,194.9,88.01,Paid
+SO-0000130,2024-03-06,C-00021,Enterprise,West,Retail,Office,Mechanical Keyboard,2,104.34,208.68,0.0,0.0,0,208.68,57.39,114.78,93.9,Paid
+SO-0000131,07-Mar-2024,C-00052,Consumer,Midwest,Retail,Home,Coffee Maker,4,94.86,379.44,0.1,37.94,0,341.5,54.07,216.28,125.22,Pending
+SO-0000132,2024/03/13,C-00013,Consumer,Midwest,Retail,Electronics,USB-C Dock,2,77.63,155.26,0.05,7.76,0,147.5,40.37,80.74,66.76,Refunded
+SO-0000133, 2024/03/11 ,C-00039,Enterprise,Northeast,Partner,Apparel,Cotton T-Shirt,4,23.24,92.96,0.15,13.94,0,79.02,8.83,35.32,43.7,Paid
+SO-0000134,03/03/2024,C-00232,Consumer,Northeast,Web,Office,Monitor Stand,1,68.09,68.09,0.1,6.81,0,61.28,33.36,33.36,27.92,Paid
+SO-0000135, 03/17/2024 ,C-00176,Small Business,Midwest,Retail,Apparel,Cotton T-Shirt,2,24.07,48.14,0.0,0.0,0,48.14,9.15,18.3,29.84,Paid
+SO-0000136,28-Mar-2024,C-00066,Enterprise,Southeast,Retail,Office,Ergonomic Chair,1,286.29,286.29,0.15,42.94,0,243.35,183.23,183.23,60.12,Paid
+SO-0000137,2024/03/10,C-00185,Small Business,West,Retail,Office,Monitor Stand,2,66.78,133.56,0.0,0.0,0,133.56,32.72,65.44,68.12,Paid
+SO-0000138,2024-03-23,C-00127,Consumer, southwest ,Web,Apparel,Everyday Backpack,1,55.15,55.15,0.0,0.0,0,55.15,23.71,23.71,31.44,Paid
+SO-0000139,03/22/2024,C-00175,Consumer,Southeast,Retail,Office,Monitor Stand,3,68.44,205.32,0.05,10.27,0,195.05,33.54,100.62,94.43,Pending
+SO-0000140,2024-03-07,C-00116,Small Business,Southeast,Web,Electronics,Wireless Headphones,2,90.0,180.0,0.2,36.0,0,144.0,50.4,100.8,43.2,Paid
+SO-0000141,02-Mar-2024,C-00070,Consumer,Southeast,Web,Home,Desk Lamp,1,42.98,42.98,0.0,0.0,0,42.98,20.63,20.63,22.35,Pending
+SO-0000142,03/24/2024,C-00045,Enterprise,West,Partner,Home,Coffee Maker,3,95.82,287.46,0.0,0.0,0,287.46,54.62,163.86,123.6,Paid
+SO-0000143,2024/03/31,C-00015,Enterprise,Southwest,Web,Apparel,Trail Jacket,2,131.61,263.22,0.0,0.0,0,263.22,67.12,134.24,128.98,Refunded
+SO-0000144,2024/03/08,C-00222,Enterprise,Northeast,Web,Apparel,Trail Jacket,2,130.91,261.82,0.0,0.0,0,261.82,66.76,133.52,128.3,Pending
+SO-0000145,2024/03/22,C-00145,Consumer,Southwest,Web,Apparel,Cotton T-Shirt,2,23.27,46.54,0.05,2.33,0,44.21,8.84,17.68,26.53,Pending
+SO-0000146,22-Mar-2024,C-00048,Enterprise,Northeast,Retail,Home,Air Purifier,3,149.72,449.16,0.05,22.46,0,426.7,92.83,278.49,148.21,Paid
+SO-0000147,2024-03-19,C-00011,Small Business,Southwest,Web,Electronics,Smart Speaker,1,117.18,117.18,0.05,5.86,0,111.32,69.14,69.14,42.18,Pending
+SO-0000148,03/25/2024,C-00192,Enterprise,Midwest,Retail,Apparel,Trail Jacket,3,129.64,388.92,0.2,77.78,0,311.14,66.12,198.36,112.78,Paid
+SO-0000149,2024/03/02,C-00306,Enterprise,Southwest,Web,Electronics,Smart Speaker,3,113.85,341.55,0.05,17.08,0,324.47,67.17,201.51,122.96,Pending
+SO-0000150,2024/03/25,C-00263,Small Business,Midwest,Partner,Home,Air Purifier,1,150.8,150.8,0.0,0.0,0,150.8,93.5,93.5,57.3,Pending
+SO-0000151,29-Apr-2024,C-00059,Small Business,West,Web,Electronics,USB-C Dock,2,71.25,142.5,0.0,0.0,0,142.5,37.05,74.1,68.4,Paid
+SO-0000152,10-Apr-2024,C-00077,Small Business,Midwest,Web,Home,Air Purifier,5,160.86,804.3,0.15,120.64,0,683.66,99.73,498.65,185.01,Paid
+SO-0000153,2024/04/23,C-00231,Enterprise,Southwest,Retail,Office,Ergonomic Chair,1,291.6,291.6,0.1,29.16,0,262.44,186.62,186.62,75.82,Refunded
+SO-0000154,04-Apr-2024,C-00094,Consumer,Northeast,Retail,Apparel,Everyday Backpack,4,55.69,222.76,0.1,22.28,0,200.48,23.95,95.8,104.68,Refunded
+SO-0000155,22-Apr-2024,C-00166,Consumer, southeast ,Web,Electronics,USB-C Dock,4,74.92,299.68,0.15,44.95,0,254.73,38.96,155.84,98.89,Refunded
+SO-0000156,2024-04-15,C-00080,Small Business,Northeast,Web,Apparel,Everyday Backpack,2,60.19,120.38,0.05,6.02,0,114.36,25.88,51.76,62.6,Pending
+SO-0000157,2024/04/06,C-00096,Enterprise,Midwest,Web,Electronics,Smart Speaker,2,124.89,249.78,0.0,0.0,0,249.78,73.69,147.38,102.4,Pending
+SO-0000158,2024/04/30,C-00007,Consumer,West,Web,Home,Coffee Maker,3,93.45,280.35,0.0,0.0,0,280.35,53.27,159.81,120.54,Paid
+SO-0000159,04/30/2024,C-00082,Consumer,West,Retail,Apparel,Trail Jacket,2,137.94,275.88,0.0,0.0,0,275.88,70.35,140.7,135.18,Paid
+SO-0000160,2024-04-13,C-00102,Enterprise,Southeast,Web,Electronics,Smart Speaker,1,119.42,119.42,0.0,0.0,0,119.42,70.46,70.46,48.96,Pending
+SO-0000161,29-Apr-2024,C-00120,Enterprise,Southeast,Web,Apparel,Everyday Backpack,4,55.32,221.28,0.2,44.26,0,177.02,23.79,95.16,81.86,Pending
+SO-0000162,2024-04-14,C-00104,Small Business,West,Web,Electronics,Smart Speaker,4,113.69,454.76,0.0,0.0,0,454.76,67.08,268.32,186.44,Paid
+SO-0000163,04/25/2024,C-00097,Consumer,Southeast,Partner,Office,Monitor Stand,3,71.84,215.52,0.0,0.0,0,215.52,35.2,105.6,109.92,Paid
+SO-0000164,2024/04/06,C-00242,Small Business,Southeast,Web,Electronics,Smart Speaker,2,124.38,248.76,0.0,0.0,0,248.76,73.38,146.76,102.0,Refunded
+SO-0000165,2024-04-25,C-00100,Consumer,Northeast,Retail,Office,Ergonomic Chair,4,282.07,1128.28,0.1,112.83,0,1015.45,180.52,722.08,293.37,Pending
+SO-0000166,2024-04-23,C-00210,Enterprise,Southwest,Web,Electronics,USB-C Dock,1,74.96,74.96,0.1,7.5,0,67.46,38.98,38.98,28.48,Pending
+SO-0000167,18-Apr-2024,C-00035,Small Business,West,Web,Home,Desk Lamp,2,40.91,81.82,0.1,8.18,0,73.64,19.64,39.28,34.36,Refunded
+SO-0000168,2024-04-10,C-00135,Enterprise,Southwest,Web,Office,Ergonomic Chair,2,264.41,528.82,0.0,0.0,1,264.41,169.22,169.22,95.19,Paid
+SO-0000169,24-Apr-2024,C-00017,Small Business,Northeast,Web,Office,Mechanical Keyboard,4,106.14,424.56,0.1,42.46,0,382.1,58.38,233.52,148.58,Paid
+SO-0000170,2024-04-05,C-00065,Small Business,Midwest,Retail,Electronics,Wireless Headphones,2,94.47,188.94,0.05,9.45,0,179.49,52.9,105.8,73.69,Paid
+SO-0000171,04/01/2024,C-00007,Consumer,Northeast,Web,Apparel,Cotton T-Shirt,2,25.03,50.06,0.05,2.5,1,23.78,9.51,9.51,14.27,Paid
+SO-0000172, 2024-04-25 ,C-00289,Consumer,Northeast,Web,Apparel,Trail Jacket,2,126.75,253.5,0.05,12.68,0,240.82,64.64,129.28,111.54,Paid
+SO-0000173,04/14/2024,C-00309,Enterprise,Midwest,Retail,Home,Desk Lamp,1,43.18,43.18,0.05,2.16,0,41.02,20.73,20.73,20.29,Refunded
+SO-0000174,2024-04-24,C-00294,Enterprise,West,Web,Apparel,Everyday Backpack,5,58.91,294.55,0.1,29.46,0,265.09,25.33,126.65,138.44,Pending
+SO-0000175,04/05/2024,C-00307,Consumer,Northeast,Web,Office,Mechanical Keyboard,3,109.19,327.57,0.05,16.38,0,311.19,60.05,180.15,131.04,Refunded
+SO-0000176,2024/04/29,C-00304,,Midwest,Web,Apparel,Trail Jacket,1,139.81,139.81,0.0,0.0,0,139.81,71.3,71.3,68.51,Paid
+SO-0000177,2024/04/02,C-00284,Small Business,Northeast,Web,Home,Air Purifier,4,163.39,653.56,0.0,0.0,0,653.56,101.3,405.2,248.36,Paid
+SO-0000178,2024/04/27,C-00235,Consumer,Southeast,Web,Home,Coffee Maker,3,91.64,274.92,0.05,13.75,0,261.17,52.23,156.69,104.48,Paid
+SO-0000179,04/01/2024,C-00123,Enterprise,Southwest,Retail,Home,Coffee Maker,3,96.34,289.02,0.1,28.9,0,260.12,54.91,164.73,95.39,Pending
+SO-0000180,2024-04-17,C-00173,Small Business,Midwest,Web,Home,Coffee Maker,3,97.59,292.77,0.15,43.92,0,248.85,55.63,166.89,81.96,Paid
+SO-0000181,2024-04-07,C-00121,Consumer,Northeast,Web,Apparel,Trail Jacket,4,138.02,552.08,0.05,27.6,0,524.48,70.39,281.56,242.92,Paid
+SO-0000182,04/16/2024,C-00071,Small Business,West,Web,Apparel,Cotton T-Shirt,3,23.63,70.89,0.2,14.18,0,56.71,8.98,26.94,29.77,Pending
+SO-0000183,2024-04-20,C-00006,Enterprise,Southeast,Web,Home,Air Purifier,2,151.44,302.88,0.0,0.0,0,302.88,93.89,187.78,115.1,Paid
+SO-0000184,2024/04/24,C-00315,Enterprise,West,Retail,Apparel,Everyday Backpack,2,55.2,110.4,0.1,11.04,0,99.36,23.74,47.48,51.88,Paid
+SO-0000185,2024/04/12,C-00074,Small Business,Southeast,Web,Home,Coffee Maker,2,98.43,196.86,0.1,19.69,0,177.17,56.11,112.22,64.95,Paid
+SO-0000186,2024/04/24,C-00105,Enterprise,Midwest,Web,Office,Ergonomic Chair,4,286.28,1145.12,0.15,171.77,0,973.35,183.22,732.88,240.47,Pending
+SO-0000187,2024-04-23,C-00181,Consumer,West,Web,Apparel,Cotton T-Shirt,1,25.04,25.04,0.05,1.25,0,23.79,9.52,9.52,14.27,Pending
+SO-0000188, 04/22/2024 ,C-00076,Consumer,Midwest,Web,Home,Desk Lamp,3,39.86,119.58,0.0,0.0,1,79.72,19.13,38.26,41.46,Refunded
+SO-0000189,2024/04/06,C-00152,Small Business,Midwest,Partner,Home,Desk Lamp,2,39.93,79.86,0.0,0.0,0,79.86,19.17,38.34,41.52,Pending
+SO-0000190,2024-04-27,C-00050,Small Business,Midwest,Web,Apparel,Cotton T-Shirt,1,24.78,24.78,0.0,0.0,0,24.78,9.42,9.42,15.36,Paid
+SO-0000191,2024-04-01,C-00021,Enterprise, midwest ,Web,Home,Coffee Maker,2,91.96,183.92,0.1,18.39,0,165.53,52.42,104.84,60.69,Paid
+SO-0000192,16-Apr-2024,C-00133,Consumer,Northeast,Web,Apparel,Cotton T-Shirt,3,24.35,73.05,0.1,7.3,0,65.75,9.25,27.75,38.0,Pending
+SO-0000193,29-Apr-2024,C-00023,Small Business,Southwest,Web,Apparel,Cotton T-Shirt,2,25.32,50.64,0.1,5.06,1,22.79,9.62,9.62,13.17,Paid
+SO-0000194,20-Apr-2024,C-00201,Enterprise,Northeast,Web,Apparel,Cotton T-Shirt,5,24.89,124.45,0.0,0.0,0,124.45,9.46,47.3,77.15,Paid
+SO-0000195,2024/04/27,C-00198,Enterprise,Northeast,Web,Electronics,USB-C Dock,4,75.52,302.08,0.05,15.1,0,286.98,39.27,157.08,129.9,Paid
+SO-0000196,2024-04-09,C-00304,Consumer,Northeast,Web,Electronics,Smart Speaker,5,117.06,585.3,0.1,58.53,0,526.77,69.07,345.35,181.42,Paid
+SO-0000197,2024/04/24,C-00134,Small Business,Southeast,Retail,Electronics,USB-C Dock,1,74.49,74.49,0.0,0.0,0,74.49,38.73,38.73,35.76,Paid
+SO-0000198,04/21/2024,C-00141,Enterprise,Northeast,Web,Apparel,Everyday Backpack,3,56.36,169.08,0.05,8.45,0,160.63,24.23,72.69,87.94,Paid
+SO-0000199,2024/04/08,C-00310,Consumer,Northeast,Retail,Office,Ergonomic Chair,2,266.4,532.8,0.15,79.92,0,452.88,170.5,341.0,111.88,Refunded
+SO-0000200,2024/04/07,C-00108,Enterprise, midwest ,Retail,Electronics,Smart Speaker,3,115.68,347.04,0.0,0.0,0,347.04,68.25,204.75,142.29,Paid
+SO-0000201,2024/05/12,C-00076,Consumer,Southwest,Retail,Office,Ergonomic Chair,5,267.91,1339.55,0.0,0.0,0,1339.55,171.46,857.3,482.25,Paid
+SO-0000202,2024-05-09,C-00192,Enterprise,Southwest,Retail,Apparel,Everyday Backpack,1,59.91,59.91,0.1,5.99,0,53.92,25.76,25.76,28.16,Paid
+SO-0000203,2024/05/26,C-00077,Small Business,Southeast,Retail,Home,Coffee Maker,4,91.28,365.12,0.1,36.51,1,246.46,52.03,156.09,90.37,Paid
+SO-0000204,05/11/2024,C-00089,Small Business,Northeast,Web,Home,Desk Lamp,2,40.59,81.18,0.0,0.0,0,81.18,19.48,38.96,42.22,Paid
+SO-0000205,09-May-2024,C-00074,Small Business,Southeast,Retail,Home,Coffee Maker,2,97.2,194.4,0.0,0.0,0,194.4,55.4,110.8,83.6,Paid
+SO-0000206,05/06/2024,C-00284,Small Business,Northeast,Web,Electronics,USB-C Dock,1,74.52,74.52,0.0,0.0,0,74.52,38.75,38.75,35.77,Paid
+SO-0000207,11-May-2024,C-00280,Consumer,Midwest,Web,Office,Ergonomic Chair,3,262.68,788.04,0.0,0.0,0,788.04,168.12,504.36,283.68,Pending
+SO-0000208,2024/05/10,C-00127,Consumer,Southwest,Web,Home,Desk Lamp,2,39.83,79.66,0.05,3.98,0,75.68,19.12,38.24,37.44,Paid
+SO-0000209,2024-05-02,C-00143,Small Business,Southeast,Web,Home,Desk Lamp,3,44.0,132.0,0.0,0.0,0,132.0,21.12,63.36,68.64,Paid
+SO-0000210,19-May-2024,C-00087,Enterprise,Northeast,Partner,Electronics,Smart Speaker,4,113.58,454.32,0.1,45.43,0,408.89,67.01,268.04,140.85,Refunded
+SO-0000211,25-May-2024,C-00106,Consumer,Southeast,Web,Office,Ergonomic Chair,1,284.84,284.84,0.0,0.0,0,284.84,182.3,182.3,102.54,Pending
+SO-0000212,05/11/2024,C-00079,Consumer,Northeast,Partner,Office,Monitor Stand,3,72.05,216.15,0.0,0.0,0,216.15,35.3,105.9,110.25,Paid
+SO-0000213,2024/05/03,C-00197,Small Business,Southeast,Partner,Office,Mechanical Keyboard,6,110.38,662.28,0.0,0.0,0,662.28,60.71,364.26,298.02,Refunded
+SO-0000214,2024/05/25,C-00082,Consumer,Northeast,Web,Electronics,Wireless Headphones,3,89.68,269.04,0.0,0.0,0,269.04,50.22,150.66,118.38,Pending
+SO-0000215,05/05/2024,C-00225,Enterprise,Southwest,Retail,Apparel,Cotton T-Shirt,2,23.56,47.12,0.1,4.71,0,42.41,8.95,17.9,24.51,Paid
+SO-0000216,05/12/2024,C-00156,Enterprise,Midwest,Web,Office,Monitor Stand,3,69.79,209.37,0.05,10.47,0,198.9,34.2,102.6,96.3,Paid
+SO-0000217,05/02/2024,C-00182,Small Business,Southwest,Retail,Home,Desk Lamp,5,42.44,212.2,0.15,31.83,0,180.37,20.37,101.85,78.52,Paid
+SO-0000218,05/16/2024,C-00038,Small Business,West,Web,Electronics,Wireless Headphones,4,93.87,375.48,0.0,0.0,0,375.48,52.57,210.28,165.2,Pending
+SO-0000219,05/26/2024,C-00208,Consumer,Southeast,Partner,Office,Mechanical Keyboard,2,101.22,202.44,0.0,0.0,0,202.44,55.67,111.34,91.1,Paid
+SO-0000220, 2024-05-13 ,C-00312,Enterprise,West,Partner,Electronics,USB-C Dock,1,71.31,71.31,0.0,0.0,0,71.31,37.08,37.08,34.23,Refunded
+SO-0000221,05-May-2024,C-00279,Enterprise,West,Web,Apparel,Cotton T-Shirt,5,23.27,116.35,0.2,23.27,0,93.08,8.84,44.2,48.88,Refunded
+SO-0000222,2024-05-07,C-00157,Consumer,Southwest,Retail,Electronics,USB-C Dock,2,72.28,144.56,0.0,0.0,0,144.56,37.59,75.18,69.38,Paid
+SO-0000223,31-May-2024,C-00253,Consumer,Northeast,Web,Office,Ergonomic Chair,6,294.92,1769.52,0.1,176.95,0,1592.57,188.75,1132.5,460.07,Paid
+SO-0000224,2024-05-07,C-00237,Enterprise,Southeast,Retail,Home,Coffee Maker,2,99.52,199.04,0.05,9.95,1,94.55,56.73,56.73,37.82,Paid
+SO-0000225,05/27/2024,C-00165,Enterprise,Southeast,Web,Electronics,USB-C Dock,3,78.94,236.82,0.0,0.0,0,236.82,41.05,123.15,113.67,Refunded
+SO-0000226,05/19/2024,C-00117,Enterprise,Southeast,Web,Home,Desk Lamp,5,40.4,202.0,0.15,30.3,0,171.7,19.39,96.95,74.75,Paid
+SO-0000227,02-May-2024,C-00269,Small Business, midwest ,Web,Office,Monitor Stand,3,65.18,195.54,0.0,0.0,0,195.54,31.94,95.82,99.72,Pending
+SO-0000228,2024/05/08,C-00022,Consumer,Northeast,Retail,Office,Ergonomic Chair,4,285.42,1141.68,0.2,228.34,0,913.34,182.67,730.68,182.66,Paid
+SO-0000229,05/29/2024,C-00272,Small Business,Southwest,Web,Home,Coffee Maker,5,95.81,479.05,0.1,47.91,0,431.14,54.61,273.05,158.09,Refunded
+SO-0000230,09-May-2024,C-00042,Enterprise,Southeast,Web,Home,Coffee Maker,1,90.78,90.78,0.05,4.54,0,86.24,51.74,51.74,34.5,Paid
+SO-0000231,2024/05/05,C-00181,Consumer,Southwest,Web,Apparel,Trail Jacket,4,133.97,535.88,0.05,26.79,0,509.09,68.32,273.28,235.81,Refunded
+SO-0000232,05/16/2024,C-00077,Small Business,Midwest,Web,Electronics,Wireless Headphones,2,86.19,172.38,0.0,0.0,0,172.38,48.27,96.54,75.84,Paid
+SO-0000233, 10-May-2024 ,C-00092,Small Business,Midwest,Web,Electronics,Smart Speaker,2,116.77,233.54,0.0,0.0,0,233.54,68.89,137.78,95.76,Paid
+SO-0000234,05-May-2024,C-00029,Small Business,Southwest,Web,Home,Desk Lamp,3,39.65,118.95,0.1,11.9,0,107.05,19.03,57.09,49.96,Paid
+SO-0000235,2024/05/16,C-00291,Enterprise,Northeast,Retail,Office,Monitor Stand,1,64.53,64.53,0.0,0.0,0,64.53,31.62,31.62,32.91,Paid
+SO-0000236,2024/05/04,C-00300,Enterprise,Southwest,Web,Apparel,Everyday Backpack,2,58.3,116.6,0.1,11.66,0,104.94,25.07,50.14,54.8,Refunded
+SO-0000237,2024/05/19,C-00081,Enterprise,Southwest,Web,Home,Coffee Maker,2,98.61,197.22,0.05,9.86,0,187.36,56.21,112.42,74.94,Refunded
+SO-0000238,2024/05/13,C-00178,Consumer,Northeast,Web,Home,Desk Lamp,2,43.84,87.68,0.05,4.38,0,83.3,21.04,42.08,41.22,Refunded
+SO-0000239,05/30/2024,C-00277,Consumer,Southeast,Web,Home,Air Purifier,5,152.26,761.3,0.15,114.19,0,647.11,94.4,472.0,175.11,Paid
+SO-0000240,2024/05/27,C-00183,Enterprise,Midwest,Retail,Office,Mechanical Keyboard,2,109.47,218.94,0.0,0.0,0,218.94,60.21,120.42,98.52,Pending
+SO-0000241,2024/05/19,C-00088,Consumer,Southeast,Retail,Apparel,Trail Jacket,3,130.13,390.39,0.1,39.04,0,351.35,66.37,199.11,152.24,Paid
+SO-0000242,2024-05-30,C-00102,Enterprise,Midwest,Web,Electronics,USB-C Dock,4,77.55,310.2,0.15,46.53,0,263.67,40.33,161.32,102.35,Refunded
+SO-0000243,12-May-2024,C-00058,Consumer,West,Web,Home,Air Purifier,2,160.53,321.06,0.05,16.05,0,305.01,99.53,199.06,105.95,Paid
+SO-0000244,07-May-2024,C-00204,Enterprise,Northeast,Web,Electronics,Wireless Headphones,3,88.64,265.92,0.05,13.3,0,252.62,49.64,148.92,103.7,Paid
+SO-0000245, 22-May-2024 ,C-00070,Consumer,Midwest,Retail,Apparel,Trail Jacket,1,136.33,136.33,0.0,0.0,0,136.33,69.53,69.53,66.8,Refunded
+SO-0000246,2024-05-23,C-00232,Consumer,Southeast,Web,Apparel,Trail Jacket,1,126.95,126.95,0.0,0.0,0,126.95,64.74,64.74,62.21,Paid
+SO-0000247,2024-05-10,C-00255,Enterprise,Northeast,Retail,Home,Coffee Maker,2,93.88,187.76,0.15,28.16,0,159.6,53.51,107.02,52.58,Paid
+SO-0000248,2024/05/07,C-00185,Small Business,Southwest,Retail,Home,Desk Lamp,3,42.5,127.5,0.1,12.75,0,114.75,20.4,61.2,53.55,Pending
+SO-0000249,2024-05-06,C-00206,Small Business,Southwest,Web,Electronics,Smart Speaker,2,117.41,234.82,0.1,23.48,0,211.34,69.27,138.54,72.8,Paid
+SO-0000250,17-May-2024,C-00252,Enterprise,Southeast,Web,Electronics,Smart Speaker,3,118.16,354.48,0.05,17.72,0,336.76,69.71,209.13,127.63,Paid
+SO-0000251,2024-06-06,C-00070,Consumer,,Retail,Apparel,Trail Jacket,1,131.61,131.61,0.2,26.32,0,105.29,67.12,67.12,38.17,Paid
+SO-0000252,06/12/2024,C-00042,Enterprise,Southeast,Web,Apparel,Everyday Backpack,4,58.01,232.04,0.0,0.0,1,174.03,24.94,74.82,99.21,Refunded
+SO-0000253,2024-06-17,C-00205,Consumer,Southeast,Retail,Apparel,Everyday Backpack,1,56.58,56.58,0.0,0.0,0,56.58,24.33,24.33,32.25,Refunded
+SO-0000254,2024/06/09,C-00216,Enterprise,Southwest,Retail,Electronics,Wireless Headphones,3,89.71,269.13,0.05,13.46,0,255.67,50.24,150.72,104.95,Paid
+SO-0000255,2024/06/03,C-00058,Consumer,Midwest,Web,Home,Coffee Maker,6,93.72,562.32,0.1,56.23,0,506.09,53.42,320.52,185.57,Paid
+SO-0000256,06/08/2024,C-00294,Enterprise,Northeast,Partner,Apparel,Cotton T-Shirt,7,24.4,170.8,0.15,25.62,0,145.18,9.27,64.89,80.29,Paid
+SO-0000257,02-Jun-2024,C-00038,Small Business, southeast ,Web,Home,Coffee Maker,2,91.15,182.3,0.0,0.0,0,182.3,51.96,103.92,78.38,Paid
+SO-0000258,03-Jun-2024,C-00121,Consumer,Southeast,Web,Electronics,USB-C Dock,1,70.1,70.1,0.0,0.0,0,70.1,36.45,36.45,33.65,Paid
+SO-0000259,06/18/2024,C-00308,Small Business,Midwest,Web,Apparel,Trail Jacket,2,132.67,265.34,0.15,39.8,0,225.54,67.66,135.32,90.22,Refunded
+SO-0000260,2024/06/20,C-00222,Enterprise,Northeast,Partner,Apparel,Cotton T-Shirt,7,24.69,172.83,0.05,8.64,0,164.19,9.38,65.66,98.53,Paid
+SO-0000261,2024/06/12,C-00302,Small Business,Midwest,Retail,Office,Ergonomic Chair,2,267.03,534.06,0.0,0.0,0,534.06,170.9,341.8,192.26,Refunded
+SO-0000262,22-Jun-2024,C-00121,Consumer,Southeast,Web,Home,Air Purifier,7,158.5,1109.5,0.0,0.0,0,1109.5,98.27,687.89,421.61,Pending
+SO-0000263,06/14/2024,C-00007,Consumer,Midwest,Retail,Electronics,Wireless Headphones,4,94.75,379.0,0.05,18.95,0,360.05,53.06,212.24,147.81,Paid
+SO-0000264,06/25/2024,C-00319,Consumer,Midwest,Web,Apparel,Cotton T-Shirt,4,22.82,91.28,0.15,13.69,0,77.59,8.67,34.68,42.91,Paid
+SO-0000265,2024-06-02,C-00054,Enterprise,Northeast,Retail,Office,Mechanical Keyboard,2,107.0,214.0,0.05,10.7,0,203.3,58.85,117.7,85.6,Refunded
+SO-0000266,12-Jun-2024,C-00023,Small Business,Midwest,Partner,Office,Mechanical Keyboard,2,103.85,207.7,0.0,0.0,0,207.7,57.12,114.24,93.46,Paid
+SO-0000267,06/10/2024,C-00111,Enterprise,Northeast,Web,Electronics,Smart Speaker,3,116.14,348.42,0.0,0.0,0,348.42,68.52,205.56,142.86,Pending
+SO-0000268,2024/06/23,C-00058,Consumer,Northeast,Web,Office,Ergonomic Chair,2,277.26,554.52,0.1,55.45,0,499.07,177.45,354.9,144.17,Pending
+SO-0000269,06/21/2024,C-00201,Enterprise,West,Web,Home,Desk Lamp,3,41.02,123.06,0.2,24.61,0,98.45,19.69,59.07,39.38,Paid
+SO-0000270,28-Jun-2024,C-00059,Small Business,Southeast,Web,Home,Desk Lamp,2,42.97,85.94,0.05,4.3,0,81.64,20.63,41.26,40.38,Paid
+SO-0000271,2024/06/08,C-00156,Enterprise,Southwest,Retail,Office,Monitor Stand,3,69.64,208.92,0.15,31.34,0,177.58,34.12,102.36,75.22,Paid
+SO-0000272,2024/06/16,C-00084,Enterprise,West,Retail,Apparel,Cotton T-Shirt,5,25.13,125.65,0.0,0.0,0,125.65,9.55,47.75,77.9,Paid
+SO-0000273,2024-06-25,C-00187,Consumer,Midwest,Web,Apparel,Cotton T-Shirt,3,23.76,71.28,0.1,7.13,0,64.15,9.03,27.09,37.06,Paid
+SO-0000274,2024-06-19,C-00046,Consumer,Southeast,Web,Electronics,Smart Speaker,5,121.13,605.65,0.2,121.13,0,484.52,71.47,357.35,127.17,Paid
+SO-0000275,06/27/2024,C-00016,Consumer,Southeast,Partner,Apparel,Everyday Backpack,3,55.64,166.92,0.1,16.69,0,150.23,23.93,71.79,78.44,Paid
+SO-0000276,12-Jun-2024,C-00095,Small Business,Midwest,Web,Home,Coffee Maker,4,92.69,370.76,0.0,0.0,0,370.76,52.83,211.32,159.44,Paid
+SO-0000277,06/04/2024,C-00020,Small Business,West,Partner,Home,Desk Lamp,6,43.79,262.74,0.0,0.0,0,262.74,21.02,126.12,136.62,Paid
+SO-0000278,2024-06-30,C-00053,Small Business,Southeast,Web,Apparel,Everyday Backpack,3,55.37,166.11,0.05,8.31,0,157.8,23.81,71.43,86.37,Paid
+SO-0000279,06/01/2024,C-00281,,Southeast,Web,Home,Coffee Maker,5,88.98,444.9,0.1,44.49,0,400.41,50.72,253.6,146.81,Paid
+SO-0000280,2024-06-09,C-00111,Enterprise,Southeast,Web,Electronics,Wireless Headphones,2,91.99,183.98,0.05,9.2,0,174.78,51.51,103.02,71.76,Paid
+SO-0000281,2024-06-11,C-00244,Consumer,Northeast,Retail,Apparel,Trail Jacket,4,128.14,512.56,0.0,0.0,0,512.56,65.35,261.4,251.16,Paid
+SO-0000282,2024-06-07,C-00245,Small Business,Southwest,Partner,Apparel,Cotton T-Shirt,4,23.31,93.24,0.1,9.32,0,83.92,8.86,35.44,48.48,Paid
+SO-0000283, 14-Jun-2024 ,C-00112,Consumer,Southwest,Web,Apparel,Cotton T-Shirt,2,23.68,47.36,0.0,0.0,0,47.36,9.0,18.0,29.36,Paid
+SO-0000284,2024-06-07,C-00073,Consumer,Southwest,Partner,Electronics,USB-C Dock,2,77.66,155.32,0.05,7.77,0,147.55,40.38,80.76,66.79,Refunded
+SO-0000285,2024/06/24,C-00127,Consumer, southwest ,Partner,Apparel,Trail Jacket,7,135.1,945.7,0.05,47.29,0,898.41,68.9,482.3,416.11,Paid
+SO-0000286,27-Jun-2024,C-00048,Enterprise,Northeast,Retail,Office,Monitor Stand,1,64.2,64.2,0.0,0.0,0,64.2,31.46,31.46,32.74,Paid
+SO-0000287,21-Jun-2024,C-00038,Small Business,West,Web,Home,Air Purifier,2,158.44,316.88,0.05,15.84,0,301.04,98.23,196.46,104.58,Pending
+SO-0000288,10-Jun-2024,C-00042,Enterprise,West,Retail,Home,Coffee Maker,5,94.91,474.55,0.15,71.18,0,403.37,54.1,270.5,132.87,Paid
+SO-0000289,21-Jun-2024,C-00189,Enterprise,Southwest,Retail,Electronics,Smart Speaker,5,122.2,611.0,0.0,0.0,0,611.0,72.1,360.5,250.5,Pending
+SO-0000290,2024/06/04,C-00102,Enterprise,Southwest,Web,Office,Monitor Stand,1,65.56,65.56,0.05,3.28,0,62.28,32.12,32.12,30.16,Refunded
+SO-0000291,2024-06-04,C-00214,,Northeast,Partner,Apparel,Trail Jacket,3,129.79,389.37,0.1,38.94,0,350.43,66.19,198.57,151.86,Paid
+SO-0000292,11-Jun-2024,C-00192,Enterprise,Southeast,Web,Electronics,USB-C Dock,4,71.16,284.64,0.1,28.46,0,256.18,37.0,148.0,108.18,Refunded
+SO-0000293,11-Jun-2024,C-00036,Enterprise,Northeast,Partner,Office,Ergonomic Chair,7,290.81,2035.67,0.1,203.57,0,1832.1,186.12,1302.84,529.26,Refunded
+SO-0000294,15-Jun-2024,C-00156,Enterprise,Southwest,Retail,Apparel,Trail Jacket,2,128.17,256.34,0.15,38.45,0,217.89,65.37,130.74,87.15,Paid
+SO-0000295,2024-06-26,C-00122,Small Business,Midwest,Retail,Apparel,Trail Jacket,5,135.98,679.9,0.15,101.98,0,577.92,69.35,346.75,231.17,Paid
+SO-0000296,26-Jun-2024,C-00275,Small Business,Midwest,Retail,Electronics,Smart Speaker,5,117.71,588.55,0.1,58.85,0,529.7,69.45,347.25,182.45,Refunded
+SO-0000297,11-Jun-2024,C-00004,Consumer,Midwest,Web,Apparel,Cotton T-Shirt,5,22.66,113.3,0.15,16.99,0,96.31,8.61,43.05,53.26,Paid
+SO-0000298, 2024-06-01 ,C-00124,Consumer,Midwest,Retail,Office,Mechanical Keyboard,3,98.98,296.94,0.1,29.69,0,267.25,54.44,163.32,103.93,Paid
+SO-0000299,2024-06-15,C-00095,Small Business,West,Partner,Home,Coffee Maker,5,94.95,474.75,0.1,47.48,0,427.27,54.12,270.6,156.67,Paid
+SO-0000300,06/07/2024,C-00115,Consumer,Northeast,Web,Office,Ergonomic Chair,6,262.27,1573.62,0.0,0.0,0,1573.62,167.85,1007.1,566.52,Paid
+SO-0000301,2024/07/29,C-00311,Small Business,Southwest,Web,Home,Coffee Maker,3,98.4,295.2,0.1,29.52,0,265.68,56.09,168.27,97.41,Paid
+SO-0000302,07/29/2024,C-00163,Consumer,Northeast,Partner,Office,Monitor Stand,4,64.1,256.4,0.0,0.0,0,256.4,31.41,125.64,130.76,Paid
+SO-0000303, 2024/07/27 ,C-00317,Small Business,Southwest,Retail,Home,Desk Lamp,7,42.35,296.45,0.0,0.0,0,296.45,20.33,142.31,154.14,Paid
+SO-0000304,07/24/2024,C-00031,Consumer,Southeast,Partner,Office,Monitor Stand,6,68.65,411.9,0.0,0.0,0,411.9,33.64,201.84,210.06,Refunded
+SO-0000305,2024-07-24,C-00219,Enterprise,Southeast,Web,Electronics,USB-C Dock,4,76.25,305.0,0.0,0.0,0,305.0,39.65,158.6,146.4,Refunded
+SO-0000306,date unavailable,C-00227,Small Business,Midwest,Web,Home,Air Purifier,6,163.14,978.84,0.0,0.0,0,978.84,101.15,606.9,371.94,Pending
+SO-0000307,2024-07-02,C-00226,Consumer,Southeast,Web,Home,Desk Lamp,5,44.34,221.7,0.1,22.17,0,199.53,21.28,106.4,93.13,Paid
+SO-0000308,2024/07/17,C-00055,Consumer,West,Partner,Home,Desk Lamp,3,44.02,132.06,0.15,19.81,0,112.25,21.13,63.39,48.86,Paid
+SO-0000309,18-Jul-2024,C-00070,Consumer,Northeast,Retail,Electronics,Wireless Headphones,1,89.58,89.58,0.1,8.96,0,80.62,50.16,50.16,30.46,Paid
+SO-0000310,23-Jul-2024,C-00211,Consumer,Southwest,Web,Home,Air Purifier,5,157.3,786.5,0.1,78.65,0,707.85,97.53,487.65,220.2,Paid
+SO-0000311,30-Jul-2024,C-00167,Small Business,Midwest,Web,Apparel,Everyday Backpack,6,60.04,360.24,0.05,18.01,0,342.23,25.82,154.92,187.31,Paid
+SO-0000312,2024-07-13,C-00036,Enterprise,Southeast,Web,Electronics,Wireless Headphones,5,89.87,449.35,0.05,22.47,0,426.88,50.33,251.65,175.23,Paid
+SO-0000313,2024-07-24,C-00034,Consumer,Southeast,Partner,Apparel,Cotton T-Shirt,7,24.5,171.5,0.1,17.15,0,154.35,9.31,65.17,89.18,Pending
+SO-0000314,07/27/2024,C-00017,Small Business,Southwest,Web,Office,Ergonomic Chair,4,282.15,1128.6,0.0,0.0,0,1128.6,180.58,722.32,406.28,Paid
+SO-0000315,2024/07/25,C-00202,Consumer,Southwest,Web,Electronics,Smart Speaker,6,116.59,699.54,0.1,69.95,0,629.59,68.79,412.74,216.85,Paid
+SO-0000316,2024-07-12,C-00194,Small Business,West,Web,Apparel,Cotton T-Shirt,8,24.12,192.96,0.1,19.3,0,173.66,9.17,73.36,100.3,Paid
+SO-0000317,2024/07/18,C-00265,Consumer,Northeast,Retail,Apparel,Trail Jacket,5,128.68,643.4,0.05,32.17,0,611.23,65.63,328.15,283.08,Pending
+SO-0000318,2024/07/23,C-00018,Enterprise,Midwest,Partner,Office,Mechanical Keyboard,5,109.76,548.8,0.0,0.0,0,548.8,60.37,301.85,246.95,Paid
+SO-0000319,2024/07/25,C-00269,Small Business,Midwest,Retail,Office,Ergonomic Chair,3,282.82,848.46,0.0,0.0,0,848.46,181.0,543.0,305.46,Paid
+SO-0000320, 07/22/2024 ,C-00093,Enterprise,Southeast,Web,Electronics,USB-C Dock,2,77.41,154.82,0.05,7.74,0,147.08,40.25,80.5,66.58,Paid
+SO-0000321,2024/07/28,C-00229,Consumer,Southwest,Retail,Electronics,Smart Speaker,3,113.94,341.82,0.05,17.09,0,324.73,67.22,201.66,123.07,Paid
+SO-0000322, 2024/07/26 ,C-00134,Small Business,Southwest,Partner,Office,Monitor Stand,7,69.45,486.15,0.0,0.0,0,486.15,34.03,238.21,247.94,Refunded
+SO-0000323,2024/07/09,C-00177,Enterprise,Northeast,Retail,Electronics,Smart Speaker,2,118.22,236.44,0.0,0.0,0,236.44,69.75,139.5,96.94,Refunded
+SO-0000324,2024/07/20,C-00065,Small Business,West,Retail,Electronics,Wireless Headphones,3,91.67,275.01,0.0,0.0,0,275.01,51.34,154.02,120.99,Paid
+SO-0000325,2024/07/16,C-00182,Small Business,Southeast,Web,Electronics,USB-C Dock,6,77.62,465.72,0.05,23.29,0,442.43,40.36,242.16,200.27,Paid
+SO-0000326,08-Jul-2024,C-00137,Small Business,Southeast,Web,Office,Mechanical Keyboard,8,99.59,796.72,0.2,159.34,0,637.38,54.77,438.16,199.22,Paid
+SO-0000327,2024/07/15,C-00188,Small Business,Midwest,Web,Electronics,Smart Speaker,1,119.31,119.31,0.0,0.0,0,119.31,70.39,70.39,48.92,Paid
+SO-0000328,28-Jul-2024,C-00119,Small Business,Midwest,Retail,Home,Desk Lamp,4,42.48,169.92,0.0,0.0,0,169.92,20.39,81.56,88.36,Paid
+SO-0000329,date unavailable,C-00216,Enterprise,Southeast,Partner,Home,Air Purifier,3,159.28,477.84,0.2,95.57,0,382.27,98.75,296.25,86.02,Pending
+SO-0000330,10-Jul-2024,C-00172,Consumer,Midwest,Retail,Apparel,Trail Jacket,5,130.19,650.95,0.05,32.55,1,494.72,66.4,265.6,229.12,Paid
+SO-0000331,2024-07-28,C-00036,Enterprise,Southeast,Web,Apparel,Trail Jacket,1,137.97,137.97,0.1,13.8,0,124.17,70.36,70.36,53.81,Paid
+SO-0000332,30-Jul-2024,C-00096,Enterprise,Southwest,Web,Electronics,Smart Speaker,4,121.6,486.4,0.0,0.0,0,486.4,71.74,286.96,199.44,Pending
+SO-0000333,07/15/2024,C-00116,Small Business,West,Web,Office,Monitor Stand,4,66.31,265.24,0.15,39.79,0,225.45,32.49,129.96,95.49,Pending
+SO-0000334,07/03/2024,C-00219,Enterprise,Southeast,Web,Apparel,Trail Jacket,6,138.03,828.18,0.1,82.82,0,745.36,70.4,422.4,322.96,Paid
+SO-0000335,2024-07-05,C-00090,Enterprise,Midwest,Web,Home,Desk Lamp,4,44.38,177.52,0.0,0.0,0,177.52,21.3,85.2,92.32,Pending
+SO-0000336,2024/07/14,C-00104,Small Business,Northeast,Partner,Electronics,Wireless Headphones,3,87.91,263.73,0.05,13.19,0,250.54,49.23,147.69,102.85,Refunded
+SO-0000337,07/03/2024,C-00309,Enterprise, midwest ,Web,Home,Coffee Maker,4,89.45,357.8,0.0,0.0,0,357.8,50.99,203.96,153.84,Refunded
+SO-0000338,11-Jul-2024,C-00136,Consumer,West,Retail,Home,Coffee Maker,1,95.86,95.86,0.0,0.0,0,95.86,54.64,54.64,41.22,Refunded
+SO-0000339,2024/07/12,C-00163,Consumer,Southwest,Retail,Home,Coffee Maker,4,96.6,386.4,0.0,0.0,0,386.4,55.06,220.24,166.16,Paid
+SO-0000340,07/10/2024,C-00042,Enterprise,West,Web,Electronics,USB-C Dock,5,74.36,371.8,0.15,55.77,0,316.03,38.67,193.35,122.68,Paid
+SO-0000341,2024-07-09,C-00065,Small Business,Southwest,Retail,Home,Desk Lamp,5,43.96,219.8,0.15,32.97,0,186.83,21.1,105.5,81.33,Paid
+SO-0000342,2024-07-20,C-00250,Consumer,Southwest,Web,Electronics,Smart Speaker,1,116.77,116.77,0.05,5.84,0,110.93,68.89,68.89,42.04,Refunded
+SO-0000343,07/29/2024,C-00121,Consumer,Southeast,Retail,Electronics,Smart Speaker,1,124.15,124.15,0.05,6.21,0,117.94,73.25,73.25,44.69,Paid
+SO-0000344,03-Jul-2024,C-00301,Consumer,Northeast,Web,Office,Ergonomic Chair,2,288.66,577.32,0.1,57.73,1,259.8,184.74,184.74,75.06,Pending
+SO-0000345,07-Jul-2024,C-00284,Small Business,Southeast,Retail,Apparel,Cotton T-Shirt,6,23.84,143.04,0.15,21.46,0,121.58,9.06,54.36,67.22,Paid
+SO-0000346,2024/07/07,C-00178,Consumer,Southeast,Web,Electronics,Wireless Headphones,3,85.9,257.7,0.0,0.0,0,257.7,48.1,144.3,113.4,Pending
+SO-0000347,07/12/2024,C-00256,Consumer,Northeast,Web,Home,Air Purifier,5,155.84,779.2,0.15,116.88,0,662.32,96.62,483.1,179.22,Paid
+SO-0000348,2024-07-24,C-00056,Small Business,Midwest,Retail,Apparel,Cotton T-Shirt,5,24.04,120.2,0.0,0.0,0,120.2,9.14,45.7,74.5,Paid
+SO-0000349,07/04/2024,C-00308,Small Business,Southeast,Web,Office,Mechanical Keyboard,1,100.49,100.49,0.0,0.0,0,100.49,55.27,55.27,45.22,Paid
+SO-0000350,2024/07/23,C-00049,Consumer,Southeast,Retail,Apparel,Cotton T-Shirt,7,25.1,175.7,0.1,17.57,0,158.13,9.54,66.78,91.35,Paid
+SO-0000351,08/03/2024,C-00194,,Midwest,Web,Electronics,USB-C Dock,8,78.36,626.88,0.0,0.0,0,626.88,40.75,326.0,300.88,Refunded
+SO-0000352,2024/08/15,C-00059,Small Business, northeast ,Retail,Apparel,Cotton T-Shirt,5,25.01,125.05,0.05,6.25,0,118.8,9.5,47.5,71.3,Paid
+SO-0000353,08/08/2024,C-00198,Enterprise,Northeast,Partner,Office,Ergonomic Chair,6,280.33,1681.98,0.05,84.1,0,1597.88,179.41,1076.46,521.42,Pending
+SO-0000354,25-Aug-2024,C-00165,Enterprise,Southwest,Web,Home,Desk Lamp,8,41.14,329.12,0.1,32.91,0,296.21,19.75,158.0,138.21,Paid
+SO-0000355,08/22/2024,C-00072,Enterprise,Southwest,Web,Home,Coffee Maker,3,88.89,266.67,0.1,26.67,0,240.0,50.67,152.01,87.99,Refunded
+SO-0000356,2024-08-14,C-00191,,Midwest,Web,Home,Coffee Maker,3,97.87,293.61,0.15,44.04,0,249.57,55.79,167.37,82.2,Paid
+SO-0000357,01-Aug-2024,C-00271,Consumer,Southwest,Partner,Home,Air Purifier,7,153.2,1072.4,0.1,107.24,0,965.16,94.98,664.86,300.3,Paid
+SO-0000358,08/26/2024,C-00154,Consumer,Midwest,Retail,Apparel,Trail Jacket,3,131.98,395.94,0.0,0.0,0,395.94,67.31,201.93,194.01,Paid
+SO-0000359,2024/08/24,C-00086,Small Business,Southwest,Web,Electronics,USB-C Dock,3,78.54,235.62,0.0,0.0,0,235.62,40.84,122.52,113.1,Paid
+SO-0000360,11-Aug-2024,C-00246,Enterprise,Southwest,Web,Office,Monitor Stand,3,65.97,197.91,0.05,9.9,0,188.01,32.33,96.99,91.02,Pending
+SO-0000361, 07-Aug-2024 ,C-00133,Consumer,Southeast,Retail,Home,Desk Lamp,5,41.71,208.55,0.1,20.86,0,187.69,20.02,100.1,87.59,Pending
+SO-0000362,2024/08/04,C-00158,Small Business,Southeast,Web,Electronics,Smart Speaker,3,117.08,351.24,0.05,17.56,1,222.45,69.08,138.16,84.29,Paid
+SO-0000363,2024-08-08,C-00090,Enterprise,Southwest,Web,Home,Coffee Maker,5,94.79,473.95,0.1,47.4,0,426.55,54.03,270.15,156.4,Paid
+SO-0000364,02-Aug-2024,C-00159,Enterprise,Midwest,Web,Apparel,Everyday Backpack,4,60.37,241.48,0.0,0.0,0,241.48,25.96,103.84,137.64,Pending
+SO-0000365,2024/08/21,C-00149,Small Business,Southeast,Web,Home,Air Purifier,1,164.59,164.59,0.05,8.23,0,156.36,102.05,102.05,54.31,Paid
+SO-0000366,2024/08/06,C-00081,Enterprise,West,Web,Home,Air Purifier,7,162.45,1137.15,0.0,0.0,0,1137.15,100.72,705.04,432.11,Paid
+SO-0000367,2024/08/01,C-00249,Enterprise,Southwest,Partner,Apparel,Everyday Backpack,3,55.16,165.48,0.05,8.27,0,157.21,23.72,71.16,86.05,Paid
+SO-0000368,2024/08/12,C-00229,Consumer,,Web,Office,Ergonomic Chair,8,278.18,2225.44,0.1,222.54,0,2002.9,178.04,1424.32,578.58,Paid
+SO-0000369,08/27/2024,C-00025,,Northeast,Web,Office,Ergonomic Chair,6,263.41,1580.46,0.1,158.05,0,1422.41,168.58,1011.48,410.93,Paid
+SO-0000370, 14-Aug-2024 ,C-00056,Small Business,Southeast,Web,Apparel,Everyday Backpack,5,58.17,290.85,0.1,29.09,0,261.76,25.01,125.05,136.71,Paid
+SO-0000371,08/13/2024,C-00062,,Northeast,Web,Office,Ergonomic Chair,1,288.92,288.92,0.05,14.45,0,274.47,184.91,184.91,89.56,Pending
+SO-0000372,08/03/2024,C-00310,Consumer,Northeast,Retail,Home,Desk Lamp,6,42.26,253.56,0.0,0.0,0,253.56,20.28,121.68,131.88,Paid
+SO-0000373,2024/08/14,C-00160,Consumer,Northeast,Web,Office,Ergonomic Chair,3,273.24,819.72,0.05,40.99,0,778.73,174.87,524.61,254.12,Pending
+SO-0000374,08/07/2024,C-00143,Small Business,Northeast,Retail,Office,Ergonomic Chair,3,262.72,788.16,0.05,39.41,0,748.75,168.14,504.42,244.33,Paid
+SO-0000375,date unavailable,C-00137,Small Business,West,Web,Electronics,USB-C Dock,9,78.47,706.23,0.2,141.25,0,564.98,40.8,367.2,197.78,Pending
+SO-0000376,29-Aug-2024,C-00018,Enterprise,Southeast,Web,Home,Air Purifier,5,164.59,822.95,0.0,0.0,0,822.95,102.05,510.25,312.7,Pending
+SO-0000377,08/15/2024,C-00086,Small Business,Midwest,Web,Office,Mechanical Keyboard,5,110.34,551.7,0.0,0.0,0,551.7,60.69,303.45,248.25,Paid
+SO-0000378,08/08/2024,C-00200,Small Business,Midwest,Retail,Office,Monitor Stand,8,64.82,518.56,0.0,0.0,0,518.56,31.76,254.08,264.48,Pending
+SO-0000379,08/27/2024,C-00116,Small Business,Southwest,Retail,Apparel,Everyday Backpack,8,58.31,466.48,0.0,0.0,0,466.48,25.07,200.56,265.92,Paid
+SO-0000380,08/28/2024,C-00118,Consumer,Northeast,Web,Electronics,USB-C Dock,3,78.21,234.63,0.2,46.93,0,187.7,40.67,122.01,65.69,Paid
+SO-0000381,2024/08/12,C-00085,Consumer,Midwest,Partner,Home,Desk Lamp,3,41.44,124.32,0.0,0.0,0,124.32,19.89,59.67,64.65,Paid
+SO-0000382,2024-08-13,C-00296,Small Business,West,Web,Office,Ergonomic Chair,7,283.85,1986.95,0.15,298.04,0,1688.91,181.66,1271.62,417.29,Paid
+SO-0000383,08/12/2024,C-00098,Small Business,West,Partner,Office,Monitor Stand,1,68.69,68.69,0.1,6.87,0,61.82,33.66,33.66,28.16,Paid
+SO-0000384, 2024-08-21 ,C-00234,Enterprise, southwest ,Retail,Electronics,Smart Speaker,1,113.5,113.5,0.0,0.0,0,113.5,66.97,66.97,46.53,Paid
+SO-0000385,2024-08-26,C-00178,Consumer,Southwest,Web,Office,Mechanical Keyboard,5,100.27,501.35,0.1,50.14,0,451.21,55.15,275.75,175.46,Paid
+SO-0000386,2024-08-03,C-00091,Consumer,Northeast,Partner,Electronics,Wireless Headphones,3,86.92,260.76,0.15,39.11,0,221.65,48.68,146.04,75.61,Pending
+SO-0000387,08/05/2024,C-00149,Small Business,Midwest,Web,Electronics,Wireless Headphones,3,89.2,267.6,0.0,0.0,0,267.6,49.95,149.85,117.75,Paid
+SO-0000388,2024-08-16,C-00214,Consumer,Southwest,Web,Office,Mechanical Keyboard,6,102.14,612.84,0.0,0.0,0,612.84,56.18,337.08,275.76,Paid
+SO-0000389,2024-08-07,C-00165,Enterprise,Midwest,Web,Office,Monitor Stand,5,67.47,337.35,0.15,50.6,0,286.75,33.06,165.3,121.45,Paid
+SO-0000390,08/24/2024,C-00295,Consumer,Midwest,Web,Apparel,Trail Jacket,3,134.79,404.37,0.0,0.0,0,404.37,68.74,206.22,198.15,Paid
+SO-0000391,08/28/2024,C-00142,Consumer,Southwest,Partner,Apparel,Everyday Backpack,3,59.93,179.79,0.15,26.97,0,152.82,25.77,77.31,75.51,Pending
+SO-0000392,2024-08-24,C-00211,Consumer,Southeast,Web,Electronics,Smart Speaker,4,112.85,451.4,0.0,0.0,0,451.4,66.58,266.32,185.08,Refunded
+SO-0000393,2024/08/28,C-00212,Small Business,West,Retail,Electronics,USB-C Dock,3,75.07,225.21,0.0,0.0,0,225.21,39.04,117.12,108.09,Refunded
+SO-0000394,08/16/2024,C-00102,Enterprise,Southwest,Web,Apparel,Cotton T-Shirt,8,23.38,187.04,0.05,9.35,0,177.69,8.88,71.04,106.65,Paid
+SO-0000395,2024-08-02,C-00286,Consumer,Northeast,Partner,Office,Mechanical Keyboard,3,106.48,319.44,0.15,47.92,0,271.52,58.56,175.68,95.84,Refunded
+SO-0000396,2024-08-28,C-00297,Enterprise,West,Web,Apparel,Everyday Backpack,4,58.05,232.2,0.15,34.83,0,197.37,24.96,99.84,97.53,Pending
+SO-0000397,2024-08-29,C-00152,Small Business,West,,Office,Mechanical Keyboard,2,104.69,209.38,0.2,41.88,1,83.75,57.58,57.58,26.17,Paid
+SO-0000398,2024/08/01,C-00129,Enterprise,Northeast,Web,Home,Coffee Maker,8,92.61,740.88,0.0,0.0,0,740.88,52.79,422.32,318.56,Paid
+SO-0000399,08/22/2024,C-00233,Small Business, midwest ,Web,Home,Coffee Maker,9,93.99,845.91,0.0,0.0,0,845.91,53.57,482.13,363.78,Pending
+SO-0000400,2024-08-16,C-00306,Enterprise,Southwest,Web,Electronics,Wireless Headphones,4,93.8,375.2,0.0,0.0,0,375.2,52.53,210.12,165.08,Paid
+SO-0000401,2024-09-27,C-00191,Small Business,Midwest,Retail,Electronics,Wireless Headphones,7,94.48,661.36,0.0,0.0,0,661.36,52.91,370.37,290.99,Paid
+SO-0000402,2024/09/21,C-00036,Enterprise,Southwest,Retail,Apparel,Cotton T-Shirt,8,24.59,196.72,0.05,9.84,0,186.88,9.34,74.72,112.16,Paid
+SO-0000403,2024/09/26,C-00059,Small Business, midwest ,Retail,Home,Coffee Maker,5,93.99,469.95,0.0,0.0,0,469.95,53.57,267.85,202.1,Pending
+SO-0000404,2024/09/03,C-00313,Consumer,Midwest,Web,Home,Desk Lamp,10,44.24,442.4,0.2,88.48,1,318.53,21.24,191.16,127.37,Pending
+SO-0000405,2024-09-21,C-00264,Enterprise,Southwest,,Home,Air Purifier,5,151.34,756.7,0.2,151.34,0,605.36,93.83,469.15,136.21,Paid
+SO-0000406,09/12/2024,C-00169,Consumer,Midwest,Partner,Office,Monitor Stand,2,68.38,136.76,0.05,6.84,0,129.92,33.51,67.02,62.9,Paid
+SO-0000407,26-Sep-2024,C-00064,Consumer,Southeast,Retail,Home,Desk Lamp,5,43.74,218.7,0.05,10.94,0,207.76,21.0,105.0,102.76,Paid
+SO-0000408,2024/09/11,C-00012,Enterprise,Northeast,Web,Office,Ergonomic Chair,6,280.02,1680.12,0.05,84.01,0,1596.11,179.21,1075.26,520.85,Refunded
+SO-0000409,08-Sep-2024,C-00127,Consumer,West,Retail,Office,Monitor Stand,2,69.73,139.46,0.0,0.0,0,139.46,34.17,68.34,71.12,Paid
+SO-0000410,2024/09/16,C-00154,Consumer,Northeast,Partner,Office,Monitor Stand,4,64.8,259.2,0.0,0.0,0,259.2,31.75,127.0,132.2,Paid
+SO-0000411,2024-09-30,C-00123,Enterprise,Southeast,Web,Home,Coffee Maker,9,96.38,867.42,0.0,0.0,0,867.42,54.94,494.46,372.96,Paid
+SO-0000412,17-Sep-2024,C-00206,Small Business,West,Retail,Office,Ergonomic Chair,4,263.59,1054.36,0.0,0.0,0,1054.36,168.7,674.8,379.56,Paid
+SO-0000413,15-Sep-2024,C-00069,Enterprise,Southwest,Web,Office,Mechanical Keyboard,6,109.09,654.54,0.1,65.45,0,589.09,60.0,360.0,229.09,Pending
+SO-0000414,09/04/2024,C-00066,Enterprise,Midwest,Web,Electronics,Smart Speaker,2,123.6,247.2,0.1,24.72,0,222.48,72.92,145.84,76.64,Paid
+SO-0000415,2024-09-01,C-00133,Consumer,Northeast,Web,Apparel,Trail Jacket,4,131.64,526.56,0.2,105.31,0,421.25,67.14,268.56,152.69,Pending
+SO-0000416,09/02/2024,C-00116,Small Business,Northeast,Web,Home,Coffee Maker,3,88.37,265.11,0.0,0.0,0,265.11,50.37,151.11,114.0,Paid
+SO-0000417,2024/09/03,C-00303,Enterprise,Southwest,Retail,Office,Ergonomic Chair,1,285.66,285.66,0.0,0.0,0,285.66,182.82,182.82,102.84,Pending
+SO-0000418,09/28/2024,C-00211,Consumer,Southeast,Web,Apparel,Trail Jacket,5,132.01,660.05,0.1,66.0,0,594.05,67.33,336.65,257.4,Paid
+SO-0000419,22-Sep-2024,C-00099,Enterprise,Southeast,,Apparel,Trail Jacket,5,128.39,641.95,0.05,32.1,0,609.85,65.48,327.4,282.45,Paid
+SO-0000420,22-Sep-2024,C-00151,Consumer,Southwest,Web,Home,Desk Lamp,3,43.39,130.17,0.2,26.03,0,104.14,20.83,62.49,41.65,Refunded
+SO-0000421,2024-09-18,C-00245,Small Business,Southwest,Partner,Office,Ergonomic Chair,2,268.31,536.62,0.1,53.66,0,482.96,171.72,343.44,139.52,Pending
+SO-0000422,09/14/2024,C-00084,Enterprise,Southwest,Web,Apparel,Cotton T-Shirt,3,23.73,71.19,0.1,7.12,0,64.07,9.02,27.06,37.01,Paid
+SO-0000423,2024/09/22,C-00190,Consumer,Northeast,Web,Office,Mechanical Keyboard,3,106.01,318.03,0.1,31.8,0,286.23,58.31,174.93,111.3,Pending
+SO-0000424,2024/09/12,C-00213,Enterprise,Northeast,Web,Apparel,Cotton T-Shirt,6,23.92,143.52,0.0,0.0,0,143.52,9.09,54.54,88.98,Pending
+SO-0000425,16-Sep-2024,C-00153,Enterprise,Northeast,Partner,Electronics,Wireless Headphones,3,89.03,267.09,0.05,13.35,0,253.74,49.86,149.58,104.16,Refunded
+SO-0000426,2024-09-11,C-00184,Consumer,Southwest,Retail,Office,Monitor Stand,8,67.3,538.4,0.0,0.0,0,538.4,32.98,263.84,274.56,Paid
+SO-0000427,2024-09-03,C-00026,Small Business,West,Partner,Home,Desk Lamp,2,40.92,81.84,0.05,4.09,0,77.75,19.64,39.28,38.47,Paid
+SO-0000428,09/18/2024,C-00102,Enterprise,Southwest,Web,Apparel,Trail Jacket,7,130.89,916.23,0.15,137.43,0,778.8,66.75,467.25,311.55,Pending
+SO-0000429,2024-09-08,C-00136,Consumer,Midwest,Retail,Home,Air Purifier,7,152.53,1067.71,0.1,106.77,0,960.94,94.57,661.99,298.95,Paid
+SO-0000430,25-Sep-2024,C-00234,Enterprise,Southeast,Retail,Office,Monitor Stand,6,65.32,391.92,0.15,58.79,0,333.13,32.01,192.06,141.07,Refunded
+SO-0000431,09/12/2024,C-00147,Enterprise,Southeast,Retail,Home,Air Purifier,4,168.41,673.64,0.1,67.36,0,606.28,104.41,417.64,188.64,Paid
+SO-0000432,2024/09/30,C-00163,Consumer,Southwest,Web,Apparel,Everyday Backpack,4,56.17,224.68,0.0,0.0,0,224.68,24.15,96.6,128.08,Paid
+SO-0000433,2024/09/13,C-00141,Enterprise,West,Retail,Home,Air Purifier,3,156.32,468.96,0.0,0.0,0,468.96,96.92,290.76,178.2,Paid
+SO-0000434,2024-09-08,C-00319,Consumer,Southwest,Retail,Apparel,Trail Jacket,3,133.77,401.31,0.2,80.26,0,321.05,68.22,204.66,116.39,Paid
+SO-0000435,09/02/2024,C-00128,Small Business,West,Partner,Apparel,Trail Jacket,5,128.47,642.35,0.05,32.12,0,610.23,65.52,327.6,282.63,Paid
+SO-0000436,2024/09/29,C-00133,Consumer,Southwest,Retail,Apparel,Trail Jacket,5,127.63,638.15,0.0,0.0,0,638.15,65.09,325.45,312.7,Paid
+SO-0000437,2024/09/18,C-00269,Small Business,Midwest,Web,Office,Monitor Stand,5,71.32,356.6,0.0,0.0,0,356.6,34.95,174.75,181.85,Paid
+SO-0000438,2024-09-28,C-00067,Consumer,Southwest,Web,Office,Mechanical Keyboard,2,109.27,218.54,0.0,0.0,0,218.54,60.1,120.2,98.34,Paid
+SO-0000439,09/04/2024,C-00137,Small Business,Southeast,Web,Office,Ergonomic Chair,6,277.81,1666.86,0.15,250.03,0,1416.83,177.8,1066.8,350.03,Pending
+SO-0000440,2024/09/18,C-00146,Small Business,West,Web,Office,Mechanical Keyboard,5,105.2,526.0,0.05,26.3,0,499.7,57.86,289.3,210.4,Paid
+SO-0000441,09/26/2024,C-00198,Enterprise,,Partner,Apparel,Cotton T-Shirt,5,25.18,125.9,0.05,6.3,0,119.6,9.57,47.85,71.75,Paid
+SO-0000442,09/16/2024,C-00216,Enterprise,Northeast,Web,Office,Monitor Stand,5,67.62,338.1,0.0,0.0,0,338.1,33.13,165.65,172.45,Paid
+SO-0000443,2024-09-17,C-00166,Consumer,West,Retail,Apparel,Trail Jacket,2,138.12,276.24,0.0,0.0,0,276.24,70.44,140.88,135.36,Paid
+SO-0000444,05-Sep-2024,C-00201,Enterprise,Midwest,Partner,Home,Air Purifier,5,158.7,793.5,0.2,158.7,0,634.8,98.39,491.95,142.85,Paid
+SO-0000445,10-Sep-2024,C-00212,Small Business,Northeast,Retail,Apparel,Trail Jacket,4,131.62,526.48,0.1,52.65,0,473.83,67.13,268.52,205.31,Paid
+SO-0000446,15-Sep-2024,C-00030,Enterprise,West,Web,Home,Air Purifier,5,157.45,787.25,0.0,0.0,0,787.25,97.62,488.1,299.15,Refunded
+SO-0000447,09/17/2024,C-00174,Enterprise,Southeast,Retail,Electronics,Wireless Headphones,5,93.24,466.2,0.05,23.31,0,442.89,52.21,261.05,181.84,Paid
+SO-0000448,2024-09-10,C-00152,Small Business,Northeast,Retail,Electronics,Wireless Headphones,9,89.52,805.68,0.1,80.57,0,725.11,50.13,451.17,273.94,Pending
+SO-0000449,2024/09/06,C-00239,Small Business,Southwest,Retail,Office,Monitor Stand,9,68.33,614.97,0.15,92.25,0,522.72,33.48,301.32,221.4,Paid
+SO-0000450,09/06/2024,C-00275,Small Business,Midwest,Retail,Electronics,Smart Speaker,5,118.76,593.8,0.05,29.69,0,564.11,70.07,350.35,213.76,Paid
+SO-0000451,15-Oct-2024,C-00310,Consumer,West,Partner,Electronics,USB-C Dock,9,75.38,678.42,0.2,135.68,0,542.74,39.2,352.8,189.94,Refunded
+SO-0000452, 28-Oct-2024 ,C-00010,Consumer,Midwest,Retail,Office,Monitor Stand,4,70.68,282.72,0.1,28.27,0,254.45,34.63,138.52,115.93,Paid
+SO-0000453,2024-10-07,C-00160,Consumer,West,Retail,Electronics,USB-C Dock,9,77.89,701.01,0.05,35.05,0,665.96,40.5,364.5,301.46,Pending
+SO-0000454,10/20/2024,C-00285,Enterprise,West,Web,Office,Mechanical Keyboard,4,100.74,402.96,0.1,40.3,0,362.66,55.41,221.64,141.02,Paid
+SO-0000455,2024-10-21,C-00001,Consumer,West,Partner,Electronics,Smart Speaker,5,125.67,628.35,0.15,94.25,0,534.1,74.15,370.75,163.35,Paid
+SO-0000456,2024-10-14,C-00185,Small Business,Southwest,Retail,Apparel,Cotton T-Shirt,10,24.79,247.9,0.05,12.4,0,235.5,9.42,94.2,141.3,Paid
+SO-0000457,10/29/2024,C-00123,Enterprise,Northeast,Retail,Apparel,Everyday Backpack,9,57.63,518.67,0.15,77.8,0,440.87,24.78,223.02,217.85,Refunded
+SO-0000458,10/25/2024,C-00149,Small Business,Southeast,Web,Electronics,USB-C Dock,6,70.78,424.68,0.2,84.94,0,339.74,36.81,220.86,118.88,Pending
+SO-0000459,10/17/2024,C-00030,Enterprise,Southeast,Web,Apparel,Everyday Backpack,3,59.04,177.12,0.1,17.71,0,159.41,25.39,76.17,83.24,Refunded
+SO-0000460,10/30/2024,C-00291,Enterprise,Northeast,Retail,Home,Coffee Maker,2,91.52,183.04,0.0,0.0,0,183.04,52.17,104.34,78.7,Paid
+SO-0000461,30-Oct-2024,C-00307,Consumer,Southwest,Retail,Office,Monitor Stand,8,71.52,572.16,0.1,57.22,0,514.94,35.04,280.32,234.62,Pending
+SO-0000462,10/27/2024,C-00259,Consumer,Southeast,Retail,Apparel,Trail Jacket,2,133.55,267.1,0.0,0.0,0,267.1,68.11,136.22,130.88,Refunded
+SO-0000463,2024/10/09,C-00087,Enterprise,Midwest,Web,Electronics,Wireless Headphones,8,88.23,705.84,0.15,105.88,0,599.96,49.41,395.28,204.68,Paid
+SO-0000464,2024/10/11,C-00267,Enterprise,Southwest,Retail,Apparel,Cotton T-Shirt,6,23.85,143.1,0.15,21.46,0,121.64,9.06,54.36,67.28,Pending
+SO-0000465,10/11/2024,C-00221,Small Business,West,Web,Electronics,Wireless Headphones,2,89.17,178.34,0.1,17.83,0,160.51,49.94,99.88,60.63,Paid
+SO-0000466,10/22/2024,C-00287,Small Business,West,Retail,Home,Desk Lamp,4,43.32,173.28,0.2,34.66,0,138.62,20.79,83.16,55.46,Paid
+SO-0000467,2024-10-19,C-00307,Consumer,Southeast,Web,Office,Monitor Stand,11,64.86,713.46,0.0,0.0,0,713.46,31.78,349.58,363.88,Pending
+SO-0000468,2024/10/09,C-00042,Enterprise,Northeast,Web,Office,Ergonomic Chair,4,289.01,1156.04,0.05,57.8,0,1098.24,184.97,739.88,358.36,Refunded
+SO-0000469, 2024-10-06 ,C-00205,Consumer,Southwest,Web,Electronics,Smart Speaker,2,120.44,240.88,0.0,0.0,0,240.88,71.06,142.12,98.76,Pending
+SO-0000470,2024-10-22,C-00166,Consumer,Southwest,,Electronics,Wireless Headphones,8,84.73,677.84,0.0,0.0,0,677.84,47.45,379.6,298.24,Paid
+SO-0000471,10/18/2024,C-00049,Consumer,West,Web,Home,Air Purifier,5,162.31,811.55,0.0,0.0,0,811.55,100.63,503.15,308.4,Refunded
+SO-0000472,2024-10-31,C-00246,Enterprise,West,Web,Apparel,Everyday Backpack,4,60.83,243.32,0.15,36.5,0,206.82,26.16,104.64,102.18,Refunded
+SO-0000473,2024-10-14,C-00182,Small Business,West,Retail,Electronics,USB-C Dock,2,74.27,148.54,0.0,0.0,0,148.54,38.62,77.24,71.3,Paid
+SO-0000474,2024-10-28,C-00154,Consumer,Northeast,Web,Electronics,USB-C Dock,7,72.49,507.43,0.0,0.0,0,507.43,37.69,263.83,243.6,Paid
+SO-0000475,2024-10-14,C-00042,Enterprise,West,Web,Apparel,Cotton T-Shirt,9,23.69,213.21,0.1,21.32,0,191.89,9.0,81.0,110.89,Refunded
+SO-0000476,10/29/2024,C-00254,Small Business,Southeast,Web,Office,Ergonomic Chair,8,294.51,2356.08,0.05,117.8,0,2238.28,188.49,1507.92,730.36,Pending
+SO-0000477,04-Oct-2024,C-00306,Enterprise,Southeast,Partner,Electronics,USB-C Dock,2,74.15,148.3,0.2,29.66,0,118.64,38.56,77.12,41.52,Paid
+SO-0000478,10/30/2024,C-00132,Enterprise,Southwest,Web,Electronics,USB-C Dock,4,74.94,299.76,0.05,14.99,0,284.77,38.97,155.88,128.89,Paid
+SO-0000479,2024/10/30,C-00305,Small Business,West,Web,Home,Desk Lamp,4,42.55,170.2,0.1,17.02,0,153.18,20.42,81.68,71.5,Refunded
+SO-0000480,2024-10-25,C-00283,Consumer,Midwest,Web,Office,Ergonomic Chair,10,286.36,2863.6,0.0,0.0,0,2863.6,183.27,1832.7,1030.9,Pending
+SO-0000481,10/31/2024,C-00107,Small Business,Southeast,Web,Home,Air Purifier,4,159.21,636.84,0.1,63.68,0,573.16,98.71,394.84,178.32,Paid
+SO-0000482,12-Oct-2024,C-00198,Enterprise,Southeast,Web,Electronics,Smart Speaker,8,115.57,924.56,0.05,46.23,0,878.33,68.19,545.52,332.81,Paid
+SO-0000483,2024-10-29,C-00201,Enterprise,Southeast,Web,Apparel,Trail Jacket,6,136.71,820.26,0.1,82.03,0,738.23,69.72,418.32,319.91,Paid
+SO-0000484,2024/10/17,C-00014,Small Business,Midwest,Retail,Home,Coffee Maker,2,91.67,183.34,0.05,9.17,0,174.17,52.25,104.5,69.67,Paid
+SO-0000485,11-Oct-2024,C-00290,Small Business,Midwest,Partner,Apparel,Cotton T-Shirt,8,24.14,193.12,0.05,9.66,0,183.46,9.17,73.36,110.1,Refunded
+SO-0000486,10/06/2024,C-00287,Small Business,Northeast,Partner,Home,Coffee Maker,7,95.4,667.8,0.05,33.39,0,634.41,54.38,380.66,253.75,Refunded
+SO-0000487,10/15/2024,C-00245,Small Business,Midwest,Web,Electronics,Wireless Headphones,8,94.72,757.76,0.2,151.55,0,606.21,53.04,424.32,181.89,Refunded
+SO-0000488,02-Oct-2024,C-00133,Consumer,Northeast,Web,Office,Mechanical Keyboard,7,104.57,731.99,0.1,73.2,0,658.79,57.51,402.57,256.22,Paid
+SO-0000489,2024/10/06,C-00105,Enterprise,Midwest,Partner,Office,Mechanical Keyboard,4,103.4,413.6,0.0,0.0,0,413.6,56.87,227.48,186.12,Paid
+SO-0000490,10/01/2024,C-00177,Enterprise,Southwest,Web,Office,Ergonomic Chair,2,291.5,583.0,0.2,116.6,0,466.4,186.56,373.12,93.28,Refunded
+SO-0000491,2024-10-18,C-00118,Consumer,Southwest,Retail,Home,Air Purifier,9,150.83,1357.47,0.0,0.0,0,1357.47,93.51,841.59,515.88,Paid
+SO-0000492,2024-10-03,C-00098,Small Business,Northeast,Web,Office,Mechanical Keyboard,4,110.98,443.92,0.1,44.39,0,399.53,61.04,244.16,155.37,Refunded
+SO-0000493,23-Oct-2024,C-00030,Enterprise, midwest ,Web,Home,Air Purifier,8,168.35,1346.8,0.0,0.0,0,1346.8,104.38,835.04,511.76,Paid
+SO-0000494,2024/10/26,C-00246,Enterprise,Southeast,Retail,Electronics,USB-C Dock,6,71.0,426.0,0.05,21.3,0,404.7,36.92,221.52,183.18,Pending
+SO-0000495,30-Oct-2024,C-00180,Enterprise,Midwest,Retail,Home,Coffee Maker,4,89.55,358.2,0.0,0.0,0,358.2,51.04,204.16,154.04,Paid
+SO-0000496,10/24/2024,C-00231,Enterprise,Northeast,Web,Office,Mechanical Keyboard,10,111.15,1111.5,0.15,166.72,0,944.78,61.13,611.3,333.48,Pending
+SO-0000497,2024-10-30,C-00038,Small Business,Midwest,Web,Electronics,Wireless Headphones,7,91.94,643.58,0.05,32.18,0,611.4,51.49,360.43,250.97,Paid
+SO-0000498,2024-10-20,C-00042,Enterprise,Southwest,Web,Office,Monitor Stand,9,68.23,614.07,0.0,0.0,0,614.07,33.43,300.87,313.2,Paid
+SO-0000499,10/17/2024,C-00043,Consumer,Midwest,Retail,Home,Desk Lamp,13,42.26,549.38,0.0,0.0,0,549.38,20.28,263.64,285.74,Paid
+SO-0000500,29-Oct-2024,C-00099,Enterprise,Southeast,Retail,Electronics,Smart Speaker,4,125.64,502.56,0.1,50.26,0,452.3,74.13,296.52,155.78,Refunded
+SO-0000501,11/25/2024,C-00133,Consumer,Southwest,Retail,Apparel,Trail Jacket,5,138.86,694.3,0.05,34.71,0,659.59,70.82,354.1,305.49,Refunded
+SO-0000502,2024-11-16,C-00081,Enterprise,Northeast,Web,Home,Coffee Maker,10,97.31,973.1,0.05,48.66,0,924.44,55.47,554.7,369.74,Paid
+SO-0000503,2024/11/04,C-00315,Enterprise,Northeast,Retail,Home,Coffee Maker,2,91.39,182.78,0.0,0.0,0,182.78,52.09,104.18,78.6,Refunded
+SO-0000504,2024/11/22,C-00150,Enterprise,West,Web,Home,Air Purifier,8,152.27,1218.16,0.1,121.82,0,1096.34,94.41,755.28,341.06,Paid
+SO-0000505,2024/11/03,C-00237,Enterprise,Midwest,Partner,Home,Coffee Maker,6,95.89,575.34,0.05,28.77,0,546.57,54.66,327.96,218.61,Paid
+SO-0000506,2024/11/02,C-00263,Small Business,Northeast,Web,Home,Desk Lamp,12,42.72,512.64,0.1,51.26,0,461.38,20.51,246.12,215.26,Paid
+SO-0000507,2024-11-04,C-00141,Enterprise,Southwest,Web,Electronics,Smart Speaker,5,116.56,582.8,0.15,87.42,0,495.38,68.77,343.85,151.53,Paid
+SO-0000508,17-Nov-2024,C-00176,Small Business,Northeast,Web,Apparel,Everyday Backpack,8,55.63,445.04,0.1,44.5,0,400.54,23.92,191.36,209.18,Refunded
+SO-0000509,11/23/2024,C-00263,Small Business,Northeast,Retail,Apparel,Everyday Backpack,9,57.8,520.2,0.1,52.02,0,468.18,24.85,223.65,244.53,Pending
+SO-0000510,11/28/2024,C-00217,Consumer,Southwest,Web,Apparel,Trail Jacket,5,130.0,650.0,0.15,97.5,0,552.5,66.3,331.5,221.0,Refunded
+SO-0000511,20-Nov-2024,C-00272,Small Business,Southwest,Retail,Electronics,Wireless Headphones,7,93.78,656.46,0.0,0.0,0,656.46,52.52,367.64,288.82,Refunded
+SO-0000512,date unavailable,C-00178,Consumer,Southeast,Retail,Apparel,Cotton T-Shirt,10,25.05,250.5,0.0,0.0,0,250.5,9.52,95.2,155.3,Paid
+SO-0000513,2024-11-01,C-00216,Enterprise,Southwest,Partner,Apparel,Cotton T-Shirt,12,23.65,283.8,0.2,56.76,0,227.04,8.99,107.88,119.16,Paid
+SO-0000514,2024/11/26,C-00129,Enterprise,West,Web,Office,Monitor Stand,5,70.94,354.7,0.0,0.0,0,354.7,34.76,173.8,180.9,Paid
+SO-0000515,11/25/2024,C-00110,Small Business,Midwest,Retail,Office,Monitor Stand,4,66.21,264.84,0.2,52.97,0,211.87,32.44,129.76,82.11,Paid
+SO-0000516,2024/11/13,C-00270,Enterprise,Southwest,Web,Home,Air Purifier,7,160.73,1125.11,0.1,112.51,1,867.94,99.65,597.9,270.04,Pending
+SO-0000517,2024/11/26,C-00043,Consumer,West,Retail,Home,Air Purifier,12,166.97,2003.64,0.05,100.18,0,1903.46,103.52,1242.24,661.22,Pending
+SO-0000518,11-Nov-2024,C-00292,Consumer,Midwest,Retail,Apparel,Cotton T-Shirt,12,23.0,276.0,0.05,13.8,0,262.2,8.74,104.88,157.32,Paid
+SO-0000519,2024-11-17,C-00201,Enterprise,Southeast,Web,Electronics,Wireless Headphones,5,92.86,464.3,0.15,69.64,0,394.66,52.0,260.0,134.66,Paid
+SO-0000520,29-Nov-2024,C-00125,Small Business,Northeast,Web,Office,Ergonomic Chair,4,266.92,1067.68,0.05,53.38,0,1014.3,170.83,683.32,330.98,Paid
+SO-0000521,2024/11/09,C-00150,Enterprise, southeast ,Retail,Apparel,Everyday Backpack,7,56.43,395.01,0.05,19.75,0,375.26,24.26,169.82,205.44,Pending
+SO-0000522,11/04/2024,C-00274,Consumer,Southwest,Web,Office,Ergonomic Chair,2,270.92,541.84,0.05,27.09,0,514.75,173.39,346.78,167.97,Paid
+SO-0000523,2024-11-21,C-00005,Small Business,Southeast,Retail,Office,Ergonomic Chair,2,295.05,590.1,0.05,29.51,0,560.59,188.83,377.66,182.93,Paid
+SO-0000524,11/08/2024,C-00064,Consumer,West,Web,Electronics,USB-C Dock,12,72.37,868.44,0.1,86.84,0,781.6,37.63,451.56,330.04,Refunded
+SO-0000525,17-Nov-2024,C-00097,Consumer,West,Web,Electronics,USB-C Dock,11,77.84,856.24,0.0,0.0,0,856.24,40.48,445.28,410.96,Refunded
+SO-0000526,11/07/2024,C-00224,Small Business,Southwest,Web,Office,Mechanical Keyboard,5,101.2,506.0,0.05,25.3,0,480.7,55.66,278.3,202.4,Paid
+SO-0000527,17-Nov-2024,C-00273,Enterprise,Midwest,Web,Apparel,Trail Jacket,9,137.48,1237.32,0.05,61.87,0,1175.45,70.11,630.99,544.46,Pending
+SO-0000528,2024/11/25,C-00108,Enterprise,West,Web,Electronics,Wireless Headphones,4,95.29,381.16,0.05,19.06,0,362.1,53.36,213.44,148.66,Paid
+SO-0000529,2024/11/12,C-00279,Enterprise,Northeast,Web,Apparel,Everyday Backpack,7,56.45,395.15,0.2,79.03,0,316.12,24.27,169.89,146.23,Paid
+SO-0000530,25-Nov-2024,C-00303,Enterprise,Southeast,Web,Home,Desk Lamp,6,40.25,241.5,0.0,0.0,0,241.5,19.32,115.92,125.58,Pending
+SO-0000531,11/28/2024,C-00212,Small Business,Southeast,Retail,Electronics,USB-C Dock,9,70.38,633.42,0.05,31.67,1,534.89,36.6,292.8,242.09,Pending
+SO-0000532,2024/11/22,C-00056,Small Business,Southeast,Retail,Home,Desk Lamp,10,41.3,413.0,0.0,0.0,0,413.0,19.82,198.2,214.8,Refunded
+SO-0000533,2024-11-23,C-00103,Consumer,Northeast,Web,Home,Air Purifier,5,153.28,766.4,0.1,76.64,0,689.76,95.03,475.15,214.61,Refunded
+SO-0000534,23-Nov-2024,C-00028,Consumer,West,Web,Home,Coffee Maker,7,93.23,652.61,0.0,0.0,0,652.61,53.14,371.98,280.63,Paid
+SO-0000535,11/14/2024,C-00112,Consumer,Northeast,Web,Apparel,Cotton T-Shirt,5,23.16,115.8,0.1,11.58,0,104.22,8.8,44.0,60.22,Paid
+SO-0000536,11/20/2024,C-00205,Consumer,Midwest,Partner,Electronics,USB-C Dock,7,70.62,494.34,0.1,49.43,0,444.91,36.72,257.04,187.87,Paid
+SO-0000537,2024/11/08,C-00230,Small Business,Northeast,Partner,Home,Coffee Maker,15,98.08,1471.2,0.0,0.0,0,1471.2,55.91,838.65,632.55,Pending
+SO-0000538,11/20/2024,C-00004,Consumer,Midwest,Retail,Home,Coffee Maker,8,98.66,789.28,0.05,39.46,0,749.82,56.24,449.92,299.9,Refunded
+SO-0000539,11/07/2024,C-00151,Consumer,Southeast,Retail,Office,Mechanical Keyboard,5,102.12,510.6,0.0,0.0,0,510.6,56.17,280.85,229.75,Paid
+SO-0000540,11/17/2024,C-00118,Consumer,Midwest,Web,Apparel,Trail Jacket,11,124.74,1372.14,0.0,0.0,0,1372.14,63.62,699.82,672.32,Paid
+SO-0000541,11/28/2024,C-00005,Small Business,Northeast,Web,Office,Ergonomic Chair,10,293.51,2935.1,0.2,587.02,0,2348.08,187.85,1878.5,469.58,Paid
+SO-0000542, 11/28/2024 ,C-00098,Small Business,Northeast,Web,Home,Air Purifier,2,149.57,299.14,0.2,59.83,0,239.31,92.73,185.46,53.85,Pending
+SO-0000543,2024-11-07,C-00071,Small Business,Northeast,Web,Office,Ergonomic Chair,14,268.11,3753.54,0.1,375.35,0,3378.19,171.59,2402.26,975.93,Pending
+SO-0000544,2024/11/05,C-00057,Enterprise,Northeast,Web,Home,Desk Lamp,9,43.82,394.38,0.05,19.72,0,374.66,21.03,189.27,185.39,Paid
+SO-0000545,11/04/2024,C-00125,Small Business,Southwest,Web,Electronics,USB-C Dock,8,73.25,586.0,0.0,0.0,0,586.0,38.09,304.72,281.28,Pending
+SO-0000546,11/17/2024,C-00014,Small Business,Northeast,Retail,Home,Coffee Maker,9,89.53,805.77,0.15,120.87,0,684.9,51.03,459.27,225.63,Paid
+SO-0000547,2024/11/05,C-00255,Enterprise,Southeast,Web,Home,Air Purifier,5,152.33,761.65,0.1,76.17,0,685.48,94.44,472.2,213.28,Paid
+SO-0000548,2024/11/28,C-00112,Consumer,Midwest,Web,Home,Coffee Maker,8,90.27,722.16,0.15,108.32,0,613.84,51.45,411.6,202.24,Pending
+SO-0000549,2024/11/15,C-00004,Consumer,West,Web,Home,Coffee Maker,6,97.04,582.24,0.0,0.0,0,582.24,55.31,331.86,250.38,Pending
+SO-0000550,19-Nov-2024,C-00279,Enterprise,West,Web,Apparel,Trail Jacket,7,136.7,956.9,0.0,0.0,0,956.9,69.72,488.04,468.86,Paid
+SO-0000551,2024/12/02,C-00059,Small Business,Midwest,Retail,Apparel,Everyday Backpack,5,58.72,293.6,0.0,0.0,0,293.6,25.25,126.25,167.35,Pending
+SO-0000552,12/24/2024,C-00266,Small Business,Southeast,Retail,Apparel,Cotton T-Shirt,5,25.15,125.75,0.0,0.0,0,125.75,9.56,47.8,77.95,Paid
+SO-0000553,12/11/2024,C-00147,Enterprise,Southeast,Retail,Home,Air Purifier,13,166.12,2159.56,0.0,0.0,0,2159.56,102.99,1338.87,820.69,Refunded
+SO-0000554,12/09/2024,C-00155,Small Business,Midwest,Web,Home,Desk Lamp,8,44.52,356.16,0.0,0.0,0,356.16,21.37,170.96,185.2,Paid
+SO-0000555,12/31/2024,C-00075,Enterprise,Midwest,Partner,Apparel,Cotton T-Shirt,12,25.22,302.64,0.0,0.0,0,302.64,9.58,114.96,187.68,Paid
+SO-0000556,2024/12/21,C-00045,Enterprise,Northeast,Retail,Apparel,Everyday Backpack,3,57.53,172.59,0.15,25.89,0,146.7,24.74,74.22,72.48,Paid
+SO-0000557,12/08/2024,C-00029,Small Business,Midwest,Web,Office,Ergonomic Chair,5,290.01,1450.05,0.1,145.0,0,1305.05,185.61,928.05,377.0,Paid
+SO-0000558,24-Dec-2024,C-00122,Small Business,,Retail,Office,Mechanical Keyboard,13,107.56,1398.28,0.15,209.74,0,1188.54,59.16,769.08,419.46,Refunded
+SO-0000559,2024-12-13,C-00133,Consumer,Southeast,Web,Apparel,Trail Jacket,11,134.31,1477.41,0.15,221.61,0,1255.8,68.5,753.5,502.3,Pending
+SO-0000560,2024-12-17,C-00222,Enterprise,Northeast,Web,Electronics,Smart Speaker,7,112.96,790.72,0.05,39.54,0,751.18,66.65,466.55,284.63,Refunded
+SO-0000561,2024-12-05,C-00139,Consumer,Southeast,Retail,Apparel,Everyday Backpack,5,54.98,274.9,0.1,27.49,0,247.41,23.64,118.2,129.21,Pending
+SO-0000562,05-Dec-2024,C-00218,Small Business,West,Web,Apparel,Everyday Backpack,13,58.91,765.83,0.2,153.17,0,612.66,25.33,329.29,283.37,Pending
+SO-0000563,2024/12/13,C-00286,Consumer,West,Retail,Home,Desk Lamp,8,43.86,350.88,0.2,70.18,0,280.7,21.05,168.4,112.3,Paid
+SO-0000564,09-Dec-2024,C-00016,Consumer,Southeast,Partner,Home,Desk Lamp,11,43.29,476.19,0.2,95.24,0,380.95,20.78,228.58,152.37,Paid
+SO-0000565,15-Dec-2024,C-00313,Consumer,Northeast,Partner,Apparel,Trail Jacket,14,135.28,1893.92,0.05,94.7,0,1799.22,68.99,965.86,833.36,Paid
+SO-0000566,2024/12/14,C-00262,Consumer,Southeast,Retail,Apparel,Cotton T-Shirt,8,22.66,181.28,0.0,0.0,0,181.28,8.61,68.88,112.4,Paid
+SO-0000567,2024/12/09,C-00213,Enterprise,Midwest,Retail,Office,Mechanical Keyboard,13,109.07,1417.91,0.0,0.0,0,1417.91,59.99,779.87,638.04,Paid
+SO-0000568,08-Dec-2024,C-00044,Small Business,Midwest,Retail,Electronics,USB-C Dock,8,76.37,610.96,0.05,30.55,0,580.41,39.71,317.68,262.73,Paid
+SO-0000569,12/16/2024,C-00123,Enterprise,West,Retail,Home,Air Purifier,8,155.68,1245.44,0.1,124.54,0,1120.9,96.52,772.16,348.74,Refunded
+SO-0000570,14-Dec-2024,C-00149,Small Business,Southeast,Retail,Electronics,Wireless Headphones,3,91.6,274.8,0.0,0.0,0,274.8,51.3,153.9,120.9,Pending
+SO-0000571,2024/12/04,C-00071,Small Business,West,Web,Office,Monitor Stand,5,64.01,320.05,0.1,32.01,0,288.04,31.36,156.8,131.24,Paid
+SO-0000572,12/22/2024,C-00126,Enterprise,,Web,Home,Desk Lamp,9,39.8,358.2,0.15,53.73,0,304.47,19.1,171.9,132.57,Paid
+SO-0000573,12/19/2024,C-00140,Small Business,Southwest,Partner,Apparel,Cotton T-Shirt,13,23.63,307.19,0.0,0.0,0,307.19,8.98,116.74,190.45,Paid
+SO-0000574,2024/12/29,C-00211,Consumer,West,Retail,Office,Monitor Stand,8,67.43,539.44,0.0,0.0,0,539.44,33.04,264.32,275.12,Refunded
+SO-0000575,2024-12-27,C-00306,Enterprise,Northeast,Web,Office,Mechanical Keyboard,3,110.73,332.19,0.05,16.61,0,315.58,60.9,182.7,132.88,Paid
+SO-0000576,12/20/2024,C-00122,Small Business,West,Partner,Home,Desk Lamp,5,40.2,201.0,0.1,20.1,0,180.9,19.3,96.5,84.4,Paid
+SO-0000577,2024-12-24,C-00202,Consumer,West,Web,Apparel,Trail Jacket,8,130.3,1042.4,0.1,104.24,0,938.16,66.45,531.6,406.56,Paid
+SO-0000578,14-Dec-2024,C-00297,Enterprise,Northeast,Partner,Home,Air Purifier,13,165.9,2156.7,0.0,0.0,0,2156.7,102.86,1337.18,819.52,Paid
+SO-0000579,2024-12-01,C-00155,Small Business,West,Retail,Apparel,Cotton T-Shirt,10,24.76,247.6,0.0,0.0,0,247.6,9.41,94.1,153.5,Pending
+SO-0000580,2024/12/20,C-00192,Enterprise,Southeast,Retail,Electronics,Smart Speaker,2,118.73,237.46,0.1,23.75,0,213.71,70.05,140.1,73.61,Paid
+SO-0000581,05-Dec-2024,C-00105,Enterprise,Southeast,Partner,Home,Desk Lamp,5,40.31,201.55,0.0,0.0,0,201.55,19.35,96.75,104.8,Pending
+SO-0000582,2024-12-21,C-00171,,Midwest,Retail,Home,Coffee Maker,5,96.65,483.25,0.15,72.49,0,410.76,55.09,275.45,135.31,Paid
+SO-0000583,2024-12-20,C-00109,Consumer,Midwest,Web,Home,Desk Lamp,8,41.74,333.92,0.15,50.09,0,283.83,20.04,160.32,123.51,Paid
+SO-0000584,12/21/2024,C-00257,Small Business,Midwest,Retail,Electronics,Smart Speaker,7,124.29,870.03,0.15,130.5,0,739.53,73.33,513.31,226.22,Pending
+SO-0000585,12/05/2024,C-00257,Small Business,Northeast,Web,Office,Monitor Stand,5,67.81,339.05,0.0,0.0,0,339.05,33.23,166.15,172.9,Refunded
+SO-0000586,2024/12/22,C-00068,Small Business,Northeast,Partner,Office,Monitor Stand,10,70.42,704.2,0.1,70.42,0,633.78,34.51,345.1,288.68,Paid
+SO-0000587,09-Dec-2024,C-00075,Enterprise,Northeast,Partner,Electronics,Wireless Headphones,5,85.45,427.25,0.05,21.36,0,405.89,47.85,239.25,166.64,Paid
+SO-0000588,12/22/2024,C-00270,Enterprise,Southeast,Web,Apparel,Cotton T-Shirt,5,24.36,121.8,0.05,6.09,0,115.71,9.26,46.3,69.41,Paid
+SO-0000589,2024/12/17,C-00088,Consumer,West,Retail,Apparel,Cotton T-Shirt,9,24.82,223.38,0.0,0.0,0,223.38,9.43,84.87,138.51,Paid
+SO-0000590,19-Dec-2024,C-00079,Consumer,Southwest,Web,Apparel,Cotton T-Shirt,10,25.0,250.0,0.0,0.0,0,250.0,9.5,95.0,155.0,Paid
+SO-0000591,2024/12/13,C-00202,Consumer,Midwest,Web,Office,Monitor Stand,7,65.66,459.62,0.0,0.0,0,459.62,32.17,225.19,234.43,Paid
+SO-0000592,2024/12/22,C-00230,Small Business,West,Retail,Electronics,USB-C Dock,10,73.76,737.6,0.0,0.0,0,737.6,38.36,383.6,354.0,Refunded
+SO-0000593,2024/12/10,C-00151,Consumer,Midwest,Web,Home,Desk Lamp,8,43.86,350.88,0.05,17.54,0,333.34,21.05,168.4,164.94,Refunded
+SO-0000594,2024-12-22,C-00195,Enterprise,Midwest,Retail,Office,Mechanical Keyboard,5,102.23,511.15,0.15,76.67,0,434.48,56.23,281.15,153.33,Paid
+SO-0000595,12/26/2024,C-00171,Enterprise,Southwest,Retail,Home,Desk Lamp,9,43.88,394.92,0.0,0.0,0,394.92,21.06,189.54,205.38,Pending
+SO-0000596,02-Dec-2024,C-00175,Consumer,Midwest,Retail,Apparel,Cotton T-Shirt,10,22.97,229.7,0.05,11.48,0,218.22,8.73,87.3,130.92,Pending
+SO-0000597,12/31/2024,C-00035,Small Business,West,Web,Office,Ergonomic Chair,8,272.54,2180.32,0.15,327.05,0,1853.27,174.43,1395.44,457.83,Paid
+SO-0000598,2024-12-09,C-00138,Enterprise,Southeast,Web,Home,Desk Lamp,9,41.35,372.15,0.15,55.82,0,316.33,19.85,178.65,137.68,Pending
+SO-0000599,2024-12-10,C-00180,Enterprise,West,Web,Electronics,Smart Speaker,2,121.26,242.52,0.05,12.13,0,230.39,71.54,143.08,87.31,Refunded
+SO-0000600,2024-12-22,C-00221,Small Business,West,Partner,Office,Mechanical Keyboard,9,109.04,981.36,0.2,196.27,0,785.09,59.97,539.73,245.36,Paid
+SO-0000601,2025-01-08,C-00267,Enterprise,Southwest,Retail,Office,Monitor Stand,5,69.61,348.05,0.0,0.0,0,348.05,34.11,170.55,177.5,Paid
+SO-0000602, 2025/01/12 ,C-00193,Consumer,Midwest,Web,Electronics,Wireless Headphones,12,86.99,1043.88,0.0,0.0,0,1043.88,48.71,584.52,459.36,Paid
+SO-0000603,2025/01/07,C-00171,Enterprise,Southeast,Web,Home,Air Purifier,5,162.1,810.5,0.2,162.1,0,648.4,100.5,502.5,145.9,Paid
+SO-0000604, 02-Jan-2025 ,C-00106,Consumer,Northeast,Web,Home,Coffee Maker,2,99.19,198.38,0.1,19.84,0,178.54,56.54,113.08,65.46,Refunded
+SO-0000605,04-Jan-2025,C-00161,Small Business,Midwest,Web,Home,Desk Lamp,2,43.5,87.0,0.15,13.05,0,73.95,20.88,41.76,32.19,Paid
+SO-0000606,01/19/2025,C-00211,Consumer,Southwest,Web,Office,Monitor Stand,2,67.15,134.3,0.05,6.72,0,127.58,32.9,65.8,61.78,Paid
+SO-0000607,2025/01/26,C-00198,,Northeast,Web,Electronics,USB-C Dock,4,70.28,281.12,0.0,0.0,0,281.12,36.55,146.2,134.92,Paid
+SO-0000608,14-Jan-2025,C-00173,Small Business,Southwest,Partner,Home,Coffee Maker,5,97.95,489.75,0.0,0.0,0,489.75,55.83,279.15,210.6,Paid
+SO-0000609,2025-01-27,C-00119,Small Business,West,Web,Home,Air Purifier,10,164.03,1640.3,0.0,0.0,0,1640.3,101.7,1017.0,623.3,Refunded
+SO-0000610,01/28/2025,C-00146,Small Business,Midwest,Retail,Office,Ergonomic Chair,5,271.01,1355.05,0.1,135.5,0,1219.55,173.45,867.25,352.3,Refunded
+SO-0000611,13-Jan-2025,C-00316,Consumer,West,Web,Home,Air Purifier,9,161.62,1454.58,0.05,72.73,0,1381.85,100.2,901.8,480.05,Paid
+SO-0000612,18-Jan-2025,C-00113,Small Business,Northeast,Retail,Electronics,USB-C Dock,7,70.95,496.65,0.15,74.5,0,422.15,36.89,258.23,163.92,Paid
+SO-0000613,13-Jan-2025,C-00160,Consumer,Southwest,Web,Electronics,Wireless Headphones,10,91.45,914.5,0.2,182.9,0,731.6,51.21,512.1,219.5,Paid
+SO-0000614,15-Jan-2025,C-00298,Consumer,Midwest,Web,Home,Air Purifier,5,154.63,773.15,0.0,0.0,0,773.15,95.87,479.35,293.8,Refunded
+SO-0000615,2025-01-11,C-00186,Enterprise,West,Web,Office,Monitor Stand,13,71.85,934.05,0.0,0.0,0,934.05,35.21,457.73,476.32,Pending
+SO-0000616,01/30/2025,C-00125,Small Business,Southeast,Web,Office,Mechanical Keyboard,7,108.7,760.9,0.05,38.05,0,722.85,59.79,418.53,304.32,Paid
+SO-0000617, 09-Jan-2025 ,C-00052,Consumer,West,Web,Apparel,Cotton T-Shirt,5,22.85,114.25,0.0,0.0,0,114.25,8.68,43.4,70.85,Refunded
+SO-0000618,21-Jan-2025,C-00088,Consumer,Southwest,Retail,Home,Coffee Maker,13,89.22,1159.86,0.15,173.98,0,985.88,50.86,661.18,324.7,Paid
+SO-0000619,2025/01/26,C-00261,Enterprise,Southwest,Retail,Apparel,Everyday Backpack,2,55.64,111.28,0.1,11.13,0,100.15,23.93,47.86,52.29,Paid
+SO-0000620,30-Jan-2025,C-00300,Enterprise,Southwest,Web,Apparel,Trail Jacket,2,130.9,261.8,0.0,0.0,0,261.8,66.76,133.52,128.28,Pending
+SO-0000621,01/19/2025,C-00192,Enterprise,Midwest,Web,Home,Desk Lamp,2,42.22,84.44,0.15,12.67,1,35.88,20.27,20.27,15.61,Paid
+SO-0000622,2025/01/04,C-00133,Consumer,Midwest,Partner,Office,Monitor Stand,7,66.07,462.49,0.05,23.12,0,439.37,32.37,226.59,212.78,Paid
+SO-0000623,2025/01/07,C-00012,Enterprise,Southeast,Web,Office,Ergonomic Chair,12,271.35,3256.2,0.0,0.0,0,3256.2,173.66,2083.92,1172.28,Paid
+SO-0000624,2025/01/12,C-00283,Consumer,Northeast,Web,Electronics,USB-C Dock,4,77.36,309.44,0.1,30.94,0,278.5,40.23,160.92,117.58,Refunded
+SO-0000625,2025-01-11,C-00084,Enterprise,West,Web,Office,Monitor Stand,10,66.04,660.4,0.05,33.02,0,627.38,32.36,323.6,303.78,Refunded
+SO-0000626,2025-01-10,C-00244,Consumer,Northeast,Retail,Apparel,Everyday Backpack,9,59.01,531.09,0.2,106.22,0,424.87,25.37,228.33,196.54,Pending
+SO-0000627,2025-01-27,C-00065,Small Business,,Web,Electronics,USB-C Dock,5,70.58,352.9,0.0,0.0,0,352.9,36.7,183.5,169.4,Paid
+SO-0000628,2025-01-19,C-00136,Consumer,Southeast,Web,Home,Desk Lamp,9,42.84,385.56,0.0,0.0,0,385.56,20.56,185.04,200.52,Paid
+SO-0000629,2025/01/20,C-00053,Small Business,Northeast,,Office,Mechanical Keyboard,9,102.82,925.38,0.1,92.54,0,832.84,56.55,508.95,323.89,Pending
+SO-0000630,31-Jan-2025,C-00121,Consumer,Southeast,Web,Office,Mechanical Keyboard,7,106.38,744.66,0.0,0.0,0,744.66,58.51,409.57,335.09,Paid
+SO-0000631,01/11/2025,C-00277,Consumer,Midwest,Partner,Home,Air Purifier,5,163.31,816.55,0.1,81.66,0,734.89,101.25,506.25,228.64,Paid
+SO-0000632,2025/01/19,C-00304,Consumer,West,Retail,Electronics,USB-C Dock,2,73.37,146.74,0.1,14.67,0,132.07,38.15,76.3,55.77,Pending
+SO-0000633,23-Jan-2025,C-00319,Consumer,Southeast,Web,Apparel,Trail Jacket,8,134.66,1077.28,0.05,53.86,0,1023.42,68.68,549.44,473.98,Paid
+SO-0000634,2025/01/30,C-00047,Small Business,Southwest,Partner,Apparel,Everyday Backpack,4,59.36,237.44,0.0,0.0,0,237.44,25.52,102.08,135.36,Paid
+SO-0000635,01/28/2025,C-00310,Consumer,Midwest,Web,Office,Monitor Stand,4,65.23,260.92,0.0,0.0,0,260.92,31.96,127.84,133.08,Pending
+SO-0000636,2025-01-17,C-00097,Consumer,Northeast,Partner,Office,Ergonomic Chair,5,273.8,1369.0,0.1,136.9,0,1232.1,175.23,876.15,355.95,Refunded
+SO-0000637,date unavailable,C-00305,Small Business,Southwest,Retail,Apparel,Trail Jacket,5,126.54,632.7,0.05,31.64,0,601.06,64.54,322.7,278.36,Paid
+SO-0000638,2025/01/31,C-00083,Small Business,Southeast,Web,Office,Monitor Stand,4,64.66,258.64,0.15,38.8,0,219.84,31.68,126.72,93.12,Paid
+SO-0000639,2025/01/19,C-00207,Enterprise,West,Retail,Office,Monitor Stand,4,71.3,285.2,0.0,0.0,0,285.2,34.94,139.76,145.44,Pending
+SO-0000640,13-Jan-2025,C-00100,Consumer,Southwest,Web,Home,Coffee Maker,6,99.33,595.98,0.15,89.4,0,506.58,56.62,339.72,166.86,Paid
+SO-0000641,01/07/2025,C-00042,Enterprise,Southwest,Retail,Home,Coffee Maker,14,96.09,1345.26,0.15,201.79,0,1143.47,54.77,766.78,376.69,Paid
+SO-0000642,01/08/2025,C-00200,Small Business,Midwest,Partner,Apparel,Cotton T-Shirt,4,24.97,99.88,0.05,4.99,0,94.89,9.49,37.96,56.93,Pending
+SO-0000643,2025-01-18,C-00290,Small Business,Southeast,Web,Apparel,Cotton T-Shirt,14,23.24,325.36,0.05,16.27,0,309.09,8.83,123.62,185.47,Pending
+SO-0000644,2025/01/02,C-00226,Consumer,,Web,Home,Desk Lamp,10,40.35,403.5,0.05,20.18,0,383.32,19.37,193.7,189.62,Refunded
+SO-0000645,01/31/2025,C-00312,Enterprise,Southeast,Retail,Electronics,Wireless Headphones,5,93.33,466.65,0.0,0.0,0,466.65,52.26,261.3,205.35,Paid
+SO-0000646,2025/01/11,C-00115,Consumer,Southeast,Web,Office,Monitor Stand,5,69.14,345.7,0.05,17.29,0,328.41,33.88,169.4,159.01,Paid
+SO-0000647,2025/01/31,C-00215,Small Business,West,Retail,Home,Air Purifier,9,154.81,1393.29,0.1,139.33,0,1253.96,95.98,863.82,390.14,Paid
+SO-0000648,19-Jan-2025,C-00180,Enterprise,Midwest,Partner,Apparel,Cotton T-Shirt,12,25.31,303.72,0.05,15.19,0,288.53,9.62,115.44,173.09,Paid
+SO-0000649,23-Jan-2025,C-00043,Consumer,Southeast,Partner,Electronics,Smart Speaker,6,124.89,749.34,0.15,112.4,0,636.94,73.69,442.14,194.8,Paid
+SO-0000650,2025/01/25,C-00081,Enterprise,Southwest,Partner,Office,Mechanical Keyboard,6,104.23,625.38,0.05,31.27,0,594.11,57.33,343.98,250.13,Paid
+SO-0000651,2025/02/13,C-00291,Enterprise, southeast ,Retail,Apparel,Everyday Backpack,6,55.58,333.48,0.1,33.35,0,300.13,23.9,143.4,156.73,Refunded
+SO-0000652,2025-02-12,C-00298,,Southwest,Retail,Electronics,USB-C Dock,4,76.94,307.76,0.0,0.0,0,307.76,40.01,160.04,147.72,Paid
+SO-0000653,2025-02-22,C-00049,Consumer,West,Partner,Electronics,Smart Speaker,4,114.14,456.56,0.2,91.31,0,365.25,67.34,269.36,95.89,Paid
+SO-0000654,2025-02-26,C-00216,Enterprise,Northeast,Partner,Home,Desk Lamp,5,42.6,213.0,0.05,10.65,0,202.35,20.45,102.25,100.1,Paid
+SO-0000655,01-Feb-2025,C-00027,Enterprise,Northeast,Retail,Electronics,USB-C Dock,6,73.86,443.16,0.05,22.16,0,421.0,38.41,230.46,190.54,Paid
+SO-0000656,2025-02-06,C-00105,Enterprise,Southwest,Retail,Electronics,Wireless Headphones,4,88.01,352.04,0.0,0.0,0,352.04,49.29,197.16,154.88,Paid
+SO-0000657,25-Feb-2025,C-00168,Enterprise,Southwest,Retail,Apparel,Cotton T-Shirt,6,25.22,151.32,0.0,0.0,0,151.32,9.58,57.48,93.84,Paid
+SO-0000658,2025/02/10,C-00168,Enterprise,West,Retail,Electronics,Wireless Headphones,6,93.55,561.3,0.05,28.06,0,533.24,52.39,314.34,218.9,Refunded
+SO-0000659,02/26/2025,C-00141,Enterprise,Northeast,Web,Electronics,USB-C Dock,12,72.85,874.2,0.0,0.0,0,874.2,37.88,454.56,419.64,Refunded
+SO-0000660,2025/02/18,C-00297,Enterprise,Northeast,Web,Home,Air Purifier,6,158.54,951.24,0.15,142.69,1,673.79,98.29,491.45,182.34,Paid
+SO-0000661,2025-02-09,C-00054,Enterprise,Northeast,Retail,Office,Ergonomic Chair,4,265.43,1061.72,0.0,0.0,1,796.29,169.88,509.64,286.65,Paid
+SO-0000662,05-Feb-2025,C-00277,Consumer,Midwest,Web,Office,Ergonomic Chair,5,274.27,1371.35,0.0,0.0,0,1371.35,175.53,877.65,493.7,Refunded
+SO-0000663, 2025/02/02 ,C-00270,Enterprise,West,Web,Apparel,Everyday Backpack,4,56.17,224.68,0.05,11.23,0,213.45,24.15,96.6,116.85,Paid
+SO-0000664,27-Feb-2025,C-00064,Consumer,Southwest,Retail,Apparel,Cotton T-Shirt,4,22.59,90.36,0.0,0.0,0,90.36,8.58,34.32,56.04,Paid
+SO-0000665,2025/02/03,C-00299,Small Business,Northeast,Web,Apparel,Trail Jacket,4,125.13,500.52,0.05,25.03,0,475.49,63.82,255.28,220.21,Paid
+SO-0000666,2025-02-27,C-00202,Consumer,Southeast,Retail,Apparel,Everyday Backpack,6,55.52,333.12,0.05,16.66,0,316.46,23.87,143.22,173.24,Paid
+SO-0000667,02/16/2025,C-00052,Consumer,Northeast,Web,Apparel,Everyday Backpack,8,61.01,488.08,0.0,0.0,0,488.08,26.23,209.84,278.24,Paid
+SO-0000668,27-Feb-2025,C-00308,Small Business,Southwest,Web,Electronics,Smart Speaker,4,112.58,450.32,0.05,22.52,0,427.8,66.42,265.68,162.12,Paid
+SO-0000669,06-Feb-2025,C-00046,Consumer,Southwest,Web,Electronics,USB-C Dock,6,76.28,457.68,0.05,22.88,0,434.8,39.67,238.02,196.78,Pending
+SO-0000670,2025/02/01,C-00163,Consumer,West,Partner,Home,Desk Lamp,6,40.76,244.56,0.0,0.0,0,244.56,19.56,117.36,127.2,Paid
+SO-0000671,02/01/2025,C-00272,Small Business,West,Web,Home,Coffee Maker,6,94.29,565.74,0.05,28.29,0,537.45,53.75,322.5,214.95,Pending
+SO-0000672,2025/02/26,C-00096,Enterprise,Southwest,Retail,Apparel,Trail Jacket,5,139.37,696.85,0.0,0.0,0,696.85,71.08,355.4,341.45,Paid
+SO-0000673,2025/02/23,C-00190,Consumer,West,Web,Home,Air Purifier,8,159.84,1278.72,0.0,0.0,0,1278.72,99.1,792.8,485.92,Paid
+SO-0000674,21-Feb-2025,C-00017,Small Business,Midwest,Web,Electronics,Wireless Headphones,2,88.74,177.48,0.0,0.0,0,177.48,49.69,99.38,78.1,Paid
+SO-0000675,2025-02-19,C-00136,Consumer,Southwest,Web,Home,Air Purifier,11,154.03,1694.33,0.1,169.43,0,1524.9,95.5,1050.5,474.4,Pending
+SO-0000676,2025-02-13,C-00072,Enterprise,Midwest,Web,Office,Monitor Stand,8,70.11,560.88,0.05,28.04,1,466.24,34.35,240.45,225.79,Paid
+SO-0000677,2025-02-10,C-00293,Small Business,Midwest,Web,Electronics,Wireless Headphones,4,94.3,377.2,0.1,37.72,0,339.48,52.81,211.24,128.24,Paid
+SO-0000678,2025-02-28,C-00100,Consumer,Midwest,Web,Electronics,Smart Speaker,8,112.72,901.76,0.0,0.0,0,901.76,66.5,532.0,369.76,Paid
+SO-0000679,02/04/2025,C-00215,Small Business,,Retail,Office,Ergonomic Chair,9,270.24,2432.16,0.0,0.0,0,2432.16,172.95,1556.55,875.61,Paid
+SO-0000680,02/20/2025,C-00147,Enterprise,West,Web,Home,Desk Lamp,2,43.35,86.7,0.0,0.0,0,86.7,20.81,41.62,45.08,Paid
+SO-0000681, 2025/02/21 ,C-00318,Enterprise,West,Retail,Home,Desk Lamp,7,43.39,303.73,0.15,45.56,0,258.17,20.83,145.81,112.36,Pending
+SO-0000682,02/15/2025,C-00232,Consumer,,Web,Office,Mechanical Keyboard,13,104.32,1356.16,0.0,0.0,1,1251.84,57.38,688.56,563.28,Refunded
+SO-0000683,2025/02/04,C-00209,Small Business,West,Retail,Apparel,Cotton T-Shirt,8,25.08,200.64,0.05,10.03,0,190.61,9.53,76.24,114.37,Paid
+SO-0000684,2025-02-27,C-00124,Consumer,Southeast,Partner,Office,Mechanical Keyboard,6,99.17,595.02,0.1,59.5,0,535.52,54.54,327.24,208.28,Pending
+SO-0000685,2025/02/15,C-00267,Enterprise,West,Partner,Electronics,Wireless Headphones,4,87.0,348.0,0.1,34.8,0,313.2,48.72,194.88,118.32,Paid
+SO-0000686,2025-02-10,C-00120,Enterprise,Northeast,Partner,Electronics,Wireless Headphones,9,89.8,808.2,0.05,40.41,0,767.79,50.29,452.61,315.18,Paid
+SO-0000687,02/22/2025,C-00009,Enterprise, southwest ,Partner,Home,Coffee Maker,6,89.92,539.52,0.0,0.0,0,539.52,51.25,307.5,232.02,Paid
+SO-0000688, 15-Feb-2025 ,C-00223,Consumer,Southwest,Retail,Office,Ergonomic Chair,4,263.02,1052.08,0.1,105.21,0,946.87,168.33,673.32,273.55,Paid
+SO-0000689,2025/02/05,C-00068,Small Business,Northeast,Partner,Office,Ergonomic Chair,7,278.72,1951.04,0.0,0.0,0,1951.04,178.38,1248.66,702.38,Paid
+SO-0000690,04-Feb-2025,C-00142,Consumer,West,Web,Home,Coffee Maker,2,96.5,193.0,0.0,0.0,0,193.0,55.0,110.0,83.0,Refunded
+SO-0000691,2025-02-16,C-00192,Enterprise,Southeast,Web,Apparel,Cotton T-Shirt,11,24.31,267.41,0.05,13.37,0,254.04,9.24,101.64,152.4,Paid
+SO-0000692,2025-02-18,C-00172,Consumer,Midwest,Web,Electronics,Smart Speaker,6,125.03,750.18,0.15,112.53,0,637.65,73.77,442.62,195.03,Paid
+SO-0000693,2025/02/08,C-00213,Enterprise,Northeast,Web,Electronics,Smart Speaker,2,121.01,242.02,0.1,24.2,0,217.82,71.4,142.8,75.02,Paid
+SO-0000694,2025-02-27,C-00241,Consumer,Northeast,Web,Home,Air Purifier,4,156.71,626.84,0.0,0.0,0,626.84,97.16,388.64,238.2,Refunded
+SO-0000695,02/23/2025,C-00294,Enterprise,Southwest,Partner,Apparel,Trail Jacket,4,136.88,547.52,0.0,0.0,0,547.52,69.81,279.24,268.28,Refunded
+SO-0000696,02/26/2025,C-00131,Small Business,West,Web,Office,Mechanical Keyboard,4,99.01,396.04,0.0,0.0,0,396.04,54.46,217.84,178.2,Paid
+SO-0000697,2025-02-11,C-00198,Enterprise,Southwest,Retail,Electronics,Smart Speaker,8,118.78,950.24,0.0,0.0,0,950.24,70.08,560.64,389.6,Pending
+SO-0000698,2025/02/08,C-00016,Consumer,Southeast,Web,Office,Monitor Stand,4,70.15,280.6,0.0,0.0,1,210.45,34.37,103.11,107.34,Refunded
+SO-0000699,02/06/2025,C-00287,Small Business,Southeast,Partner,Home,Air Purifier,4,154.63,618.52,0.05,30.93,0,587.59,95.87,383.48,204.11,Paid
+SO-0000700,2025-02-21,C-00169,Consumer,Northeast,Retail,Electronics,USB-C Dock,4,70.73,282.92,0.05,14.15,0,268.77,36.78,147.12,121.65,Paid
+SO-0000701,2025/03/07,C-00019,Consumer,Southwest,Partner,Apparel,Cotton T-Shirt,5,24.21,121.05,0.0,0.0,1,96.84,9.2,36.8,60.04,Refunded
+SO-0000702,13-Mar-2025,C-00256,Consumer,Southeast,Retail,Electronics,Wireless Headphones,4,89.69,358.76,0.0,0.0,0,358.76,50.23,200.92,157.84,Paid
+SO-0000703,03-Mar-2025,C-00302,Small Business,Southeast,Partner,Office,Monitor Stand,5,66.06,330.3,0.15,49.55,0,280.75,32.37,161.85,118.9,Pending
+SO-0000704,27-Mar-2025,C-00141,Enterprise,Southeast,Web,Home,Air Purifier,2,151.29,302.58,0.0,0.0,0,302.58,93.8,187.6,114.98,Paid
+SO-0000705,2025-03-19,C-00068,Small Business,Midwest,Web,Apparel,Everyday Backpack,7,58.58,410.06,0.05,20.5,0,389.56,25.19,176.33,213.23,Refunded
+SO-0000706,03-Mar-2025,C-00253,Consumer,Midwest,Web,Apparel,Everyday Backpack,7,57.22,400.54,0.0,0.0,0,400.54,24.6,172.2,228.34,Refunded
+SO-0000707,2025/03/24,C-00010,Consumer,Southwest,Retail,Apparel,Cotton T-Shirt,5,22.93,114.65,0.05,5.73,0,108.92,8.71,43.55,65.37,Paid
+SO-0000708, 03/21/2025 ,C-00055,Consumer,Northeast,Web,Electronics,USB-C Dock,9,70.25,632.25,0.1,63.23,0,569.02,36.53,328.77,240.25,Pending
+SO-0000709,15-Mar-2025,C-00089,Small Business, northeast ,Retail,Home,Coffee Maker,3,96.65,289.95,0.0,0.0,0,289.95,55.09,165.27,124.68,Paid
+SO-0000710,10-Mar-2025,C-00142,Consumer,Midwest,Web,Office,Monitor Stand,2,68.86,137.72,0.0,0.0,0,137.72,33.74,67.48,70.24,Paid
+SO-0000711,03/02/2025,C-00265,Consumer,Northeast,Web,Home,Coffee Maker,9,98.01,882.09,0.0,0.0,0,882.09,55.87,502.83,379.26,Paid
+SO-0000712,05-Mar-2025,C-00098,Small Business,Midwest,Web,Office,Mechanical Keyboard,6,108.36,650.16,0.05,32.51,0,617.65,59.6,357.6,260.05,Refunded
+SO-0000713,2025-03-18,C-00317,Small Business,West,Retail,Office,Monitor Stand,2,70.77,141.54,0.05,7.08,0,134.46,34.68,69.36,65.1,Refunded
+SO-0000714,23-Mar-2025,C-00208,Consumer,Southwest,Partner,Electronics,USB-C Dock,6,72.68,436.08,0.05,21.8,0,414.28,37.79,226.74,187.54,Paid
+SO-0000715,03/31/2025,C-00069,Enterprise,Midwest,Web,Electronics,Smart Speaker,3,124.75,374.25,0.0,0.0,0,374.25,73.6,220.8,153.45,Refunded
+SO-0000716,03/29/2025,C-00234,Enterprise,Northeast,Web,Apparel,Cotton T-Shirt,7,23.63,165.41,0.0,0.0,0,165.41,8.98,62.86,102.55,Paid
+SO-0000717,17-Mar-2025,C-00022,Consumer,Southeast,Web,Electronics,Smart Speaker,2,123.7,247.4,0.0,0.0,0,247.4,72.98,145.96,101.44,Pending
+SO-0000718,2025/03/18,C-00054,Enterprise,Southwest,Web,Apparel,Everyday Backpack,4,56.5,226.0,0.1,22.6,0,203.4,24.29,97.16,106.24,Pending
+SO-0000719,11-Mar-2025,C-00001,Consumer,West,Retail,Home,Coffee Maker,3,97.57,292.71,0.15,43.91,0,248.8,55.61,166.83,81.97,Paid
+SO-0000720,29-Mar-2025,C-00254,Small Business,Southwest,Web,Home,Air Purifier,8,160.62,1284.96,0.2,256.99,0,1027.97,99.58,796.64,231.33,Pending
+SO-0000721,24-Mar-2025,C-00071,Small Business,Northeast,Web,Home,Air Purifier,5,153.12,765.6,0.0,0.0,0,765.6,94.93,474.65,290.95,Paid
+SO-0000722,10-Mar-2025,C-00115,Consumer,Southeast,Retail,Apparel,Everyday Backpack,2,60.69,121.38,0.1,12.14,0,109.24,26.1,52.2,57.04,Paid
+SO-0000723,02-Mar-2025,C-00064,Consumer,West,Retail,Home,Coffee Maker,5,95.04,475.2,0.05,23.76,0,451.44,54.17,270.85,180.59,Paid
+SO-0000724,03/09/2025,C-00099,Enterprise,West,Partner,Home,Desk Lamp,3,40.79,122.37,0.0,0.0,0,122.37,19.58,58.74,63.63,Paid
+SO-0000725,2025-03-14,C-00018,Enterprise,Southeast,Web,Electronics,USB-C Dock,10,74.15,741.5,0.05,37.08,0,704.42,38.56,385.6,318.82,Paid
+SO-0000726,2025/03/13,C-00200,Small Business,Northeast,Web,Home,Desk Lamp,2,39.61,79.22,0.1,7.92,0,71.3,19.01,38.02,33.28,Refunded
+SO-0000727,03/07/2025,C-00088,Consumer,Northeast,Retail,Apparel,Cotton T-Shirt,6,23.7,142.2,0.2,28.44,0,113.76,9.01,54.06,59.7,Pending
+SO-0000728,2025-03-18,C-00209,Small Business,Northeast,Web,Apparel,Trail Jacket,5,128.62,643.1,0.0,0.0,0,643.1,65.6,328.0,315.1,Paid
+SO-0000729,03/04/2025,C-00099,Enterprise,Southwest,Retail,Electronics,Wireless Headphones,10,89.31,893.1,0.1,89.31,0,803.79,50.01,500.1,303.69,Paid
+SO-0000730,03/18/2025,C-00188,Small Business,Midwest,Web,Home,Air Purifier,4,161.56,646.24,0.0,0.0,0,646.24,100.17,400.68,245.56,Paid
+SO-0000731,2025/03/14,C-00229,Consumer,Southeast,Web,Electronics,Wireless Headphones,5,92.33,461.65,0.0,0.0,0,461.65,51.7,258.5,203.15,Pending
+SO-0000732,03/28/2025,C-00045,Enterprise,Northeast,Web,Electronics,Wireless Headphones,8,84.9,679.2,0.0,0.0,0,679.2,47.54,380.32,298.88,Paid
+SO-0000733,03/01/2025,C-00176,Small Business,Southwest,Web,Home,Air Purifier,5,154.38,771.9,0.0,0.0,0,771.9,95.72,478.6,293.3,Paid
+SO-0000734,30-Mar-2025,C-00170,Small Business,Southwest,Web,Office,Mechanical Keyboard,4,106.42,425.68,0.0,0.0,1,319.26,58.53,175.59,143.67,Paid
+SO-0000735,2025/03/12,C-00308,Small Business,Southwest,Partner,Apparel,Cotton T-Shirt,3,23.13,69.39,0.0,0.0,0,69.39,8.79,26.37,43.02,Paid
+SO-0000736,2025-03-11,C-00209,Small Business,Midwest,Web,Office,Monitor Stand,6,67.61,405.66,0.05,20.28,0,385.38,33.13,198.78,186.6,Paid
+SO-0000737,2025-03-12,C-00144,Enterprise,Northeast,Retail,Home,Desk Lamp,3,42.96,128.88,0.0,0.0,0,128.88,20.62,61.86,67.02,Paid
+SO-0000738,2025-03-04,C-00110,Small Business,Northeast,Partner,Office,Ergonomic Chair,5,282.07,1410.35,0.2,282.07,0,1128.28,180.52,902.6,225.68,Paid
+SO-0000739,2025-03-04,C-00290,Small Business,West,Web,Home,Air Purifier,2,161.05,322.1,0.0,0.0,0,322.1,99.85,199.7,122.4,Paid
+SO-0000740,10-Mar-2025,C-00213,Enterprise,Southwest,Web,Office,Monitor Stand,5,70.42,352.1,0.15,52.82,0,299.28,34.51,172.55,126.73,Refunded
+SO-0000741,2025/03/28,C-00214,Consumer,Northeast,Web,Home,Desk Lamp,7,42.43,297.01,0.05,14.85,0,282.16,20.37,142.59,139.57,Paid
+SO-0000742,03/07/2025,C-00312,Enterprise,West,Web,Apparel,Cotton T-Shirt,4,23.36,93.44,0.1,9.34,0,84.1,8.88,35.52,48.58,Paid
+SO-0000743,2025-03-06,C-00044,Small Business,West,Web,Office,Mechanical Keyboard,2,111.23,222.46,0.05,11.12,0,211.34,61.18,122.36,88.98,Paid
+SO-0000744,29-Mar-2025,C-00062,Small Business,Southwest,Web,Apparel,Cotton T-Shirt,7,23.14,161.98,0.1,16.2,0,145.78,8.79,61.53,84.25,Paid
+SO-0000745,2025/03/28,C-00057,Enterprise,West,Retail,Office,Mechanical Keyboard,2,102.52,205.04,0.05,10.25,0,194.79,56.39,112.78,82.01,Paid
+SO-0000746,2025/03/10,C-00033,Enterprise,Southwest,Web,Apparel,Cotton T-Shirt,2,23.56,47.12,0.05,2.36,0,44.76,8.95,17.9,26.86,Refunded
+SO-0000747,03/28/2025,C-00095,Small Business,Northeast,Retail,Home,Air Purifier,2,166.01,332.02,0.0,0.0,0,332.02,102.93,205.86,126.16,Paid
+SO-0000748,2025-03-03,C-00125,Small Business,Southeast,Partner,Apparel,Everyday Backpack,10,56.75,567.5,0.1,56.75,0,510.75,24.4,244.0,266.75,Pending
+SO-0000749,2025-03-14,C-00141,Enterprise,Southwest,Partner,Apparel,Everyday Backpack,6,58.78,352.68,0.1,35.27,0,317.41,25.28,151.68,165.73,Refunded
+SO-0000750,03/24/2025,C-00050,Small Business,Southwest,Retail,Electronics,Smart Speaker,6,119.57,717.42,0.15,107.61,0,609.81,70.55,423.3,186.51,Paid
+SO-0000751,04/08/2025,C-00270,Enterprise,Midwest,Retail,Home,Coffee Maker,7,97.79,684.53,0.1,68.45,0,616.08,55.74,390.18,225.9,Paid
+SO-0000752,2025-04-02,C-00247,Consumer,West,Partner,Office,Ergonomic Chair,3,267.86,803.58,0.0,0.0,0,803.58,171.43,514.29,289.29,Paid
+SO-0000753,04/05/2025,C-00020,Small Business,Northeast,Web,Office,Mechanical Keyboard,6,105.91,635.46,0.0,0.0,0,635.46,58.25,349.5,285.96,Paid
+SO-0000754,2025/04/14,C-00226,Consumer,West,Partner,Apparel,Trail Jacket,1,129.78,129.78,0.05,6.49,0,123.29,66.19,66.19,57.1,Paid
+SO-0000755,2025-04-18,C-00106,Consumer,Southwest,Web,Office,Monitor Stand,1,65.85,65.85,0.0,0.0,0,65.85,32.27,32.27,33.58,Pending
+SO-0000756,2025/04/23,C-00319,Consumer,Southeast,Web,Home,Air Purifier,3,151.06,453.18,0.15,67.98,1,256.8,93.66,187.32,69.48,Pending
+SO-0000757, 04/03/2025 ,C-00183,Enterprise,Northeast,Partner,Electronics,Wireless Headphones,1,93.82,93.82,0.1,9.38,0,84.44,52.54,52.54,31.9,Paid
+SO-0000758,2025/04/21,C-00206,Small Business,Northeast,Web,Apparel,Everyday Backpack,3,60.09,180.27,0.05,9.01,0,171.26,25.84,77.52,93.74,Refunded
+SO-0000759,18-Apr-2025,C-00141,Enterprise,Northeast,Web,Home,Air Purifier,1,149.83,149.83,0.0,0.0,0,149.83,92.89,92.89,56.94,Paid
+SO-0000760,04/13/2025,C-00067,Consumer,Midwest,Partner,Electronics,Wireless Headphones,6,92.47,554.82,0.1,55.48,0,499.34,51.78,310.68,188.66,Pending
+SO-0000761,2025-04-28,C-00289,Consumer,Northeast,Web,Home,Desk Lamp,5,39.88,199.4,0.0,0.0,0,199.4,19.14,95.7,103.7,Paid
+SO-0000762,date unavailable,C-00186,Enterprise,Northeast,Web,Home,Coffee Maker,3,98.25,294.75,0.05,14.74,1,186.67,56.0,112.0,74.67,Pending
+SO-0000763,04/23/2025,C-00188,Small Business,West,Partner,Home,Coffee Maker,5,98.98,494.9,0.1,49.49,0,445.41,56.42,282.1,163.31,Pending
+SO-0000764,28-Apr-2025,C-00186,Enterprise,Southwest,Web,Home,Desk Lamp,7,42.8,299.6,0.1,29.96,0,269.64,20.54,143.78,125.86,Refunded
+SO-0000765,04/20/2025,C-00163,Consumer,Southeast,Web,Electronics,Smart Speaker,5,120.38,601.9,0.0,0.0,0,601.9,71.02,355.1,246.8,Refunded
+SO-0000766,04/13/2025,C-00228,Enterprise,West,Retail,Apparel,Everyday Backpack,6,55.36,332.16,0.0,0.0,0,332.16,23.8,142.8,189.36,Paid
+SO-0000767,2025/04/30,C-00241,Consumer,Northeast,Partner,Apparel,Everyday Backpack,3,58.42,175.26,0.0,0.0,0,175.26,25.12,75.36,99.9,Refunded
+SO-0000768,2025/04/27,C-00312,Enterprise,Southwest,Web,Office,Monitor Stand,3,70.12,210.36,0.0,0.0,0,210.36,34.36,103.08,107.28,Refunded
+SO-0000769,2025-04-27,C-00261,Enterprise,Northeast,Web,Office,Monitor Stand,3,70.78,212.34,0.15,31.85,0,180.49,34.68,104.04,76.45,Pending
+SO-0000770,08-Apr-2025,C-00178,Consumer,Northeast,Web,Apparel,Cotton T-Shirt,2,24.38,48.76,0.1,4.88,0,43.88,9.26,18.52,25.36,Paid
+SO-0000771,11-Apr-2025,C-00013,Consumer,West,Web,Electronics,Smart Speaker,9,113.56,1022.04,0.1,102.2,0,919.84,67.0,603.0,316.84,Refunded
+SO-0000772,04/11/2025,C-00119,Small Business,Midwest,Partner,Apparel,Cotton T-Shirt,4,22.72,90.88,0.0,0.0,0,90.88,8.63,34.52,56.36,Pending
+SO-0000773, 2025/04/12 ,C-00139,Consumer,Northeast,Retail,Office,Monitor Stand,8,67.7,541.6,0.05,27.08,0,514.52,33.17,265.36,249.16,Pending
+SO-0000774,23-Apr-2025,C-00039,Enterprise,Southwest,Web,Office,Mechanical Keyboard,3,108.87,326.61,0.05,16.33,0,310.28,59.88,179.64,130.64,Pending
+SO-0000775,30-Apr-2025,C-00281,Small Business,Northeast,Web,Home,Air Purifier,4,159.54,638.16,0.05,31.91,0,606.25,98.91,395.64,210.61,Paid
+SO-0000776,30-Apr-2025,C-00306,Enterprise,Southeast,Retail,Office,Monitor Stand,3,67.24,201.72,0.0,0.0,0,201.72,32.95,98.85,102.87,Refunded
+SO-0000777,04/02/2025,C-00275,Small Business,Midwest,Web,Home,Coffee Maker,6,90.44,542.64,0.05,27.13,0,515.51,51.55,309.3,206.21,Refunded
+SO-0000778,2025-04-02,C-00190,Consumer,West,Web,Home,Coffee Maker,4,94.89,379.56,0.1,37.96,0,341.6,54.09,216.36,125.24,Paid
+SO-0000779,2025-04-22,C-00055,Consumer,West,Web,Apparel,Cotton T-Shirt,7,24.85,173.95,0.0,0.0,0,173.95,9.44,66.08,107.87,Refunded
+SO-0000780,2025-04-24,C-00077,Small Business, northeast ,Web,Electronics,USB-C Dock,8,77.89,623.12,0.2,124.62,0,498.5,40.5,324.0,174.5,Pending
+SO-0000781,2025/04/04,C-00285,Enterprise,Midwest,Partner,Apparel,Trail Jacket,6,131.85,791.1,0.15,118.66,0,672.44,67.24,403.44,269.0,Paid
+SO-0000782,2025/04/08,C-00080,Small Business,Southwest,Partner,Electronics,USB-C Dock,1,71.22,71.22,0.0,0.0,0,71.22,37.03,37.03,34.19,Refunded
+SO-0000783,04/08/2025,C-00307,Consumer,West,Web,Electronics,Wireless Headphones,1,85.65,85.65,0.0,0.0,0,85.65,47.96,47.96,37.69,Paid
+SO-0000784,2025-04-04,C-00067,Consumer,West,Retail,Home,Coffee Maker,4,96.23,384.92,0.0,0.0,0,384.92,54.85,219.4,165.52,Paid
+SO-0000785,2025-04-11,C-00217,Consumer,Southeast,Web,Electronics,USB-C Dock,2,70.28,140.56,0.1,14.06,0,126.5,36.55,73.1,53.4,Refunded
+SO-0000786,2025-04-27,C-00022,Consumer,Northeast,Web,Office,Ergonomic Chair,8,287.36,2298.88,0.05,114.94,0,2183.94,183.91,1471.28,712.66,Paid
+SO-0000787,04/08/2025,C-00053,Small Business,Southwest,Web,Office,Mechanical Keyboard,5,108.34,541.7,0.0,0.0,0,541.7,59.59,297.95,243.75,Pending
+SO-0000788,20-Apr-2025,C-00001,Consumer,Midwest,Web,Home,Coffee Maker,8,92.0,736.0,0.05,36.8,0,699.2,52.44,419.52,279.68,Refunded
+SO-0000789,2025/04/06,C-00226,Consumer,Southwest,Web,Electronics,Wireless Headphones,8,93.98,751.84,0.0,0.0,0,751.84,52.63,421.04,330.8,Paid
+SO-0000790,2025-04-04,C-00049,Consumer,West,Web,Electronics,USB-C Dock,4,77.11,308.44,0.1,30.84,0,277.6,40.1,160.4,117.2,Pending
+SO-0000791,04-Apr-2025,C-00044,Small Business,Southwest,Web,Home,Air Purifier,1,149.64,149.64,0.0,0.0,0,149.64,92.78,92.78,56.86,Paid
+SO-0000792,2025-04-13,C-00015,Enterprise,Northeast,Web,Office,Mechanical Keyboard,3,109.61,328.83,0.0,0.0,0,328.83,60.29,180.87,147.96,Pending
+SO-0000793,2025/04/22,C-00144,Enterprise,Midwest,Partner,Home,Air Purifier,8,154.8,1238.4,0.05,61.92,0,1176.48,95.98,767.84,408.64,Refunded
+SO-0000794,2025/04/27,C-00089,Small Business,Southeast,Retail,Office,Monitor Stand,1,67.11,67.11,0.0,0.0,0,67.11,32.88,32.88,34.23,Pending
+SO-0000795,04/30/2025,C-00161,Small Business,Southeast,Partner,Electronics,USB-C Dock,4,77.51,310.04,0.1,31.0,0,279.04,40.31,161.24,117.8,Paid
+SO-0000796,2025/04/09,C-00086,Small Business,Midwest,Web,Home,Air Purifier,3,163.27,489.81,0.1,48.98,0,440.83,101.23,303.69,137.14,Refunded
+SO-0000797,04/17/2025,C-00294,Enterprise,West,Web,Apparel,Trail Jacket,3,127.58,382.74,0.05,19.14,0,363.6,65.07,195.21,168.39,Paid
+SO-0000798,2025/04/06,C-00050,Small Business, northeast ,Web,Electronics,Wireless Headphones,6,89.83,538.98,0.05,26.95,0,512.03,50.3,301.8,210.23,Paid
+SO-0000799,16-Apr-2025,C-00288,Enterprise,Southeast,Partner,Electronics,Smart Speaker,3,125.35,376.05,0.15,56.41,0,319.64,73.96,221.88,97.76,Pending
+SO-0000800,2025-04-28,C-00128,Small Business,Northeast,Retail,Office,Ergonomic Chair,3,291.67,875.01,0.1,87.5,0,787.51,186.67,560.01,227.5,Refunded
+SO-0000801,2025/05/31,C-00012,Enterprise,Southeast,Web,Apparel,Everyday Backpack,5,58.47,292.35,0.2,58.47,0,233.88,25.14,125.7,108.18,Paid
+SO-0000802,2025-05-30,C-00190,Consumer,Northeast,Retail,Home,Desk Lamp,6,41.88,251.28,0.0,0.0,0,251.28,20.1,120.6,130.68,Paid
+SO-0000803,2025-05-21,C-00302,Small Business,Southwest,Partner,Home,Air Purifier,4,161.73,646.92,0.05,32.35,0,614.57,100.27,401.08,213.49,Paid
+SO-0000804,2025/05/29,C-00012,Enterprise,West,Partner,Office,Monitor Stand,1,69.3,69.3,0.1,6.93,0,62.37,33.96,33.96,28.41,Paid
+SO-0000805,25-May-2025,C-00135,Enterprise, southeast ,Retail,Office,Monitor Stand,5,68.19,340.95,0.0,0.0,0,340.95,33.41,167.05,173.9,Pending
+SO-0000806,05/03/2025,C-00196,Consumer,Midwest,Web,Electronics,Wireless Headphones,1,84.73,84.73,0.0,0.0,0,84.73,47.45,47.45,37.28,Paid
+SO-0000807,2025/05/05,C-00016,Consumer,Southeast,Web,Office,Monitor Stand,5,64.57,322.85,0.0,0.0,0,322.85,31.64,158.2,164.65,Paid
+SO-0000808,2025-05-19,C-00182,Small Business,Northeast,Partner,Office,Ergonomic Chair,2,273.71,547.42,0.0,0.0,0,547.42,175.17,350.34,197.08,Paid
+SO-0000809,2025-05-02,C-00227,Small Business,Southwest,Retail,Apparel,Cotton T-Shirt,3,23.69,71.07,0.05,3.55,0,67.52,9.0,27.0,40.52,Refunded
+SO-0000810,2025-05-27,C-00221,Small Business,Southwest,Web,Home,Air Purifier,2,159.74,319.48,0.1,31.95,0,287.53,99.04,198.08,89.45,Refunded
+SO-0000811,05/31/2025,C-00166,Consumer,Northeast,Retail,Apparel,Cotton T-Shirt,3,22.77,68.31,0.0,0.0,0,68.31,8.65,25.95,42.36,Paid
+SO-0000812,05/12/2025,C-00199,Consumer,West,Web,Electronics,Wireless Headphones,4,94.68,378.72,0.05,18.94,0,359.78,53.02,212.08,147.7,Paid
+SO-0000813,25-May-2025,C-00068,Small Business,Southeast,Web,Electronics,Wireless Headphones,4,94.17,376.68,0.1,37.67,0,339.01,52.74,210.96,128.05,Refunded
+SO-0000814,26-May-2025,C-00127,Consumer,West,Web,Office,Ergonomic Chair,2,277.8,555.6,0.0,0.0,0,555.6,177.79,355.58,200.02,Paid
+SO-0000815,05/08/2025,C-00172,Consumer,Northeast,Web,Office,Ergonomic Chair,4,290.04,1160.16,0.05,58.01,0,1102.15,185.63,742.52,359.63,Refunded
+SO-0000816,22-May-2025,C-00131,Small Business,Midwest,Web,Electronics,Wireless Headphones,2,91.58,183.16,0.0,0.0,0,183.16,51.28,102.56,80.6,Paid
+SO-0000817,2025-05-19,C-00037,Consumer,Midwest,Web,Office,Ergonomic Chair,3,272.63,817.89,0.0,0.0,0,817.89,174.48,523.44,294.45,Refunded
+SO-0000818,16-May-2025,C-00108,Enterprise,Midwest,Retail,Apparel,Everyday Backpack,4,55.36,221.44,0.1,22.14,0,199.3,23.8,95.2,104.1,Paid
+SO-0000819,13-May-2025,C-00186,Enterprise,Midwest,Retail,Office,Ergonomic Chair,3,265.02,795.06,0.2,159.01,0,636.05,169.61,508.83,127.22,Paid
+SO-0000820,2025-05-28,C-00189,Enterprise, midwest ,Web,Office,Mechanical Keyboard,2,110.84,221.68,0.05,11.08,0,210.6,60.96,121.92,88.68,Pending
+SO-0000821, 2025-05-07 ,C-00107,Small Business,Southwest,Web,Electronics,USB-C Dock,5,71.18,355.9,0.0,0.0,0,355.9,37.01,185.05,170.85,Paid
+SO-0000822,05/17/2025,C-00016,Consumer,Southeast,Retail,Electronics,USB-C Dock,1,70.33,70.33,0.0,0.0,0,70.33,36.57,36.57,33.76,Pending
+SO-0000823,10-May-2025,C-00275,Small Business,West,Web,Home,Desk Lamp,3,43.0,129.0,0.0,0.0,0,129.0,20.64,61.92,67.08,Refunded
+SO-0000824,2025-05-30,C-00172,Consumer,Southwest,Partner,Electronics,USB-C Dock,5,77.27,386.35,0.05,19.32,0,367.03,40.18,200.9,166.13,Paid
+SO-0000825,31-May-2025,C-00087,Enterprise,Southeast,Retail,Electronics,USB-C Dock,4,72.85,291.4,0.0,0.0,0,291.4,37.88,151.52,139.88,Refunded
+SO-0000826,05/14/2025,C-00315,Enterprise,Midwest,Partner,Apparel,Cotton T-Shirt,1,24.5,24.5,0.1,2.45,0,22.05,9.31,9.31,12.74,Paid
+SO-0000827,05/31/2025,C-00168,,West,Web,Office,Mechanical Keyboard,3,107.54,322.62,0.15,48.39,0,274.23,59.15,177.45,96.78,Pending
+SO-0000828,05/07/2025,C-00165,Enterprise,West,Web,Apparel,Cotton T-Shirt,3,24.05,72.15,0.2,14.43,0,57.72,9.14,27.42,30.3,Refunded
+SO-0000829,05/25/2025,C-00110,Small Business,Midwest,Partner,Electronics,Wireless Headphones,2,91.79,183.58,0.0,0.0,0,183.58,51.4,102.8,80.78,Refunded
+SO-0000830,05/29/2025,C-00221,Small Business,Southeast,Web,Office,Ergonomic Chair,4,270.74,1082.96,0.0,0.0,0,1082.96,173.27,693.08,389.88,Paid
+SO-0000831,2025-05-18,C-00219,Enterprise,Midwest,Retail,Electronics,USB-C Dock,1,77.07,77.07,0.05,3.85,0,73.22,40.08,40.08,33.14,Paid
+SO-0000832,05/29/2025,C-00316,Consumer,Southeast,Web,Apparel,Everyday Backpack,1,56.96,56.96,0.05,2.85,0,54.11,24.49,24.49,29.62,Paid
+SO-0000833,05/18/2025,C-00184,Consumer,West,Web,Electronics,Smart Speaker,7,120.22,841.54,0.0,0.0,1,721.32,70.93,425.58,295.74,Refunded
+SO-0000834,2025-05-20,C-00184,Consumer,Southeast,Web,Home,Coffee Maker,1,99.6,99.6,0.1,9.96,0,89.64,56.77,56.77,32.87,Paid
+SO-0000835,2025-05-19,C-00182,Small Business,West,Web,Home,Coffee Maker,3,99.34,298.02,0.2,59.6,0,238.42,56.62,169.86,68.56,Paid
+SO-0000836,2025/05/05,C-00265,Consumer,Northeast,Partner,Office,Monitor Stand,5,68.75,343.75,0.15,51.56,0,292.19,33.69,168.45,123.74,Paid
+SO-0000837,2025/05/11,C-00282,Enterprise,Southwest,Web,Office,Monitor Stand,5,68.01,340.05,0.1,34.01,0,306.04,33.32,166.6,139.44,Paid
+SO-0000838,28-May-2025,C-00320,Small Business,Southwest,Web,Office,Monitor Stand,4,65.37,261.48,0.0,0.0,0,261.48,32.03,128.12,133.36,Paid
+SO-0000839,30-May-2025,C-00144,Enterprise,Northeast,Web,Electronics,USB-C Dock,6,76.87,461.22,0.15,69.18,0,392.04,39.97,239.82,152.22,Paid
+SO-0000840,05/09/2025,C-00281,Small Business,Midwest,Retail,Office,Ergonomic Chair,3,286.98,860.94,0.1,86.09,0,774.85,183.67,551.01,223.84,Paid
+SO-0000841,20-May-2025,C-00282,Enterprise,Midwest,,Office,Monitor Stand,6,71.85,431.1,0.0,0.0,0,431.1,35.21,211.26,219.84,Paid
+SO-0000842,2025/05/16,C-00277,Consumer,Southeast,Web,Apparel,Everyday Backpack,4,55.37,221.48,0.1,22.15,0,199.33,23.81,95.24,104.09,Paid
+SO-0000843,2025-05-26,C-00018,Enterprise,Northeast,Web,Apparel,Cotton T-Shirt,2,24.26,48.52,0.0,0.0,0,48.52,9.22,18.44,30.08,Refunded
+SO-0000844,2025/05/04,C-00272,,Northeast,Web,Apparel,Cotton T-Shirt,5,24.44,122.2,0.05,6.11,0,116.09,9.29,46.45,69.64,Paid
+SO-0000845,13-May-2025,C-00017,Small Business,Southwest,Partner,Apparel,Everyday Backpack,5,56.35,281.75,0.0,0.0,0,281.75,24.23,121.15,160.6,Paid
+SO-0000846,17-May-2025,C-00260,Small Business,West,Retail,Electronics,Wireless Headphones,3,89.44,268.32,0.0,0.0,0,268.32,50.09,150.27,118.05,Refunded
+SO-0000847,13-May-2025,C-00097,Consumer,Southwest,Retail,Office,Mechanical Keyboard,3,103.49,310.47,0.1,31.05,0,279.42,56.92,170.76,108.66,Pending
+SO-0000848,2025/05/25,C-00053,Small Business,Midwest,Web,Electronics,Wireless Headphones,2,88.14,176.28,0.2,35.26,0,141.02,49.36,98.72,42.3,Paid
+SO-0000849,05/26/2025,C-00229,Consumer,Southeast,Web,Home,Coffee Maker,4,95.25,381.0,0.1,38.1,0,342.9,54.29,217.16,125.74,Paid
+SO-0000850,2025/05/28,C-00167,Small Business,Midwest,Web,Apparel,Everyday Backpack,4,54.98,219.92,0.1,21.99,0,197.93,23.64,94.56,103.37,Paid
+SO-0000851,06/02/2025,C-00268,Consumer,Southeast,Web,Electronics,Wireless Headphones,4,94.36,377.44,0.05,18.87,1,268.93,52.84,158.52,110.41,Paid
+SO-0000852,2025/06/25,C-00113,Small Business,Southwest,Retail,Home,Air Purifier,3,153.6,460.8,0.1,46.08,0,414.72,95.23,285.69,129.03,Refunded
+SO-0000853,2025/06/10,C-00259,Consumer,Northeast,Retail,Apparel,Cotton T-Shirt,5,24.05,120.25,0.15,18.04,0,102.21,9.14,45.7,56.51,Pending
+SO-0000854,29-Jun-2025,C-00008,Small Business,Southwest,Web,Apparel,Trail Jacket,1,124.35,124.35,0.0,0.0,0,124.35,63.42,63.42,60.93,Refunded
+SO-0000855,06/09/2025,C-00039,Enterprise,Midwest,Partner,Home,Air Purifier,4,152.8,611.2,0.0,0.0,0,611.2,94.74,378.96,232.24,Refunded
+SO-0000856,2025/06/09,C-00138,Enterprise,West,Retail,Office,Ergonomic Chair,5,277.5,1387.5,0.0,0.0,0,1387.5,177.6,888.0,499.5,Pending
+SO-0000857,29-Jun-2025,C-00097,Consumer, west ,Web,Office,Ergonomic Chair,2,275.0,550.0,0.05,27.5,0,522.5,176.0,352.0,170.5,Paid
+SO-0000858,18-Jun-2025,C-00088,Consumer,Southeast,Web,Apparel,Trail Jacket,4,129.61,518.44,0.05,25.92,0,492.52,66.1,264.4,228.12,Paid
+SO-0000859,06/22/2025,C-00312,Enterprise,Midwest,Web,Electronics,USB-C Dock,2,78.33,156.66,0.1,15.67,0,140.99,40.73,81.46,59.53,Paid
+SO-0000860,2025/06/13,C-00190,Consumer,Southwest,Web,Home,Air Purifier,4,152.29,609.16,0.05,30.46,0,578.7,94.42,377.68,201.02,Paid
+SO-0000861,06/20/2025,C-00074,Small Business,Southwest,Web,Electronics,Wireless Headphones,5,94.14,470.7,0.15,70.6,0,400.1,52.72,263.6,136.5,Pending
+SO-0000862,29-Jun-2025,C-00148,Consumer,Southeast,Web,Home,Desk Lamp,3,44.49,133.47,0.05,6.67,0,126.8,21.36,64.08,62.72,Paid
+SO-0000863,06/16/2025,C-00261,Enterprise, midwest ,Retail,Electronics,USB-C Dock,1,75.91,75.91,0.15,11.39,0,64.52,39.47,39.47,25.05,Paid
+SO-0000864,2025-06-04,C-00074,Small Business,West,Web,Office,Ergonomic Chair,3,280.68,842.04,0.15,126.31,0,715.73,179.64,538.92,176.81,Paid
+SO-0000865,2025/06/14,C-00174,Enterprise,,Retail,Electronics,Wireless Headphones,4,86.37,345.48,0.0,0.0,0,345.48,48.37,193.48,152.0,Pending
+SO-0000866,2025-06-09,C-00131,Small Business,Southwest,Retail,Office,Mechanical Keyboard,2,109.31,218.62,0.1,21.86,0,196.76,60.12,120.24,76.52,Paid
+SO-0000867,2025-06-11,C-00130,Consumer,Northeast,Web,Electronics,Smart Speaker,2,122.29,244.58,0.0,0.0,0,244.58,72.15,144.3,100.28,Paid
+SO-0000868, 2025/06/28 ,C-00319,Consumer,Southwest,Web,Apparel,Everyday Backpack,4,57.38,229.52,0.0,0.0,0,229.52,24.67,98.68,130.84,Pending
+SO-0000869,06-Jun-2025,C-00123,Enterprise,West,Web,Home,Air Purifier,2,165.0,330.0,0.0,0.0,0,330.0,102.3,204.6,125.4,Refunded
+SO-0000870,06/08/2025,C-00129,Enterprise, northeast ,Partner,Home,Coffee Maker,1,93.61,93.61,0.0,0.0,0,93.61,53.36,53.36,40.25,Paid
+SO-0000871,2025/06/23,C-00192,Enterprise,Southeast,Web,Office,Monitor Stand,2,65.14,130.28,0.05,6.51,1,61.89,31.92,31.92,29.97,Paid
+SO-0000872,28-Jun-2025,C-00283,Consumer,Midwest,Web,Apparel,Everyday Backpack,2,61.36,122.72,0.0,0.0,0,122.72,26.38,52.76,69.96,Paid
+SO-0000873,2025-06-10,C-00106,Consumer,Southwest,Web,Apparel,Trail Jacket,1,139.75,139.75,0.0,0.0,0,139.75,71.27,71.27,68.48,Paid
+SO-0000874,2025-06-23,C-00061,Consumer,Northeast,Web,Electronics,USB-C Dock,1,73.2,73.2,0.0,0.0,0,73.2,38.06,38.06,35.14,Pending
+SO-0000875,06/15/2025,C-00174,Enterprise,West,Web,Electronics,Smart Speaker,3,118.21,354.63,0.05,17.73,0,336.9,69.74,209.22,127.68,Refunded
+SO-0000876,06/15/2025,C-00204,,Midwest,Retail,Apparel,Cotton T-Shirt,1,23.95,23.95,0.2,4.79,0,19.16,9.1,9.1,10.06,Refunded
+SO-0000877,23-Jun-2025,C-00196,Consumer,Midwest,Retail,Electronics,USB-C Dock,1,73.12,73.12,0.0,0.0,0,73.12,38.02,38.02,35.1,Paid
+SO-0000878, 2025/06/16 ,C-00186,Enterprise,Midwest,Retail,Electronics,Wireless Headphones,1,90.62,90.62,0.0,0.0,0,90.62,50.75,50.75,39.87,Pending
+SO-0000879,2025/06/14,C-00209,Small Business,Midwest,Retail,Electronics,Wireless Headphones,7,85.18,596.26,0.05,29.81,0,566.45,47.7,333.9,232.55,Paid
+SO-0000880,06/16/2025,C-00234,Enterprise,Southwest,Web,Apparel,Everyday Backpack,4,55.78,223.12,0.15,33.47,0,189.65,23.99,95.96,93.69,Paid
+SO-0000881,06/27/2025,C-00094,Consumer,Northeast,Web,Home,Air Purifier,7,167.09,1169.63,0.0,0.0,0,1169.63,103.6,725.2,444.43,Paid
+SO-0000882,06/17/2025,C-00294,Enterprise,Southwest,Web,Office,Monitor Stand,1,66.09,66.09,0.05,3.3,0,62.79,32.38,32.38,30.41,Refunded
+SO-0000883,06/28/2025,C-00305,Small Business,West,Web,Apparel,Cotton T-Shirt,1,24.34,24.34,0.1,2.43,0,21.91,9.25,9.25,12.66,Paid
+SO-0000884,2025/06/02,C-00041,Small Business,Midwest,Web,Office,Ergonomic Chair,4,271.91,1087.64,0.0,0.0,0,1087.64,174.02,696.08,391.56,Paid
+SO-0000885,2025-06-05,C-00008,Small Business,West,Web,Home,Coffee Maker,4,99.09,396.36,0.0,0.0,0,396.36,56.48,225.92,170.44,Paid
+SO-0000886,22-Jun-2025,C-00185,Small Business,Midwest,Web,Office,Ergonomic Chair,5,293.64,1468.2,0.1,146.82,0,1321.38,187.93,939.65,381.73,Paid
+SO-0000887,2025/06/11,C-00206,Small Business,Midwest,Partner,Home,Coffee Maker,3,98.94,296.82,0.1,29.68,0,267.14,56.4,169.2,97.94,Pending
+SO-0000888,24-Jun-2025,C-00024,Enterprise,West,Web,Home,Air Purifier,6,167.27,1003.62,0.0,0.0,0,1003.62,103.71,622.26,381.36,Pending
+SO-0000889,06/10/2025,C-00262,Consumer,Southwest,Partner,Apparel,Cotton T-Shirt,4,24.41,97.64,0.15,14.65,0,82.99,9.28,37.12,45.87,Paid
+SO-0000890,06/22/2025,C-00019,Consumer,Midwest,Retail,Apparel,Everyday Backpack,3,59.09,177.27,0.1,17.73,0,159.54,25.41,76.23,83.31,Paid
+SO-0000891,22-Jun-2025,C-00130,Consumer,Southwest,Web,Home,Desk Lamp,6,41.63,249.78,0.2,49.96,0,199.82,19.98,119.88,79.94,Pending
+SO-0000892,23-Jun-2025,C-00209,Small Business,Southwest,Retail,Office,Mechanical Keyboard,3,105.16,315.48,0.2,63.1,0,252.38,57.84,173.52,78.86,Paid
+SO-0000893,2025/06/15,C-00165,Enterprise,Southwest,Retail,Electronics,USB-C Dock,2,72.41,144.82,0.15,21.72,0,123.1,37.65,75.3,47.8,Paid
+SO-0000894,03-Jun-2025,C-00189,Enterprise,Midwest,Retail,Apparel,Cotton T-Shirt,4,24.75,99.0,0.0,0.0,0,99.0,9.4,37.6,61.4,Paid
+SO-0000895,06/23/2025,C-00082,Consumer,Northeast,Retail,Apparel,Cotton T-Shirt,4,23.61,94.44,0.15,14.17,0,80.27,8.97,35.88,44.39,Paid
+SO-0000896, 06/26/2025 ,C-00309,Enterprise,Southeast,Partner,Home,Air Purifier,3,158.31,474.93,0.05,23.75,0,451.18,98.15,294.45,156.73,Refunded
+SO-0000897,17-Jun-2025,C-00082,Consumer,Southeast,Retail,Office,Ergonomic Chair,2,264.43,528.86,0.15,79.33,0,449.53,169.24,338.48,111.05,Paid
+SO-0000898,2025/06/21,C-00150,Enterprise,West,Web,Office,Mechanical Keyboard,3,104.27,312.81,0.05,15.64,0,297.17,57.35,172.05,125.12,Paid
+SO-0000899,06/26/2025,C-00056,Small Business,West,Web,Home,Desk Lamp,4,44.45,177.8,0.05,8.89,0,168.91,21.34,85.36,83.55,Paid
+SO-0000900,06/22/2025,C-00256,Consumer,Midwest,Retail,Home,Air Purifier,4,162.83,651.32,0.05,32.57,0,618.75,100.95,403.8,214.95,Paid
+SO-0000901,07/09/2025,C-00074,Small Business,Midwest,Web,Electronics,Smart Speaker,3,124.47,373.41,0.1,37.34,0,336.07,73.44,220.32,115.75,Paid
+SO-0000902,2025/07/28,C-00016,Consumer,Northeast,Web,Office,Mechanical Keyboard,1,110.64,110.64,0.1,11.06,0,99.58,60.85,60.85,38.73,Paid
+SO-0000903,2025/07/28,C-00079,Consumer,Midwest,Web,Home,Air Purifier,4,153.89,615.56,0.05,30.78,0,584.78,95.41,381.64,203.14,Paid
+SO-0000904,2025-07-14,C-00245,Small Business,Northeast,Web,Electronics,Smart Speaker,2,113.91,227.82,0.05,11.39,0,216.43,67.21,134.42,82.01,Refunded
+SO-0000905,07/16/2025,C-00159,Enterprise,Southwest,Retail,Electronics,USB-C Dock,2,73.33,146.66,0.05,7.33,0,139.33,38.13,76.26,63.07,Refunded
+SO-0000906,2025-07-11,C-00182,Small Business,Southwest,Retail,Electronics,USB-C Dock,3,77.95,233.85,0.05,11.69,0,222.16,40.53,121.59,100.57,Refunded
+SO-0000907,2025/07/21,C-00099,Enterprise,Northeast,Web,Office,Ergonomic Chair,2,265.38,530.76,0.0,0.0,0,530.76,169.84,339.68,191.08,Refunded
+SO-0000908,2025-07-10,C-00170,Small Business,Southwest,Web,Apparel,Cotton T-Shirt,2,23.48,46.96,0.1,4.7,0,42.26,8.92,17.84,24.42,Pending
+SO-0000909,07/06/2025,C-00086,Small Business,Northeast,Web,Office,Ergonomic Chair,2,282.39,564.78,0.1,56.48,0,508.3,180.73,361.46,146.84,Pending
+SO-0000910,2025/07/16,C-00063,Enterprise,Northeast,Web,Home,Air Purifier,3,162.6,487.8,0.1,48.78,0,439.02,100.81,302.43,136.59,Paid
+SO-0000911,27-Jul-2025,C-00051,Enterprise,Southwest,Partner,Electronics,Smart Speaker,3,112.72,338.16,0.05,16.91,0,321.25,66.5,199.5,121.75,Refunded
+SO-0000912,2025-07-28,C-00207,Enterprise,Northeast,Web,Electronics,Smart Speaker,2,116.18,232.36,0.0,0.0,0,232.36,68.55,137.1,95.26,Refunded
+SO-0000913,2025-07-23,C-00225,Enterprise,Southwest,Retail,Electronics,USB-C Dock,5,78.45,392.25,0.15,58.84,0,333.41,40.79,203.95,129.46,Paid
+SO-0000914,06-Jul-2025,C-00168,Enterprise,Southeast,Web,Office,Mechanical Keyboard,2,99.83,199.66,0.05,9.98,0,189.68,54.91,109.82,79.86,Paid
+SO-0000915,08-Jul-2025,C-00040,Consumer,Northeast,Web,Home,Desk Lamp,2,43.11,86.22,0.1,8.62,0,77.6,20.69,41.38,36.22,Paid
+SO-0000916,07/11/2025,C-00282,Enterprise, midwest ,Partner,Office,Monitor Stand,2,71.27,142.54,0.05,7.13,0,135.41,34.92,69.84,65.57,Paid
+SO-0000917, 2025-07-24 ,C-00267,Enterprise,Southwest,Partner,Home,Desk Lamp,3,42.88,128.64,0.0,0.0,0,128.64,20.58,61.74,66.9,Refunded
+SO-0000918,07/05/2025,C-00272,Small Business,Northeast,Retail,Home,Coffee Maker,2,98.08,196.16,0.1,19.62,0,176.54,55.91,111.82,64.72,Paid
+SO-0000919,30-Jul-2025,C-00213,Enterprise,Southeast,Web,Apparel,Cotton T-Shirt,4,24.69,98.76,0.05,4.94,0,93.82,9.38,37.52,56.3,Pending
+SO-0000920,2025-07-29,C-00160,Consumer,West,Web,Home,Desk Lamp,4,40.53,162.12,0.0,0.0,0,162.12,19.45,77.8,84.32,Paid
+SO-0000921,07/31/2025,C-00042,Enterprise,Southwest,Retail,Home,Desk Lamp,2,42.38,84.76,0.1,8.48,0,76.28,20.34,40.68,35.6,Paid
+SO-0000922,07/26/2025,C-00185,Small Business,Southwest,Web,Electronics,Smart Speaker,2,114.96,229.92,0.05,11.5,0,218.42,67.83,135.66,82.76,Paid
+SO-0000923,2025-07-25,C-00265,Consumer,Southwest,Retail,Office,Ergonomic Chair,3,263.39,790.17,0.05,39.51,0,750.66,168.57,505.71,244.95,Paid
+SO-0000924,30-Jul-2025,C-00230,Small Business,Midwest,Web,Home,Coffee Maker,4,96.95,387.8,0.1,38.78,0,349.02,55.26,221.04,127.98,Refunded
+SO-0000925,18-Jul-2025,C-00317,Small Business,Southeast,Retail,Electronics,Smart Speaker,2,112.89,225.78,0.1,22.58,0,203.2,66.61,133.22,69.98,Refunded
+SO-0000926,07/11/2025,C-00190,Consumer,West,Web,Electronics,USB-C Dock,3,73.67,221.01,0.05,11.05,0,209.96,38.31,114.93,95.03,Pending
+SO-0000927,07/21/2025,C-00138,Enterprise,West,Web,Electronics,Wireless Headphones,3,88.37,265.11,0.05,13.26,0,251.85,49.49,148.47,103.38,Paid
+SO-0000928,05-Jul-2025,C-00067,Consumer,Southwest,Retail,Apparel,Trail Jacket,4,126.87,507.48,0.15,76.12,0,431.36,64.7,258.8,172.56,Pending
+SO-0000929,05-Jul-2025,C-00293,Small Business,Midwest,Web,Office,Ergonomic Chair,1,288.47,288.47,0.2,57.69,0,230.78,184.62,184.62,46.16,Pending
+SO-0000930,2025/07/15,C-00283,Consumer,Midwest,Web,Electronics,Wireless Headphones,3,85.02,255.06,0.15,38.26,0,216.8,47.61,142.83,73.97,Pending
+SO-0000931,17-Jul-2025,C-00257,Small Business,Southwest,Web,Electronics,Wireless Headphones,4,94.04,376.16,0.0,0.0,0,376.16,52.66,210.64,165.52,Paid
+SO-0000932,07/13/2025,C-00155,Small Business,Northeast,Web,Electronics,USB-C Dock,2,76.92,153.84,0.15,23.08,0,130.76,40.0,80.0,50.76,Pending
+SO-0000933,2025-07-10,C-00079,Consumer,West,Web,Electronics,Smart Speaker,2,122.55,245.1,0.0,0.0,0,245.1,72.3,144.6,100.5,Paid
+SO-0000934,07/05/2025,C-00238,Consumer,Southwest,Web,Electronics,Smart Speaker,3,114.48,343.44,0.1,34.34,0,309.1,67.54,202.62,106.48,Pending
+SO-0000935,2025-07-16,C-00313,Consumer,West,Retail,Electronics,USB-C Dock,2,75.43,150.86,0.0,0.0,0,150.86,39.22,78.44,72.42,Pending
+SO-0000936,07/03/2025,C-00241,Consumer,Midwest,,Office,Ergonomic Chair,1,284.75,284.75,0.05,14.24,0,270.51,182.24,182.24,88.27,Refunded
+SO-0000937,05-Jul-2025,C-00208,Consumer,Southwest,Web,Electronics,Wireless Headphones,2,94.53,189.06,0.1,18.91,0,170.15,52.94,105.88,64.27,Refunded
+SO-0000938,2025-07-04,C-00165,, west ,Web,Electronics,USB-C Dock,3,74.17,222.51,0.0,0.0,0,222.51,38.57,115.71,106.8,Refunded
+SO-0000939,2025-07-21,C-00143,Small Business,West,Web,Electronics,USB-C Dock,2,75.74,151.48,0.1,15.15,0,136.33,39.38,78.76,57.57,Paid
+SO-0000940,2025/07/10,C-00303,Enterprise,Midwest,Partner,Apparel,Everyday Backpack,3,56.85,170.55,0.0,0.0,0,170.55,24.45,73.35,97.2,Refunded
+SO-0000941,30-Jul-2025,C-00017,Small Business,West,Retail,Apparel,Everyday Backpack,3,55.02,165.06,0.2,33.01,0,132.05,23.66,70.98,61.07,Paid
+SO-0000942,17-Jul-2025,C-00216,Enterprise,Southeast,Web,Office,Ergonomic Chair,1,292.13,292.13,0.0,0.0,0,292.13,186.96,186.96,105.17,Paid
+SO-0000943, 2025/07/16 ,C-00019,Consumer,Southeast,Web,Home,Desk Lamp,2,41.83,83.66,0.05,4.18,0,79.48,20.08,40.16,39.32,Refunded
+SO-0000944,2025/07/12,C-00133,Consumer,Northeast,Web,Office,Ergonomic Chair,1,286.47,286.47,0.2,57.29,0,229.18,183.34,183.34,45.84,Paid
+SO-0000945,2025-07-27,C-00314,Small Business, west ,Retail,Home,Desk Lamp,3,41.64,124.92,0.1,12.49,0,112.43,19.99,59.97,52.46,Paid
+SO-0000946,2025-07-28,C-00230,Small Business,Midwest,Retail,Home,Air Purifier,2,165.7,331.4,0.15,49.71,0,281.69,102.73,205.46,76.23,Paid
+SO-0000947, 2025/07/31 ,C-00110,Small Business,Southwest,Partner,Apparel,Everyday Backpack,2,55.69,111.38,0.0,0.0,0,111.38,23.95,47.9,63.48,Pending
+SO-0000948,2025/07/20,C-00101,Small Business,Southeast,Partner,Home,Coffee Maker,2,92.12,184.24,0.0,0.0,0,184.24,52.51,105.02,79.22,Paid
+SO-0000949, 07/08/2025 ,C-00211,Consumer,West,Web,Office,Mechanical Keyboard,2,103.64,207.28,0.0,0.0,0,207.28,57.0,114.0,93.28,Paid
+SO-0000950,2025-07-12,C-00226,Consumer,Midwest,Web,Home,Desk Lamp,3,43.99,131.97,0.05,6.6,0,125.37,21.12,63.36,62.01,Paid
+SO-0000951,2025/08/19,C-00248,Small Business,Midwest,Retail,Apparel,Cotton T-Shirt,3,23.87,71.61,0.0,0.0,0,71.61,9.07,27.21,44.4,Refunded
+SO-0000952,2025-08-15,C-00170,Small Business,Northeast,Web,Office,Monitor Stand,1,67.3,67.3,0.1,6.73,0,60.57,32.98,32.98,27.59,Paid
+SO-0000953,2025-08-05,C-00269,Small Business,Northeast,Retail,Electronics,Smart Speaker,2,114.92,229.84,0.15,34.48,0,195.36,67.8,135.6,59.76,Paid
+SO-0000954,18-Aug-2025,C-00050,Small Business,Midwest,Web,Office,Mechanical Keyboard,1,109.46,109.46,0.0,0.0,0,109.46,60.2,60.2,49.26,Paid
+SO-0000955,2025-08-15,C-00302,Small Business,Southeast,Retail,Office,Monitor Stand,1,67.45,67.45,0.1,6.75,0,60.7,33.05,33.05,27.65,Refunded
+SO-0000956,07-Aug-2025,C-00108,Enterprise,Midwest,Retail,Home,Air Purifier,2,164.13,328.26,0.05,16.41,0,311.85,101.76,203.52,108.33,Paid
+SO-0000957,08/28/2025,C-00319,Consumer,Southwest,Web,Home,Coffee Maker,3,93.05,279.15,0.1,27.91,0,251.24,53.04,159.12,92.12,Pending
+SO-0000958,08/28/2025,C-00160,Consumer,West,Web,Home,Air Purifier,2,166.23,332.46,0.0,0.0,0,332.46,103.06,206.12,126.34,Pending
+SO-0000959,2025-08-02,C-00004,Consumer,West,Web,Apparel,Trail Jacket,1,131.56,131.56,0.0,0.0,0,131.56,67.1,67.1,64.46,Paid
+SO-0000960,2025/08/18,C-00095,Small Business, southwest ,Web,Home,Desk Lamp,1,43.08,43.08,0.05,2.15,0,40.93,20.68,20.68,20.25,Paid
+SO-0000961,31-Aug-2025,C-00066,Enterprise,Midwest,Web,Apparel,Trail Jacket,2,124.29,248.58,0.2,49.72,0,198.86,63.39,126.78,72.08,Paid
+SO-0000962,08/13/2025,C-00047,,Midwest,Retail,Office,Mechanical Keyboard,2,104.72,209.44,0.0,0.0,0,209.44,57.6,115.2,94.24,Pending
+SO-0000963,2025-08-26,C-00283,Consumer,Midwest,Web,Home,Air Purifier,2,153.12,306.24,0.0,0.0,0,306.24,94.93,189.86,116.38,Pending
+SO-0000964,08/27/2025,C-00214,Consumer,Midwest,Web,Electronics,Smart Speaker,2,113.56,227.12,0.0,0.0,0,227.12,67.0,134.0,93.12,Paid
+SO-0000965,08/29/2025,C-00026,Small Business,Southwest,Retail,Electronics,Wireless Headphones,2,87.18,174.36,0.1,17.44,0,156.92,48.82,97.64,59.28,Pending
+SO-0000966,date unavailable,C-00154,Consumer,Northeast,Web,Electronics,Smart Speaker,2,118.02,236.04,0.0,0.0,0,236.04,69.63,139.26,96.78,Paid
+SO-0000967,08/04/2025,C-00297,Enterprise,Northeast,Web,Electronics,Wireless Headphones,1,94.36,94.36,0.0,0.0,0,94.36,52.84,52.84,41.52,Paid
+SO-0000968,29-Aug-2025,C-00068,Small Business,West,Web,Office,Monitor Stand,4,64.85,259.4,0.2,51.88,0,207.52,31.78,127.12,80.4,Refunded
+SO-0000969,2025/08/28,C-00157,Consumer,Midwest,Web,Apparel,Cotton T-Shirt,1,24.31,24.31,0.1,2.43,0,21.88,9.24,9.24,12.64,Paid
+SO-0000970,2025-08-06,C-00150,,Northeast,Retail,Apparel,Cotton T-Shirt,2,24.87,49.74,0.05,2.49,0,47.25,9.45,18.9,28.35,Paid
+SO-0000971,2025/08/29,C-00005,Small Business,Northeast,Partner,Office,Ergonomic Chair,2,293.77,587.54,0.1,58.75,0,528.79,188.01,376.02,152.77,Refunded
+SO-0000972,2025-08-23,C-00314,Small Business,Midwest,Retail,Electronics,Smart Speaker,3,125.94,377.82,0.0,0.0,0,377.82,74.3,222.9,154.92,Paid
+SO-0000973,date unavailable,C-00074,Small Business,Southwest,Web,Electronics,Smart Speaker,2,122.1,244.2,0.0,0.0,0,244.2,72.04,144.08,100.12,Paid
+SO-0000974,2025/08/28,C-00151,Consumer,Southwest,Web,Home,Desk Lamp,3,42.33,126.99,0.05,6.35,0,120.64,20.32,60.96,59.68,Pending
+SO-0000975,08/31/2025,C-00292,Consumer, southwest ,Retail,Apparel,Cotton T-Shirt,2,25.43,50.86,0.0,0.0,0,50.86,9.66,19.32,31.54,Refunded
+SO-0000976,08/20/2025,C-00245,Small Business,Northeast,Web,Electronics,Wireless Headphones,5,93.47,467.35,0.0,0.0,0,467.35,52.34,261.7,205.65,Pending
+SO-0000977,2025/08/17,C-00258,Enterprise,Southeast,Web,Apparel,Cotton T-Shirt,3,25.27,75.81,0.05,3.79,0,72.02,9.6,28.8,43.22,Paid
+SO-0000978,08/19/2025,C-00254,Small Business,West,Partner,Electronics,USB-C Dock,4,75.99,303.96,0.0,0.0,0,303.96,39.51,158.04,145.92,Paid
+SO-0000979,08/12/2025,C-00284,Small Business,Southwest,Retail,Electronics,Smart Speaker,2,122.29,244.58,0.1,24.46,0,220.12,72.15,144.3,75.82,Paid
+SO-0000980,08/24/2025,C-00107,Small Business,Midwest,Web,Office,Monitor Stand,4,67.02,268.08,0.1,26.81,0,241.27,32.84,131.36,109.91,Paid
+SO-0000981,07-Aug-2025,C-00104,Small Business,Midwest,Web,Office,Mechanical Keyboard,2,110.83,221.66,0.05,11.08,0,210.58,60.96,121.92,88.66,Paid
+SO-0000982, 08/18/2025 ,C-00021,Enterprise,Southwest,Partner,Apparel,Everyday Backpack,2,54.58,109.16,0.05,5.46,0,103.7,23.47,46.94,56.76,Paid
+SO-0000983,2025-08-01,C-00079,Consumer,West,Web,Office,Mechanical Keyboard,3,102.42,307.26,0.15,46.09,0,261.17,56.33,168.99,92.18,Paid
+SO-0000984,2025-08-09,C-00300,Enterprise,West,Web,Apparel,Everyday Backpack,2,60.29,120.58,0.1,12.06,0,108.52,25.92,51.84,56.68,Paid
+SO-0000985,2025/08/17,C-00035,Small Business,Northeast,Retail,Office,Ergonomic Chair,3,287.94,863.82,0.05,43.19,0,820.63,184.28,552.84,267.79,Pending
+SO-0000986,08/31/2025,C-00233,Small Business,Southwest,Partner,Office,Monitor Stand,3,64.34,193.02,0.0,0.0,0,193.02,31.53,94.59,98.43,Paid
+SO-0000987,2025-08-26,C-00197,Small Business,West,Retail,Electronics,Smart Speaker,2,125.23,250.46,0.0,0.0,0,250.46,73.89,147.78,102.68,Pending
+SO-0000988,08/22/2025,C-00306,Enterprise,Northeast,Web,Electronics,Smart Speaker,1,121.82,121.82,0.1,12.18,0,109.64,71.87,71.87,37.77,Paid
+SO-0000989,08/03/2025,C-00076,Consumer,Southeast,Web,Office,Mechanical Keyboard,3,99.87,299.61,0.1,29.96,0,269.65,54.93,164.79,104.86,Refunded
+SO-0000990,30-Aug-2025,C-00078,Enterprise,Midwest,Web,Electronics,USB-C Dock,5,73.87,369.35,0.15,55.4,0,313.95,38.41,192.05,121.9,Paid
+SO-0000991,2025-08-22,C-00030,Enterprise,Northeast,Web,Office,Ergonomic Chair,1,262.79,262.79,0.15,39.42,0,223.37,168.19,168.19,55.18,Paid
+SO-0000992,01-Aug-2025,C-00171,Enterprise,Southwest,Web,Home,Air Purifier,2,154.01,308.02,0.2,61.6,0,246.42,95.49,190.98,55.44,Pending
+SO-0000993, 2025/08/30 ,C-00256,Consumer,Southwest,Web,Home,Air Purifier,5,165.36,826.8,0.15,124.02,0,702.78,102.52,512.6,190.18,Paid
+SO-0000994,18-Aug-2025,C-00175,Consumer,Northeast,Web,Apparel,Cotton T-Shirt,3,22.83,68.49,0.0,0.0,0,68.49,8.68,26.04,42.45,Paid
+SO-0000995, 2025-08-27 ,C-00298,Consumer,West,Partner,Home,Air Purifier,3,159.47,478.41,0.05,23.92,0,454.49,98.87,296.61,157.88,Pending
+SO-0000996,2025-08-09,C-00296,Small Business,Southwest,Retail,Office,Ergonomic Chair,3,262.31,786.93,0.2,157.39,0,629.54,167.88,503.64,125.9,Refunded
+SO-0000997,08/26/2025,C-00021,Enterprise,Southwest,Web,Home,Coffee Maker,4,95.07,380.28,0.15,57.04,0,323.24,54.19,216.76,106.48,Pending
+SO-0000998,21-Aug-2025,C-00191,Small Business,Southeast,Web,Electronics,Smart Speaker,1,122.03,122.03,0.1,12.2,0,109.83,72.0,72.0,37.83,Paid
+SO-0000999,2025-08-22,C-00193,Consumer,Midwest,Web,Office,Ergonomic Chair,3,268.17,804.51,0.0,0.0,0,804.51,171.63,514.89,289.62,Paid
+SO-0001000,2025/08/01,C-00182,Small Business,Northeast,Web,Home,Coffee Maker,2,95.17,190.34,0.0,0.0,0,190.34,54.25,108.5,81.84,Paid
+SO-0001001,2025/09/25,C-00268,Consumer,West,Web,Apparel,Cotton T-Shirt,1,22.99,22.99,0.05,1.15,0,21.84,8.74,8.74,13.1,Paid
+SO-0001002,2025/09/23,C-00280,Consumer,West,Web,Office,Ergonomic Chair,2,276.12,552.24,0.15,82.84,0,469.4,176.72,353.44,115.96,Paid
+SO-0001003,2025/09/26,C-00172,Consumer,Southwest,Web,Home,Air Purifier,2,160.89,321.78,0.0,0.0,0,321.78,99.75,199.5,122.28,Refunded
+SO-0001004,2025-09-08,C-00189,Enterprise,Northeast,Retail,Home,Desk Lamp,2,39.97,79.94,0.0,0.0,0,79.94,19.19,38.38,41.56,Refunded
+SO-0001005,09/08/2025,C-00204,Enterprise,West,Web,Office,Monitor Stand,1,66.82,66.82,0.0,0.0,0,66.82,32.74,32.74,34.08,Paid
+SO-0001006,2025-09-22,C-00084,Enterprise,West,Web,Electronics,Wireless Headphones,4,93.94,375.76,0.1,37.58,0,338.18,52.61,210.44,127.74,Paid
+SO-0001007,2025/09/30,C-00245,Small Business,Southeast,Web,Electronics,Wireless Headphones,1,94.59,94.59,0.0,0.0,0,94.59,52.97,52.97,41.62,Paid
+SO-0001008,2025/09/21,C-00228,Enterprise,Southeast,Web,Office,Mechanical Keyboard,2,105.5,211.0,0.15,31.65,0,179.35,58.03,116.06,63.29,Refunded
+SO-0001009,2025-09-24,C-00261,Enterprise,West,Partner,Office,Ergonomic Chair,2,269.16,538.32,0.15,80.75,0,457.57,172.26,344.52,113.05,Refunded
+SO-0001010, 2025-09-18 ,C-00020,Small Business,Southeast,Web,Office,Monitor Stand,1,68.46,68.46,0.0,0.0,0,68.46,33.55,33.55,34.91,Refunded
+SO-0001011,2025/09/22,C-00271,Consumer,Southwest,Web,Electronics,Wireless Headphones,1,93.75,93.75,0.0,0.0,0,93.75,52.5,52.5,41.25,Paid
+SO-0001012,2025/09/17,C-00264,Enterprise,Southwest,Retail,Apparel,Trail Jacket,4,137.83,551.32,0.0,0.0,0,551.32,70.29,281.16,270.16,Paid
+SO-0001013,09/18/2025,C-00168,Enterprise,West,Web,Home,Coffee Maker,1,98.17,98.17,0.0,0.0,0,98.17,55.96,55.96,42.21,Paid
+SO-0001014,2025-09-12,C-00008,Small Business,Northeast,Web,Electronics,Wireless Headphones,1,89.87,89.87,0.0,0.0,0,89.87,50.33,50.33,39.54,Paid
+SO-0001015,09/28/2025,C-00211,Consumer,West,Web,Home,Coffee Maker,2,93.09,186.18,0.1,18.62,0,167.56,53.06,106.12,61.44,Pending
+SO-0001016,2025/09/07,C-00199,Consumer,Southeast,Web,Home,Coffee Maker,3,89.9,269.7,0.1,26.97,0,242.73,51.24,153.72,89.01,Paid
+SO-0001017,18-Sep-2025,C-00300,Enterprise,Midwest,Retail,Home,Air Purifier,3,150.35,451.05,0.0,0.0,0,451.05,93.22,279.66,171.39,Pending
+SO-0001018,08-Sep-2025,C-00127,Consumer,West,Partner,Home,Air Purifier,4,156.07,624.28,0.05,31.21,0,593.07,96.76,387.04,206.03,Paid
+SO-0001019,2025/09/02,C-00084,Enterprise,Southeast,Web,Electronics,USB-C Dock,3,75.29,225.87,0.05,11.29,0,214.58,39.15,117.45,97.13,Pending
+SO-0001020,24-Sep-2025,C-00271,Consumer,Southwest,Web,Apparel,Trail Jacket,2,135.69,271.38,0.0,0.0,0,271.38,69.2,138.4,132.98,Pending
+SO-0001021,2025-09-10,C-00181,Consumer,West,Web,Home,Air Purifier,3,153.9,461.7,0.0,0.0,0,461.7,95.42,286.26,175.44,Paid
+SO-0001022,09/12/2025,C-00263,Small Business,Midwest,Web,Home,Desk Lamp,1,43.93,43.93,0.05,2.2,0,41.73,21.09,21.09,20.64,Paid
+SO-0001023,09/23/2025,C-00172,Consumer,Northeast,Web,Apparel,Cotton T-Shirt,1,23.14,23.14,0.05,1.16,0,21.98,8.79,8.79,13.19,Paid
+SO-0001024,2025/09/05,C-00058,Consumer,West,Web,Office,Ergonomic Chair,1,279.5,279.5,0.1,27.95,0,251.55,178.88,178.88,72.67,Paid
+SO-0001025,2025-09-06,C-00072,Enterprise,,Web,Electronics,Wireless Headphones,3,92.59,277.77,0.0,0.0,0,277.77,51.85,155.55,122.22,Paid
+SO-0001026,2025-09-29,C-00203,Small Business,Southwest,Retail,Apparel,Trail Jacket,3,127.04,381.12,0.05,19.06,0,362.06,64.79,194.37,167.69,Pending
+SO-0001027,2025/09/23,C-00002,Small Business,West,Partner,Office,Mechanical Keyboard,4,105.87,423.48,0.15,63.52,0,359.96,58.23,232.92,127.04,Paid
+SO-0001028,21-Sep-2025,C-00246,Enterprise,Midwest,Web,Home,Desk Lamp,2,43.16,86.32,0.05,4.32,0,82.0,20.72,41.44,40.56,Paid
+SO-0001029,2025/09/14,C-00129,Enterprise,Southwest,Partner,Home,Desk Lamp,2,41.82,83.64,0.0,0.0,0,83.64,20.07,40.14,43.5,Pending
+SO-0001030,2025/09/06,C-00055,Consumer,Northeast,Web,Electronics,USB-C Dock,2,76.0,152.0,0.0,0.0,0,152.0,39.52,79.04,72.96,Refunded
+SO-0001031,2025/09/16,C-00024,Enterprise,West,Retail,Home,Coffee Maker,2,91.56,183.12,0.1,18.31,0,164.81,52.19,104.38,60.43,Paid
+SO-0001032,09/03/2025,C-00240,Enterprise,Southeast,Partner,Office,Monitor Stand,3,64.37,193.11,0.05,9.66,0,183.45,31.54,94.62,88.83,Refunded
+SO-0001033,09/22/2025,C-00043,Consumer,Southeast,Retail,Home,Coffee Maker,4,96.88,387.52,0.0,0.0,0,387.52,55.22,220.88,166.64,Refunded
+SO-0001034,2025/09/26,C-00288,Enterprise,Northeast,Retail,Home,Coffee Maker,2,91.32,182.64,0.15,27.4,0,155.24,52.05,104.1,51.14,Paid
+SO-0001035,2025-09-16,C-00224,Small Business,Northeast,Web,Electronics,Smart Speaker,4,120.09,480.36,0.05,24.02,0,456.34,70.85,283.4,172.94,Paid
+SO-0001036,19-Sep-2025,C-00206,Small Business,Southeast,Web,Home,Air Purifier,3,166.06,498.18,0.0,0.0,0,498.18,102.96,308.88,189.3,Pending
+SO-0001037,2025-09-30,C-00316,Consumer,Midwest,Retail,Electronics,USB-C Dock,1,75.18,75.18,0.0,0.0,0,75.18,39.09,39.09,36.09,Paid
+SO-0001038,2025-09-02,C-00141,Enterprise,Southwest,Partner,Office,Mechanical Keyboard,3,108.32,324.96,0.0,0.0,0,324.96,59.58,178.74,146.22,Pending
+SO-0001039,2025-09-09,C-00249,Enterprise,Northeast,Web,Apparel,Everyday Backpack,2,54.72,109.44,0.05,5.47,0,103.97,23.53,47.06,56.91,Paid
+SO-0001040,2025/09/08,C-00275,Small Business,Southeast,Partner,Home,Air Purifier,1,163.05,163.05,0.0,0.0,0,163.05,101.09,101.09,61.96,Paid
+SO-0001041,09/03/2025,C-00034,Consumer,Northeast,Retail,Home,Desk Lamp,1,43.68,43.68,0.0,0.0,0,43.68,20.97,20.97,22.71,Paid
+SO-0001042,2025/09/02,C-00196,Consumer,Southeast,Web,Home,Coffee Maker,3,89.43,268.29,0.05,13.41,0,254.88,50.98,152.94,101.94,Paid
+SO-0001043,28-Sep-2025,C-00064,Consumer,West,Web,Electronics,Smart Speaker,1,122.15,122.15,0.0,0.0,0,122.15,72.07,72.07,50.08,Paid
+SO-0001044,09/17/2025,C-00138,Enterprise,Southeast,Web,Office,Monitor Stand,3,64.13,192.39,0.0,0.0,0,192.39,31.42,94.26,98.13,Refunded
+SO-0001045,2025-09-04,C-00096,Enterprise,Northeast,Partner,Office,Ergonomic Chair,2,263.13,526.26,0.0,0.0,0,526.26,168.4,336.8,189.46,Refunded
+SO-0001046,09/11/2025,C-00146,Small Business,Northeast,Retail,Home,Coffee Maker,3,98.04,294.12,0.05,14.71,0,279.41,55.88,167.64,111.77,Pending
+SO-0001047,04-Sep-2025,C-00032,Small Business,Southeast,Partner,Electronics,Smart Speaker,2,112.62,225.24,0.0,0.0,0,225.24,66.45,132.9,92.34,Pending
+SO-0001048,09/15/2025,C-00174,Enterprise,Northeast,Web,Home,Desk Lamp,3,41.65,124.95,0.0,0.0,0,124.95,19.99,59.97,64.98,Refunded
+SO-0001049,2025-09-04,C-00145,Consumer,Midwest,Retail,Apparel,Everyday Backpack,1,57.23,57.23,0.1,5.72,0,51.51,24.61,24.61,26.9,Paid
+SO-0001050,2025/09/02,C-00168,Enterprise,Northeast,Web,Electronics,Wireless Headphones,2,95.15,190.3,0.0,0.0,0,190.3,53.28,106.56,83.74,Pending
+SO-0001051,2025-10-23,C-00098,Small Business,West,Retail,Office,Mechanical Keyboard,1,102.79,102.79,0.15,15.42,0,87.37,56.53,56.53,30.84,Paid
+SO-0001052,13-Oct-2025,C-00147,Enterprise,Midwest,Retail,Apparel,Everyday Backpack,2,59.69,119.38,0.2,23.88,0,95.5,25.67,51.34,44.16,Refunded
+SO-0001053,2025-10-09,C-00236,Small Business,West,Retail,Office,Ergonomic Chair,3,275.83,827.49,0.1,82.75,0,744.74,176.53,529.59,215.15,Pending
+SO-0001054,2025/10/14,C-00275,Small Business,Southwest,Retail,Apparel,Everyday Backpack,2,55.35,110.7,0.15,16.61,0,94.09,23.8,47.6,46.49,Paid
+SO-0001055,2025-10-20,C-00243,Enterprise,Southeast,Retail,Apparel,Trail Jacket,2,130.0,260.0,0.1,26.0,1,117.0,66.3,66.3,50.7,Paid
+SO-0001056,19-Oct-2025,C-00257,Small Business,Southeast,Retail,Electronics,Smart Speaker,1,112.86,112.86,0.15,16.93,0,95.93,66.59,66.59,29.34,Refunded
+SO-0001057,2025/10/14,C-00296,Small Business,Northeast,Retail,Electronics,Smart Speaker,2,118.82,237.64,0.0,0.0,0,237.64,70.1,140.2,97.44,Refunded
+SO-0001058,01-Oct-2025,C-00142,Consumer,Midwest,Retail,Office,Mechanical Keyboard,2,99.95,199.9,0.0,0.0,0,199.9,54.97,109.94,89.96,Paid
+SO-0001059,2025/10/13,C-00234,Enterprise,Southeast,Web,Electronics,Wireless Headphones,1,89.99,89.99,0.05,4.5,0,85.49,50.39,50.39,35.1,Paid
+SO-0001060,10/11/2025,C-00240,Enterprise,Southeast,Web,Home,Air Purifier,2,161.82,323.64,0.1,32.36,0,291.28,100.33,200.66,90.62,Pending
+SO-0001061,2025-10-01,C-00080,Small Business,Midwest,Partner,Apparel,Everyday Backpack,2,58.2,116.4,0.0,0.0,0,116.4,25.03,50.06,66.34,Pending
+SO-0001062,10/25/2025,C-00027,Enterprise,Midwest,Partner,Home,Air Purifier,1,154.82,154.82,0.0,0.0,0,154.82,95.99,95.99,58.83,Pending
+SO-0001063,16-Oct-2025,C-00151,Consumer,Northeast,Web,Home,Coffee Maker,2,96.87,193.74,0.05,9.69,0,184.05,55.22,110.44,73.61,Paid
+SO-0001064,2025-10-16,C-00275,Small Business,Northeast,Web,Electronics,USB-C Dock,1,75.91,75.91,0.0,0.0,0,75.91,39.47,39.47,36.44,Paid
+SO-0001065,2025-10-12,C-00120,Enterprise,Midwest,Web,Home,Air Purifier,1,158.35,158.35,0.0,0.0,0,158.35,98.18,98.18,60.17,Refunded
+SO-0001066,2025-10-12,C-00281,Small Business,Northeast,Web,Apparel,Cotton T-Shirt,2,23.03,46.06,0.0,0.0,0,46.06,8.75,17.5,28.56,Paid
+SO-0001067,2025-10-30,C-00135,Enterprise,Southeast,Partner,Office,Mechanical Keyboard,2,108.41,216.82,0.1,21.68,0,195.14,59.63,119.26,75.88,Paid
+SO-0001068,22-Oct-2025,C-00263,Small Business,Midwest,Partner,Home,Air Purifier,2,150.93,301.86,0.15,45.28,0,256.58,93.58,187.16,69.42,Paid
+SO-0001069, 2025-10-02 ,C-00018,Enterprise,Midwest,Retail,Office,Ergonomic Chair,1,292.21,292.21,0.0,0.0,0,292.21,187.01,187.01,105.2,Refunded
+SO-0001070,09-Oct-2025,C-00305,Small Business,Northeast,Retail,Office,Ergonomic Chair,2,264.6,529.2,0.05,26.46,0,502.74,169.34,338.68,164.06,Refunded
+SO-0001071,19-Oct-2025,C-00272,Small Business,,Retail,Office,Ergonomic Chair,1,284.19,284.19,0.1,28.42,0,255.77,181.88,181.88,73.89,Pending
+SO-0001072,10/13/2025,C-00071,Small Business,Southwest,Retail,Office,Ergonomic Chair,3,262.32,786.96,0.1,78.7,0,708.26,167.88,503.64,204.62,Paid
+SO-0001073,10/08/2025,C-00272,Small Business,West,Retail,Home,Desk Lamp,1,44.09,44.09,0.1,4.41,0,39.68,21.16,21.16,18.52,Paid
+SO-0001074,29-Oct-2025,C-00044,Small Business,Northeast,Partner,Apparel,Cotton T-Shirt,1,22.81,22.81,0.1,2.28,0,20.53,8.67,8.67,11.86,Paid
+SO-0001075,2025/10/30,C-00198,Enterprise,West,Retail,Home,Desk Lamp,2,40.38,80.76,0.05,4.04,0,76.72,19.38,38.76,37.96,Pending
+SO-0001076,2025-10-07,C-00126,Enterprise,Midwest,Partner,Office,Mechanical Keyboard,2,110.12,220.24,0.05,11.01,0,209.23,60.57,121.14,88.09,Pending
+SO-0001077, 10/23/2025 ,C-00193,Consumer,Southeast,Web,Apparel,Everyday Backpack,1,55.59,55.59,0.2,11.12,0,44.47,23.9,23.9,20.57,Pending
+SO-0001078,10/04/2025,C-00295,Consumer,Northeast,Web,Electronics,USB-C Dock,1,71.65,71.65,0.0,0.0,0,71.65,37.26,37.26,34.39,Refunded
+SO-0001079,22-Oct-2025,C-00212,Small Business,Northeast,Partner,Apparel,Trail Jacket,1,125.53,125.53,0.05,6.28,0,119.25,64.02,64.02,55.23,Paid
+SO-0001080,04-Oct-2025,C-00093,Enterprise,West,Retail,Electronics,Smart Speaker,1,118.22,118.22,0.0,0.0,0,118.22,69.75,69.75,48.47,Refunded
+SO-0001081,23-Oct-2025,C-00231,Enterprise,Southeast,Web,Apparel,Everyday Backpack,1,56.46,56.46,0.05,2.82,0,53.64,24.28,24.28,29.36,Paid
+SO-0001082,2025-10-04,C-00156,Enterprise,Northeast,Retail,Electronics,Smart Speaker,2,119.83,239.66,0.0,0.0,0,239.66,70.7,141.4,98.26,Paid
+SO-0001083,10/08/2025,C-00119,Small Business,Southwest,Web,Apparel,Trail Jacket,3,134.04,402.12,0.1,40.21,0,361.91,68.36,205.08,156.83,Refunded
+SO-0001084,2025-10-10,C-00137,Small Business,Southwest,Retail,Apparel,Trail Jacket,1,138.43,138.43,0.0,0.0,0,138.43,70.6,70.6,67.83,Refunded
+SO-0001085,2025/10/24,C-00132,Enterprise,Midwest,Web,Electronics,Wireless Headphones,2,87.68,175.36,0.1,17.54,0,157.82,49.1,98.2,59.62,Paid
+SO-0001086,10/13/2025,C-00008,Small Business,Northeast,Retail,Electronics,Wireless Headphones,1,94.88,94.88,0.1,9.49,0,85.39,53.13,53.13,32.26,Refunded
+SO-0001087,27-Oct-2025,C-00021,Enterprise, west ,Retail,Office,Monitor Stand,1,68.41,68.41,0.15,10.26,0,58.15,33.52,33.52,24.63,Pending
+SO-0001088,2025/10/03,C-00169,Consumer,West,Web,Home,Air Purifier,2,157.06,314.12,0.2,62.82,0,251.3,97.38,194.76,56.54,Refunded
+SO-0001089, 10/04/2025 ,C-00263,Small Business,West,Web,Home,Desk Lamp,1,41.63,41.63,0.1,4.16,0,37.47,19.98,19.98,17.49,Paid
+SO-0001090,06-Oct-2025,C-00122,Small Business,West,Web,Electronics,Wireless Headphones,2,91.46,182.92,0.15,27.44,0,155.48,51.22,102.44,53.04,Paid
+SO-0001091,10/06/2025,C-00289,Consumer,Northeast,Web,Office,Monitor Stand,1,67.99,67.99,0.0,0.0,0,67.99,33.32,33.32,34.67,Pending
+SO-0001092,2025-10-05,C-00250,Consumer,Southeast,Web,Electronics,Smart Speaker,1,123.92,123.92,0.0,0.0,0,123.92,73.11,73.11,50.81,Paid
+SO-0001093,30-Oct-2025,C-00033,Enterprise,Midwest,Partner,Apparel,Everyday Backpack,1,57.45,57.45,0.1,5.75,0,51.7,24.7,24.7,27.0,Paid
+SO-0001094,2025-10-23,C-00231,Enterprise,Midwest,Partner,Apparel,Cotton T-Shirt,2,24.81,49.62,0.05,2.48,0,47.14,9.43,18.86,28.28,Paid
+SO-0001095,2025-10-28,C-00320,Small Business,Southwest,Web,Office,Ergonomic Chair,1,268.84,268.84,0.2,53.77,0,215.07,172.06,172.06,43.01,Paid
+SO-0001096,26-Oct-2025,C-00086,Small Business,Southwest,Web,Apparel,Cotton T-Shirt,1,23.96,23.96,0.0,0.0,0,23.96,9.1,9.1,14.86,Paid
+SO-0001097,2025/10/27,C-00300,Enterprise,Midwest,Retail,Apparel,Everyday Backpack,2,59.28,118.56,0.1,11.86,0,106.7,25.49,50.98,55.72,Paid
+SO-0001098, 10/09/2025 ,C-00108,Enterprise,Southwest,Partner,Apparel,Everyday Backpack,3,60.92,182.76,0.0,0.0,0,182.76,26.2,78.6,104.16,Pending
+SO-0001099,02-Oct-2025,C-00047,Small Business,West,Web,Electronics,Wireless Headphones,1,91.8,91.8,0.0,0.0,0,91.8,51.41,51.41,40.39,Pending
+SO-0001100,10-Oct-2025,C-00123,Enterprise,Southwest,Web,Apparel,Everyday Backpack,3,56.43,169.29,0.0,0.0,0,169.29,24.26,72.78,96.51,Paid
+SO-0001101,2025/11/18,C-00044,Small Business,Northeast,Web,Home,Air Purifier,1,161.71,161.71,0.15,24.26,0,137.45,100.26,100.26,37.19,Paid
+SO-0001102,10-Nov-2025,C-00167,Small Business,Southeast,Retail,Home,Air Purifier,1,154.07,154.07,0.1,15.41,0,138.66,95.52,95.52,43.14,Paid
+SO-0001103, 23-Nov-2025 ,C-00094,Consumer,Southeast,Web,Apparel,Cotton T-Shirt,1,24.87,24.87,0.0,0.0,0,24.87,9.45,9.45,15.42,Paid
+SO-0001104,2025/11/18,C-00288,Enterprise,Southeast,Web,Apparel,Trail Jacket,2,133.59,267.18,0.15,40.08,0,227.1,68.13,136.26,90.84,Paid
+SO-0001105,2025-11-10,C-00181,Consumer,Midwest,Web,Apparel,Cotton T-Shirt,1,22.87,22.87,0.15,3.43,0,19.44,8.69,8.69,10.75,Paid
+SO-0001106,2025-11-18,C-00037,Consumer,Midwest,Web,Electronics,USB-C Dock,1,72.88,72.88,0.0,0.0,0,72.88,37.9,37.9,34.98,Refunded
+SO-0001107,11/07/2025,C-00274,Consumer,Northeast,Web,Office,Ergonomic Chair,1,289.02,289.02,0.0,0.0,0,289.02,184.97,184.97,104.05,Refunded
+SO-0001108,30-Nov-2025,C-00297,Enterprise,Southwest,Web,Electronics,Smart Speaker,2,118.93,237.86,0.15,35.68,0,202.18,70.17,140.34,61.84,Refunded
+SO-0001109, 2025-11-22 ,C-00101,Small Business,Southeast,Partner,Apparel,Everyday Backpack,1,59.46,59.46,0.05,2.97,0,56.49,25.57,25.57,30.92,Refunded
+SO-0001110,12-Nov-2025,C-00214,Consumer,West,Web,Home,Desk Lamp,2,44.5,89.0,0.0,0.0,0,89.0,21.36,42.72,46.28,Refunded
+SO-0001111,11/01/2025,C-00171,Enterprise,West,Web,Electronics,Wireless Headphones,1,93.07,93.07,0.0,0.0,0,93.07,52.12,52.12,40.95,Paid
+SO-0001112,26-Nov-2025,C-00196,Consumer,Northeast,Web,Home,Air Purifier,1,158.71,158.71,0.0,0.0,0,158.71,98.4,98.4,60.31,Paid
+SO-0001113,2025/11/15,C-00236,Small Business,Midwest,Web,Apparel,Cotton T-Shirt,1,24.63,24.63,0.05,1.23,0,23.4,9.36,9.36,14.04,Refunded
+SO-0001114, 2025-11-17 ,C-00310,Consumer,Southeast,Retail,Office,Mechanical Keyboard,1,100.48,100.48,0.15,15.07,0,85.41,55.26,55.26,30.15,Paid
+SO-0001115,11/01/2025,C-00217,Consumer,Midwest,Web,Home,Coffee Maker,1,97.04,97.04,0.15,14.56,0,82.48,55.31,55.31,27.17,Paid
+SO-0001116,11/21/2025,C-00211,Consumer,Midwest,Web,Apparel,Everyday Backpack,2,59.16,118.32,0.05,5.92,1,56.2,25.44,25.44,30.76,Paid
+SO-0001117,2025/11/13,C-00280,Consumer,Southeast,Web,Apparel,Everyday Backpack,1,61.36,61.36,0.1,6.14,0,55.22,26.38,26.38,28.84,Refunded
+SO-0001118,2025-11-24,C-00172,Consumer,Southeast,Web,Electronics,Smart Speaker,1,112.92,112.92,0.0,0.0,0,112.92,66.62,66.62,46.3,Refunded
+SO-0001119,11/24/2025,C-00035,Small Business,West,Web,Electronics,Smart Speaker,1,118.4,118.4,0.15,17.76,0,100.64,69.86,69.86,30.78,Paid
+SO-0001120,07-Nov-2025,C-00023,Small Business,Midwest,,Office,Ergonomic Chair,2,267.4,534.8,0.05,26.74,0,508.06,171.14,342.28,165.78,Pending
+SO-0001121, 2025-11-06 ,C-00002,Small Business,Southwest,Web,Home,Air Purifier,1,152.78,152.78,0.1,15.28,0,137.5,94.72,94.72,42.78,Paid
+SO-0001122,2025-11-28,C-00231,Enterprise,West,Partner,Office,Monitor Stand,2,70.74,141.48,0.15,21.22,0,120.26,34.66,69.32,50.94,Pending
+SO-0001123,16-Nov-2025,C-00174,Enterprise,Southwest,Partner,Office,Ergonomic Chair,1,268.76,268.76,0.05,13.44,0,255.32,172.01,172.01,83.31,Paid
+SO-0001124,11/05/2025,C-00176,Small Business,Southeast,Web,Apparel,Trail Jacket,1,138.4,138.4,0.05,6.92,0,131.48,70.58,70.58,60.9,Paid
+SO-0001125,11/21/2025,C-00025,Consumer,West,Web,Apparel,Cotton T-Shirt,1,24.26,24.26,0.2,4.85,0,19.41,9.22,9.22,10.19,Refunded
+SO-0001126,2025/11/20,C-00127,Consumer,Southeast,Web,Electronics,Smart Speaker,2,112.41,224.82,0.0,0.0,0,224.82,66.32,132.64,92.18,Pending
+SO-0001127,11/25/2025,C-00172,Consumer,Northeast,Retail,Electronics,Smart Speaker,1,112.52,112.52,0.05,5.63,0,106.89,66.39,66.39,40.5,Pending
+SO-0001128,01-Nov-2025,C-00029,Small Business,Midwest,Partner,Home,Air Purifier,2,162.22,324.44,0.0,0.0,0,324.44,100.58,201.16,123.28,Pending
+SO-0001129,11/08/2025,C-00091,Consumer,Southeast,Web,Home,Desk Lamp,1,40.47,40.47,0.1,4.05,0,36.42,19.43,19.43,16.99,Pending
+SO-0001130,01-Nov-2025,C-00172,Consumer,Southwest,Retail,Home,Air Purifier,3,155.66,466.98,0.1,46.7,0,420.28,96.51,289.53,130.75,Paid
+SO-0001131,2025-11-09,C-00001,Consumer,Northeast,Web,Electronics,USB-C Dock,1,73.41,73.41,0.0,0.0,0,73.41,38.17,38.17,35.24,Paid
+SO-0001132,01-Nov-2025,C-00156,Enterprise,Southeast,Retail,Office,Mechanical Keyboard,1,109.98,109.98,0.05,5.5,0,104.48,60.49,60.49,43.99,Refunded
+SO-0001133,2025-11-15,C-00240,Enterprise,Southeast,Partner,Office,Monitor Stand,2,67.69,135.38,0.0,0.0,0,135.38,33.17,66.34,69.04,Refunded
+SO-0001134,2025/11/07,C-00169,Consumer,Midwest,Retail,Apparel,Trail Jacket,2,131.19,262.38,0.1,26.24,0,236.14,66.91,133.82,102.32,Paid
+SO-0001135,2025/11/01,C-00295,Consumer,Northeast,Web,Office,Monitor Stand,1,71.05,71.05,0.1,7.11,0,63.94,34.81,34.81,29.13,Paid
+SO-0001136,24-Nov-2025,C-00224,Small Business,Southeast,Partner,Office,Mechanical Keyboard,2,105.01,210.02,0.1,21.0,0,189.02,57.76,115.52,73.5,Refunded
+SO-0001137,11-Nov-2025,C-00006,Enterprise,,Partner,Office,Monitor Stand,3,68.91,206.73,0.0,0.0,0,206.73,33.77,101.31,105.42,Refunded
+SO-0001138,07-Nov-2025,C-00214,Consumer,West,Retail,Apparel,Cotton T-Shirt,1,22.93,22.93,0.15,3.44,0,19.49,8.71,8.71,10.78,Paid
+SO-0001139,2025-11-14,C-00119,Small Business,Southwest,Retail,Office,Mechanical Keyboard,1,100.65,100.65,0.0,0.0,0,100.65,55.36,55.36,45.29,Paid
+SO-0001140,11/23/2025,C-00233,Small Business,West,Web,Electronics,Smart Speaker,2,121.69,243.38,0.0,0.0,0,243.38,71.8,143.6,99.78,Paid
+SO-0001141,2025/11/03,C-00226,Consumer,Southeast,Retail,Office,Mechanical Keyboard,1,109.79,109.79,0.05,5.49,0,104.3,60.38,60.38,43.92,Paid
+SO-0001142, 2025-11-19 ,C-00059,Small Business,Midwest,Web,Apparel,Everyday Backpack,1,58.54,58.54,0.1,5.85,0,52.69,25.17,25.17,27.52,Paid
+SO-0001143,01-Nov-2025,C-00284,Small Business,Southeast,Web,Office,Ergonomic Chair,1,279.14,279.14,0.05,13.96,0,265.18,178.65,178.65,86.53,Pending
+SO-0001144,2025-11-16,C-00106,Consumer,Northeast,Retail,Electronics,Smart Speaker,1,117.32,117.32,0.1,11.73,0,105.59,69.22,69.22,36.37,Paid
+SO-0001145,2025-11-22,C-00118,Consumer,Southeast,Retail,Apparel,Cotton T-Shirt,1,25.2,25.2,0.0,0.0,0,25.2,9.58,9.58,15.62,Refunded
+SO-0001146,2025-11-07,C-00305,Small Business,Northeast,Retail,Apparel,Everyday Backpack,1,59.15,59.15,0.0,0.0,0,59.15,25.43,25.43,33.72,Pending
+SO-0001147,24-Nov-2025,C-00131,Small Business,Southwest,Web,Apparel,Cotton T-Shirt,1,25.38,25.38,0.0,0.0,0,25.38,9.64,9.64,15.74,Paid
+SO-0001148,11/06/2025,C-00080,Small Business,Midwest,Web,Electronics,USB-C Dock,1,74.49,74.49,0.1,7.45,0,67.04,38.73,38.73,28.31,Paid
+SO-0001149,2025-11-27,C-00171,Enterprise,Midwest,Partner,Apparel,Everyday Backpack,1,59.95,59.95,0.1,6.0,0,53.95,25.78,25.78,28.17,Paid
+SO-0001150,2025-11-11,C-00257,Small Business,Northeast,Partner,Office,Mechanical Keyboard,1,100.11,100.11,0.1,10.01,0,90.1,55.06,55.06,35.04,Pending
+SO-0001151,2025-12-12,C-00036,Enterprise,Southwest,Web,Apparel,Trail Jacket,1,124.61,124.61,0.1,12.46,0,112.15,63.55,63.55,48.6,Pending
+SO-0001152,08-Dec-2025,C-00244,Consumer,Southwest,Retail,Apparel,Everyday Backpack,2,56.72,113.44,0.0,0.0,0,113.44,24.39,48.78,64.66,Paid
+SO-0001153,2025/12/30,C-00076,Consumer,Northeast,Retail,Office,Mechanical Keyboard,2,109.17,218.34,0.0,0.0,0,218.34,60.04,120.08,98.26,Refunded
+SO-0001154,2025/12/05,C-00023,Small Business,Midwest,Web,Home,Desk Lamp,1,43.84,43.84,0.0,0.0,0,43.84,21.04,21.04,22.8,Paid
+SO-0001155,2025/12/27,C-00026,Small Business,Southeast,Retail,Home,Coffee Maker,1,88.93,88.93,0.15,13.34,0,75.59,50.69,50.69,24.9,Pending
+SO-0001156,2025/12/05,C-00238,Consumer,Northeast,Partner,Apparel,Cotton T-Shirt,1,23.78,23.78,0.05,1.19,0,22.59,9.04,9.04,13.55,Refunded
+SO-0001157,2025-12-08,C-00292,,Northeast,Partner,Home,Air Purifier,1,154.78,154.78,0.05,7.74,0,147.04,95.96,95.96,51.08,Refunded
+SO-0001158,12/15/2025,C-00247,Consumer,Southeast,Web,Home,Coffee Maker,1,88.89,88.89,0.0,0.0,0,88.89,50.67,50.67,38.22,Pending
+SO-0001159, 27-Dec-2025 ,C-00012,Enterprise,Midwest,Web,Electronics,Smart Speaker,2,115.57,231.14,0.15,34.67,0,196.47,68.19,136.38,60.09,Refunded
+SO-0001160,2025-12-21,C-00023,Small Business,Southeast,Web,Apparel,Everyday Backpack,2,59.18,118.36,0.1,11.84,0,106.52,25.45,50.9,55.62,Refunded
+SO-0001161,26-Dec-2025,C-00106,Consumer,Southwest,Web,Electronics,USB-C Dock,1,76.84,76.84,0.0,0.0,0,76.84,39.96,39.96,36.88,Paid
+SO-0001162,2025-12-28,C-00250,Consumer,West,Retail,Home,Desk Lamp,1,39.51,39.51,0.1,3.95,0,35.56,18.96,18.96,16.6,Refunded
+SO-0001163, 12/03/2025 ,C-00229,Consumer,Southeast,Retail,Apparel,Everyday Backpack,1,57.78,57.78,0.0,0.0,0,57.78,24.85,24.85,32.93,Paid
+SO-0001164,14-Dec-2025,C-00036,Enterprise,Southwest,Web,Office,Ergonomic Chair,1,290.88,290.88,0.05,14.54,0,276.34,186.16,186.16,90.18,Paid
+SO-0001165,2025-12-15,C-00150,Enterprise,West,Web,Office,Ergonomic Chair,2,289.23,578.46,0.0,0.0,0,578.46,185.11,370.22,208.24,Refunded
+SO-0001166,12/09/2025,C-00094,Consumer,West,Partner,Electronics,Wireless Headphones,2,90.7,181.4,0.1,18.14,0,163.26,50.79,101.58,61.68,Refunded
+SO-0001167,12/03/2025,C-00003,Enterprise,Midwest,Web,Office,Ergonomic Chair,2,284.6,569.2,0.0,0.0,0,569.2,182.14,364.28,204.92,Paid
+SO-0001168,date unavailable,C-00072,Enterprise,Southeast,Web,Electronics,USB-C Dock,2,72.3,144.6,0.0,0.0,0,144.6,37.6,75.2,69.4,Paid
+SO-0001169,01-Dec-2025,C-00039,Enterprise,Northeast,Web,Apparel,Cotton T-Shirt,1,25.13,25.13,0.05,1.26,0,23.87,9.55,9.55,14.32,Paid
+SO-0001170,12/27/2025,C-00261,Enterprise,Northeast,Web,Apparel,Trail Jacket,1,138.02,138.02,0.05,6.9,0,131.12,70.39,70.39,60.73,Paid
+SO-0001171,2025/12/02,C-00022,Consumer,Southwest,Web,Office,Monitor Stand,1,68.93,68.93,0.05,3.45,0,65.48,33.78,33.78,31.7,Paid
+SO-0001172,12/24/2025,C-00097,Consumer,West,Web,Office,Ergonomic Chair,1,275.83,275.83,0.1,27.58,0,248.25,176.53,176.53,71.72,Paid
+SO-0001173, 2025-12-12 ,C-00228,Enterprise,West,Web,Home,Desk Lamp,1,41.84,41.84,0.0,0.0,0,41.84,20.08,20.08,21.76,Paid
+SO-0001174,20-Dec-2025,C-00274,Consumer,West,Web,Office,Mechanical Keyboard,1,102.78,102.78,0.1,10.28,0,92.5,56.53,56.53,35.97,Pending
+SO-0001175,2025-12-16,C-00111,Enterprise,Northeast,Web,Electronics,Wireless Headphones,1,86.87,86.87,0.05,4.34,0,82.53,48.65,48.65,33.88,Paid
+SO-0001176,12/07/2025,C-00145,Consumer,West,Web,Electronics,Wireless Headphones,1,88.17,88.17,0.05,4.41,0,83.76,49.38,49.38,34.38,Refunded
+SO-0001177,12/25/2025,C-00053,Small Business,Southeast,Web,Home,Air Purifier,2,150.75,301.5,0.05,15.08,0,286.42,93.47,186.94,99.48,Paid
+SO-0001178,2025/12/02,C-00099,Enterprise,Northeast,Retail,Apparel,Cotton T-Shirt,1,22.96,22.96,0.1,2.3,0,20.66,8.72,8.72,11.94,Paid
+SO-0001179,2025-12-04,C-00043,Consumer,Southeast,Web,Apparel,Cotton T-Shirt,1,23.08,23.08,0.05,1.15,0,21.93,8.77,8.77,13.16,Refunded
+SO-0001180,2025/12/24,C-00291,Enterprise,Southeast,Retail,Apparel,Everyday Backpack,1,58.13,58.13,0.0,0.0,0,58.13,25.0,25.0,33.13,Refunded
+SO-0001181,13-Dec-2025,C-00211,Consumer,Southeast,Retail,Home,Coffee Maker,1,96.69,96.69,0.05,4.83,0,91.86,55.11,55.11,36.75,Paid
+SO-0001182,12/03/2025,C-00227,Small Business,Northeast,Web,Electronics,USB-C Dock,1,75.19,75.19,0.0,0.0,0,75.19,39.1,39.1,36.09,Paid
+SO-0001183, 2025/12/14 ,C-00034,Consumer,Southeast,Web,Office,Mechanical Keyboard,2,103.39,206.78,0.0,0.0,0,206.78,56.86,113.72,93.06,Paid
+SO-0001184,22-Dec-2025,C-00121,Consumer,Midwest,Web,Electronics,USB-C Dock,2,78.82,157.64,0.15,23.65,0,133.99,40.99,81.98,52.01,Refunded
+SO-0001185,2025-12-27,C-00318,Enterprise,,Web,Electronics,USB-C Dock,1,71.75,71.75,0.1,7.18,0,64.57,37.31,37.31,27.26,Paid
+SO-0001186,2025-12-09,C-00253,Consumer,Midwest,Retail,Electronics,USB-C Dock,1,75.09,75.09,0.0,0.0,0,75.09,39.05,39.05,36.04,Paid
+SO-0001187, 12/02/2025 ,C-00153,Enterprise,Southeast,Partner,Home,Coffee Maker,1,98.57,98.57,0.1,9.86,0,88.71,56.18,56.18,32.53,Paid
+SO-0001188,date unavailable,C-00175,Consumer,Southwest,Partner,Office,Mechanical Keyboard,2,111.13,222.26,0.05,11.11,0,211.15,61.12,122.24,88.91,Paid
+SO-0001189,2025/12/29,C-00188,Small Business,Midwest,Partner,Electronics,USB-C Dock,1,76.43,76.43,0.0,0.0,0,76.43,39.74,39.74,36.69,Paid
+SO-0001190,14-Dec-2025,C-00277,Consumer,Northeast,Web,Electronics,Smart Speaker,1,115.8,115.8,0.15,17.37,0,98.43,68.32,68.32,30.11,Paid
+SO-0001191,14-Dec-2025,C-00301,Consumer,Southwest,Web,Apparel,Everyday Backpack,2,61.23,122.46,0.0,0.0,0,122.46,26.33,52.66,69.8,Paid
+SO-0001192, 2025-12-31 ,C-00012,Enterprise,Midwest,Web,Electronics,USB-C Dock,2,76.13,152.26,0.15,22.84,0,129.42,39.59,79.18,50.24,Paid
+SO-0001193,2025/12/19,C-00087,Enterprise,Southeast,Web,Home,Air Purifier,1,164.38,164.38,0.0,0.0,0,164.38,101.92,101.92,62.46,Paid
+SO-0001194,2025/12/22,C-00134,Small Business,Northeast,Partner,Apparel,Trail Jacket,1,134.78,134.78,0.2,26.96,0,107.82,68.74,68.74,39.08,Paid
+SO-0001195,12/01/2025,C-00252,Enterprise,West,Retail,Electronics,USB-C Dock,2,77.27,154.54,0.05,7.73,0,146.81,40.18,80.36,66.45,Paid
+SO-0001196,2025/12/13,C-00135,Enterprise,Northeast,Web,Office,Ergonomic Chair,1,289.55,289.55,0.15,43.43,0,246.12,185.31,185.31,60.81,Paid
+SO-0001197,15-Dec-2025,C-00109,Consumer,Midwest,Web,Electronics,Wireless Headphones,1,92.21,92.21,0.0,0.0,0,92.21,51.64,51.64,40.57,Paid
+SO-0001198,2025-12-11,C-00062,Small Business,Northeast,Partner,Office,Ergonomic Chair,2,280.66,561.32,0.0,0.0,0,561.32,179.62,359.24,202.08,Paid
+SO-0001199,2025-12-08,C-00041,Small Business,Midwest,Partner,Office,Ergonomic Chair,3,280.11,840.33,0.0,0.0,0,840.33,179.27,537.81,302.52,Paid
+SO-0001200,2025/12/12,C-00239,Small Business,Southeast,Retail,Apparel,Cotton T-Shirt,2,24.16,48.32,0.1,4.83,0,43.49,9.18,18.36,25.13,Paid

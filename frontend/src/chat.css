@@ -1,0 +1,28 @@
+.ask-context .panel-head{height:auto;padding:0 0 14px;border:0;gap:8px}
+.ask-context .panel-head .secondary{padding:7px 9px;font-size:10px}
+.ask-context label{margin:0 0 14px}
+.conversation-list{display:grid;gap:7px;margin-top:22px}
+.conversation-list>strong{font-size:10px;text-transform:uppercase;color:#98a3b3;margin-bottom:3px}
+.conversation-list>small{font-size:11px;color:#8a96a7}
+.conversation-list button{display:grid;gap:4px;text-align:left;border:1px solid #e7eaf1;background:white;border-radius:7px;padding:8px;cursor:pointer}
+.conversation-list button.active{border-color:#9cafef;background:#f7f9ff}
+.conversation-list button span{font-size:11px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.conversation-list button small{font-size:10px;color:#8a96a7}
+.chat-history{display:grid;gap:12px;max-height:calc(100vh - 260px);overflow:auto}
+.chat-message{background:white;border:1px solid #e5e8ef;border-radius:12px;padding:16px;min-width:0}
+.chat-message.user{background:#f7f9ff;border-color:#e0e7ff}
+.chat-message>strong{font-size:11px;color:#536176}
+.chat-message>p{font-size:13px;line-height:1.55;white-space:pre-wrap;margin:8px 0}
+.chat-message .analysis-chart{margin-top:8px}
+.chat-message table{margin-top:10px}
+.chat-message .secondary{margin-top:10px}
+.report-list{display:grid;gap:14px}
+.saved-report{padding-bottom:14px}
+.saved-report .panel-head>div:last-child{display:flex;gap:8px}
+.saved-report h3{margin:16px 18px 6px;font-size:12px}
+.report-summary{margin:0 18px 12px;color:#536176;font-size:13px;line-height:1.65;white-space:pre-wrap}
+.saved-report>p:not(.report-summary){margin:12px 18px;color:#69778e;font-size:12px}
+.saved-report>.analysis-chart{margin:8px 18px}
+.saved-report>small{display:block;margin:10px 18px;color:#8a96a7}
+.ask-context>.error{font-size:10px;margin-top:6px}
+@media(max-width:720px){.chat-history{max-height:none}.saved-report .panel-head{height:auto;align-items:flex-start;gap:12px}.saved-report .panel-head>div:last-child{flex-wrap:wrap}}

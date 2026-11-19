@@ -1,0 +1,39 @@
+# Core
+fastapi>=0.115,<1
+uvicorn[standard]>=0.34,<1
+python-multipart>=0.0.20,<1
+python-dotenv>=1.0,<2
+pydantic[email]>=2.10,<3
+pydantic-settings>=2.7,<3
+
+# Database
+sqlalchemy[asyncio]>=2.0.36,<3
+aiosqlite>=0.20,<1
+
+# Auth
+python-jose[cryptography]>=3.3,<4
+passlib[bcrypt]>=1.7,<2
+bcrypt>=4.2,<6
+
+# AI/LLM provider adapters (installed only when provider integration is enabled)
+openai>=1.60,<3
+anthropic>=0.40,<1
+google-generativeai>=0.8,<1
+
+# Analytics
+duckdb>=1.1,<2
+sqlglot>=26,<30
+pandas>=2.2,<3
+
+# Export
+openpyxl==3.1.2
+reportlab==4.0.8
+jinja2==3.1.2
+
+# Utilities
+aiofiles==23.2.1
+python-dateutil==2.8.2
+httpx==0.25.2
+
+# SSE
+sse-starlette==1.8.2

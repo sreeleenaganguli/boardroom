@@ -1,0 +1,67 @@
+{
+  "rows": 15000,
+  "seed": 2026,
+  "columns": [
+    "Order ID",
+    "Order Date",
+    "Customer ID",
+    "Customer Segment",
+    "Region",
+    "Sales Channel",
+    "Product Category",
+    "Product Name",
+    "Units Sold",
+    "Unit Price",
+    "Gross Sales",
+    "Discount Pct",
+    "Discount Amount",
+    "Returned Units",
+    "Net Sales",
+    "Unit Cost",
+    "Total Cost",
+    "Profit",
+    "Payment Status"
+  ],
+  "monthly_net_sales": {
+    "2024-01": 98009.57,
+    "2024-02": 110332.18,
+    "2024-03": 127490.74,
+    "2024-04": 158202.1,
+    "2024-05": 172546.62,
+    "2024-06": 203448.58,
+    "2024-07": 220889.84,
+    "2024-08": 267606.37,
+    "2024-09": 318970.68,
+    "2024-10": 353702.12,
+    "2024-11": 418173.81,
+    "2024-12": 456614.95,
+    "2025-01": 397873.0,
+    "2025-02": 358826.28,
+    "2025-03": 299734.47,
+    "2025-04": 249672.16,
+    "2025-05": 208508.75,
+    "2025-06": 177871.44,
+    "2025-07": 165297.32,
+    "2025-08": 129721.1,
+    "2025-09": 110072.04,
+    "2025-10": 98330.42,
+    "2025-11": 82118.9,
+    "2025-12": 76290.76
+  },
+  "expected_direction": {
+    "growth_period": [
+      "2024-01",
+      "2024-12"
+    ],
+    "contraction_period": [
+      "2025-01",
+      "2025-12"
+    ],
+    "description": "Net sales have a clear upward trend across 2024 and a clear downward trend through 2025, with realistic order-level variation."
+  },
+  "data_quality_notes": [
+    "Order dates use four common formats with a small number of unparseable entries.",
+    "A small fraction of customer segment, region, and channel values are blank or inconsistently cased.",
+    "Orders include discounts, partial returns, variable costs, and occasional pending/refunded payments."
+  ]
+}

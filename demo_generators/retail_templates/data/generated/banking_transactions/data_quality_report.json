@@ -1,0 +1,82 @@
+{
+    "total_records": 10000,
+    "total_columns": 15,
+    "total_null_values": 0,
+    "column_summary": {
+        "transaction_id": {
+            "null_count": 0,
+            "unique_count": 10000,
+            "null_percentage": 0.0
+        },
+        "customer_id": {
+            "null_count": 0,
+            "unique_count": 1964,
+            "null_percentage": 0.0
+        },
+        "account_id": {
+            "null_count": 0,
+            "unique_count": 2625,
+            "null_percentage": 0.0
+        },
+        "account_type": {
+            "null_count": 0,
+            "unique_count": 4,
+            "null_percentage": 0.0
+        },
+        "transaction_date": {
+            "null_count": 0,
+            "unique_count": 9998,
+            "null_percentage": 0.0
+        },
+        "transaction_type": {
+            "null_count": 0,
+            "unique_count": 5,
+            "null_percentage": 0.0
+        },
+        "transaction_channel": {
+            "null_count": 0,
+            "unique_count": 8,
+            "null_percentage": 0.0
+        },
+        "merchant_category": {
+            "null_count": 0,
+            "unique_count": 10,
+            "null_percentage": 0.0
+        },
+        "merchant_name": {
+            "null_count": 0,
+            "unique_count": 34,
+            "null_percentage": 0.0
+        },
+        "transaction_amount": {
+            "null_count": 0,
+            "unique_count": 9642,
+            "null_percentage": 0.0
+        },
+        "transaction_currency": {
+            "null_count": 0,
+            "unique_count": 1,
+            "null_percentage": 0.0
+        },
+        "transaction_status": {
+            "null_count": 0,
+            "unique_count": 3,
+            "null_percentage": 0.0
+        },
+        "account_balance": {
+            "null_count": 0,
+            "unique_count": 9595,
+            "null_percentage": 0.0
+        },
+        "transaction_location": {
+            "null_count": 0,
+            "unique_count": 11,
+            "null_percentage": 0.0
+        },
+        "fraud_flag": {
+            "null_count": 0,
+            "unique_count": 2,
+            "null_percentage": 0.0
+        }
+    }
+}

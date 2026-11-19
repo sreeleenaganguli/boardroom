@@ -1,0 +1,217 @@
+{
+    "dataset_name": "Banking Transactions",
+    "dataset_key": "banking_transactions",
+    "description": "Analyze customer banking activity, transaction patterns, account balances, payment channels, and suspicious transactions.",
+    "record_count": 10000,
+    "column_count": 15,
+    "columns": [
+        {
+            "name": "transaction_id",
+            "data_type": "String",
+            "description": "Unique transaction identifier"
+        },
+        {
+            "name": "customer_id",
+            "data_type": "String",
+            "description": "Synthetic customer identifier"
+        },
+        {
+            "name": "account_id",
+            "data_type": "String",
+            "description": "Bank account identifier"
+        },
+        {
+            "name": "account_type",
+            "data_type": "Category",
+            "description": "Account classification"
+        },
+        {
+            "name": "transaction_date",
+            "data_type": "DateTime",
+            "description": "Transaction timestamp"
+        },
+        {
+            "name": "transaction_type",
+            "data_type": "Category",
+            "description": "Transaction classification"
+        },
+        {
+            "name": "transaction_channel",
+            "data_type": "Category",
+            "description": "Payment channel"
+        },
+        {
+            "name": "merchant_category",
+            "data_type": "Category",
+            "description": "Merchant classification"
+        },
+        {
+            "name": "merchant_name",
+            "data_type": "String",
+            "description": "Synthetic merchant name"
+        },
+        {
+            "name": "transaction_amount",
+            "data_type": "Decimal",
+            "description": "Transaction amount"
+        },
+        {
+            "name": "transaction_currency",
+            "data_type": "Category",
+            "description": "Currency code"
+        },
+        {
+            "name": "transaction_status",
+            "data_type": "Category",
+            "description": "Transaction status"
+        },
+        {
+            "name": "account_balance",
+            "data_type": "Decimal",
+            "description": "Balance after transaction"
+        },
+        {
+            "name": "transaction_location",
+            "data_type": "Category",
+            "description": "Transaction location"
+        },
+        {
+            "name": "fraud_flag",
+            "data_type": "Boolean",
+            "description": "Potential fraud indicator"
+        }
+    ],
+    "date_range": {
+        "start": "2025-01-01",
+        "end": "2025-12-31"
+    },
+    "random_seed": 42,
+    "generation_timestamp": "2026-11-19T21:10:24.600716",
+    "kpis": [
+        "Total Transaction Volume",
+        "Total Transaction Value",
+        "Average Transaction Value",
+        "Transaction Success Rate",
+        "Failed Transaction Rate",
+        "Debit vs Credit Ratio",
+        "Channel-wise Transaction Volume",
+        "Monthly Transaction Growth",
+        "Average Account Balance",
+        "Fraud Detection Rate",
+        "High-Value Transaction Count",
+        "Customer Transaction Frequency"
+    ],
+    "visualizations": [
+        "Monthly transaction volume and value line chart",
+        "Debit vs Credit donut chart",
+        "Transaction channel distribution bar chart",
+        "Transaction status pie chart",
+        "Daily transaction activity heatmap",
+        "Customer transaction volume chart",
+        "Transaction amount histogram",
+        "Fraudulent transaction scatter plot",
+        "Geographical transaction distribution map",
+        "Account balance trend chart"
+    ],
+    "analytical_questions": [
+        "What is the total transaction value?",
+        "Which transaction channels have the highest volume?",
+        "What percentage of transactions are successful?",
+        "Which customers have the highest transaction frequency?",
+        "How does transaction volume vary across weekdays?",
+        "Which merchant categories account for the highest spending?",
+        "Which transactions exhibit suspicious behaviour?",
+        "Are there unusual high-value transactions?",
+        "Which accounts have significant balance fluctuations?",
+        "What is the ratio of debit transactions to credit transactions?",
+        "Which locations contribute the highest transaction volume?"
+    ],
+    "validation": {
+        "valid": true,
+        "total_records": 10000,
+        "total_columns": 15,
+        "validation_errors": 0
+    },
+    "data_quality": {
+        "total_records": 10000,
+        "total_columns": 15,
+        "total_null_values": 0,
+        "column_summary": {
+            "transaction_id": {
+                "null_count": 0,
+                "unique_count": 10000,
+                "null_percentage": 0.0
+            },
+            "customer_id": {
+                "null_count": 0,
+                "unique_count": 1964,
+                "null_percentage": 0.0
+            },
+            "account_id": {
+                "null_count": 0,
+                "unique_count": 2625,
+                "null_percentage": 0.0
+            },
+            "account_type": {
+                "null_count": 0,
+                "unique_count": 4,
+                "null_percentage": 0.0
+            },
+            "transaction_date": {
+                "null_count": 0,
+                "unique_count": 9998,
+                "null_percentage": 0.0
+            },
+            "transaction_type": {
+                "null_count": 0,
+                "unique_count": 5,
+                "null_percentage": 0.0
+            },
+            "transaction_channel": {
+                "null_count": 0,
+                "unique_count": 8,
+                "null_percentage": 0.0
+            },
+            "merchant_category": {
+                "null_count": 0,
+                "unique_count": 10,
+                "null_percentage": 0.0
+            },
+            "merchant_name": {
+                "null_count": 0,
+                "unique_count": 34,
+                "null_percentage": 0.0
+            },
+            "transaction_amount": {
+                "null_count": 0,
+                "unique_count": 9642,
+                "null_percentage": 0.0
+            },
+            "transaction_currency": {
+                "null_count": 0,
+                "unique_count": 1,
+                "null_percentage": 0.0
+            },
+            "transaction_status": {
+                "null_count": 0,
+                "unique_count": 3,
+                "null_percentage": 0.0
+            },
+            "account_balance": {
+                "null_count": 0,
+                "unique_count": 9595,
+                "null_percentage": 0.0
+            },
+            "transaction_location": {
+                "null_count": 0,
+                "unique_count": 11,
+                "null_percentage": 0.0
+            },
+            "fraud_flag": {
+                "null_count": 0,
+                "unique_count": 2,
+                "null_percentage": 0.0
+            }
+        }
+    }
+}

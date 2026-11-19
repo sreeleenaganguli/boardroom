@@ -1,0 +1,10 @@
+.analysis-chart{padding:10px 18px 0}
+.outlier-callouts{padding:8px 18px 16px}
+.outlier-callouts h3{font-size:13px;margin:8px 0 12px}
+.outlier-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(210px,1fr));gap:10px}
+.outlier-card{border:1px solid #f4d6aa;background:#fffbf5;border-radius:8px;padding:12px;display:grid;gap:6px}
+.outlier-card strong{font-size:12px;color:#8a4b08}
+.outlier-card span,.outlier-card small{font-size:11px;color:#78552f}
+.outlier-card small{line-height:1.5}
+.result-panel .panel-head{height:auto;min-height:68px}
+.result-panel .panel-head button{white-space:nowrap}

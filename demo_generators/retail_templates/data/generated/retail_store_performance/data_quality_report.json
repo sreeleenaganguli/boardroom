@@ -1,0 +1,82 @@
+{
+    "total_records": 10000,
+    "total_columns": 15,
+    "total_null_values": 0,
+    "column_summary": {
+        "sales_date": {
+            "null_count": 0,
+            "unique_count": 365,
+            "null_percentage": 0.0
+        },
+        "store_id": {
+            "null_count": 0,
+            "unique_count": 6,
+            "null_percentage": 0.0
+        },
+        "store_name": {
+            "null_count": 0,
+            "unique_count": 6,
+            "null_percentage": 0.0
+        },
+        "city": {
+            "null_count": 0,
+            "unique_count": 6,
+            "null_percentage": 0.0
+        },
+        "region": {
+            "null_count": 0,
+            "unique_count": 3,
+            "null_percentage": 0.0
+        },
+        "store_format": {
+            "null_count": 0,
+            "unique_count": 3,
+            "null_percentage": 0.0
+        },
+        "manager_id": {
+            "null_count": 0,
+            "unique_count": 6,
+            "null_percentage": 0.0
+        },
+        "footfall": {
+            "null_count": 0,
+            "unique_count": 901,
+            "null_percentage": 0.0
+        },
+        "transactions": {
+            "null_count": 0,
+            "unique_count": 330,
+            "null_percentage": 0.0
+        },
+        "units_sold": {
+            "null_count": 0,
+            "unique_count": 643,
+            "null_percentage": 0.0
+        },
+        "gross_sales": {
+            "null_count": 0,
+            "unique_count": 9993,
+            "null_percentage": 0.0
+        },
+        "discount_amount": {
+            "null_count": 0,
+            "unique_count": 9843,
+            "null_percentage": 0.0
+        },
+        "returns_amount": {
+            "null_count": 0,
+            "unique_count": 9503,
+            "null_percentage": 0.0
+        },
+        "net_sales": {
+            "null_count": 0,
+            "unique_count": 9993,
+            "null_percentage": 0.0
+        },
+        "operating_cost": {
+            "null_count": 0,
+            "unique_count": 9929,
+            "null_percentage": 0.0
+        }
+    }
+}
